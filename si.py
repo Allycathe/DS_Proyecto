@@ -13,3 +13,6 @@ print(parques.columns)
 # 3. La red vial
 G = ox.graph_from_place(lugar, network_type="drive")
 nodos, aristas = ox.graph_to_gdfs(G)
+
+
+
