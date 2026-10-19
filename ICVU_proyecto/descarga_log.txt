@@ -1,0 +1,279 @@
+2026-10-19 00:12:42 (1/42) Las Condes
+2026-10-19 00:12:42 [caché] Las Condes
+2026-10-19 00:12:42 (2/42) Vitacura
+2026-10-19 00:12:42 [caché] Vitacura
+2026-10-19 00:12:42 (3/42) Providencia
+2026-10-19 00:12:42 [caché] Providencia
+2026-10-19 00:12:42 (4/42) Ñuñoa
+2026-10-19 00:14:25    ronda 1 · https://overpass-api.de/api falló tras 102s (ConnectTimeout: HTTPSConnectionPool(host='overpass-api.de', port=443): Max retries exceeded with url: /api/interpreter (Caused by ConnectTimeoutError(<HTTPSConnection(host='overpass-api.de', port=443) at 0x28ab4e04a5)
+2026-10-19 00:14:27    ronda 1 · https://overpass.private.coffee/api falló tras 2s (ResponseStatusCodeError: 'overpass.private.coffee' responded: 500 Internal Server Error <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">)
+2026-10-19 00:17:41 [ok] Ñuñoa: 1999 elementos (6 duplicados eliminados), 16.9 km², 298s
+2026-10-19 00:17:46 (5/42) Lo Barnechea
+2026-10-19 00:19:28    ronda 1 · https://overpass-api.de/api falló tras 102s (ConnectTimeout: HTTPSConnectionPool(host='overpass-api.de', port=443): Max retries exceeded with url: /api/interpreter (Caused by ConnectTimeoutError(<HTTPSConnection(host='overpass-api.de', port=443) at 0x28ab49b339)
+2026-10-19 00:19:30    ronda 1 · https://overpass.private.coffee/api falló tras 2s (ResponseStatusCodeError: 'overpass.private.coffee' responded: 500 Internal Server Error <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">)
+2026-10-19 00:19:52 [ok] Lo Barnechea: 693 elementos (3 duplicados eliminados), 1022.3 km², 127s
+2026-10-19 00:19:57 (6/42) La Reina
+2026-10-19 00:20:28 (1/42) Las Condes
+2026-10-19 00:20:28 [caché] Las Condes
+2026-10-19 00:20:28 (2/42) Vitacura
+2026-10-19 00:20:28 [caché] Vitacura
+2026-10-19 00:20:28 (3/42) Providencia
+2026-10-19 00:20:28 [caché] Providencia
+2026-10-19 00:20:29 (4/42) Ñuñoa
+2026-10-19 00:20:29 [caché] Ñuñoa
+2026-10-19 00:20:29 (5/42) Lo Barnechea
+2026-10-19 00:20:29 [caché] Lo Barnechea
+2026-10-19 00:20:29 (6/42) La Reina
+2026-10-19 00:23:38 [ok] La Reina: 1067 elementos (2 duplicados eliminados), 23.6 km², 189s
+2026-10-19 00:23:43 (7/42) Santiago
+2026-10-19 00:24:06 [ok] Santiago: 3823 elementos (18 duplicados eliminados), 23.1 km², 23s
+2026-10-19 00:24:11 (8/42) San Miguel
+2026-10-19 00:25:27 [ok] San Miguel: 999 elementos (0 duplicados eliminados), 9.6 km², 76s
+2026-10-19 00:25:32 (9/42) Huechuraba
+2026-10-19 00:27:45 [ok] Huechuraba: 855 elementos (3 duplicados eliminados), 45.0 km², 133s
+2026-10-19 00:27:50 (10/42) Colina
+2026-10-19 00:30:53 [ok] Colina: 833 elementos (2 duplicados eliminados), 971.1 km², 183s
+2026-10-19 00:30:58 (11/42) Maipú
+2026-10-19 00:33:08 [ok] Maipú: 2775 elementos (11 duplicados eliminados), 137.6 km², 131s
+2026-10-19 00:33:13 (12/42) Peñalolén
+2026-10-19 00:35:42 [ok] Peñalolén: 1406 elementos (2 duplicados eliminados), 53.6 km², 148s
+2026-10-19 00:35:47 (13/42) Independencia
+2026-10-19 00:36:15 [ok] Independencia: 811 elementos (5 duplicados eliminados), 7.3 km², 28s
+2026-10-19 00:36:20 (14/42) La Cisterna
+2026-10-19 00:41:37 [ok] La Cisterna: 891 elementos (2 duplicados eliminados), 10.0 km², 317s
+2026-10-19 00:41:42 (15/42) Recoleta
+2026-10-19 00:42:15 [ok] Recoleta: 1543 elementos (11 duplicados eliminados), 15.9 km², 34s
+2026-10-19 00:42:20 (16/42) Estación Central
+2026-10-19 00:43:15 [ok] Estación Central: 1393 elementos (3 duplicados eliminados), 14.3 km², 55s
+2026-10-19 00:43:20 (17/42) Macul
+2026-10-19 00:48:10 [ok] Macul: 1099 elementos (1 duplicados eliminados), 12.8 km², 290s
+2026-10-19 00:48:15 (18/42) La Florida
+2026-10-19 00:48:46 [ok] La Florida: 2367 elementos (3 duplicados eliminados), 71.0 km², 30s
+2026-10-19 00:48:51 (19/42) Pudahuel
+2026-10-19 00:49:55 [ok] Pudahuel: 1759 elementos (3 duplicados eliminados), 197.5 km², 64s
+2026-10-19 00:50:00 (20/42) Cerrillos
+2026-10-19 00:51:17 [ok] Cerrillos: 1055 elementos (2 duplicados eliminados), 16.9 km², 77s
+2026-10-19 00:51:22 (21/42) Quinta Normal
+2026-10-19 00:53:48 [ok] Quinta Normal: 1025 elementos (1 duplicados eliminados), 11.8 km², 146s
+2026-10-19 00:53:53 (22/42) San Joaquín
+2026-10-19 00:57:14 [ok] San Joaquín: 917 elementos (1 duplicados eliminados), 9.9 km², 201s
+2026-10-19 00:57:19 (23/42) Peñaflor
+2026-10-19 01:00:03 [ok] Peñaflor: 330 elementos (4 duplicados eliminados), 69.0 km², 164s
+2026-10-19 01:00:08 (24/42) Quilicura
+2026-10-19 01:03:22 [ok] Quilicura: 1759 elementos (0 duplicados eliminados), 57.0 km², 194s
+2026-10-19 01:03:27 (25/42) Puente Alto
+2026-10-19 01:05:17 [ok] Puente Alto: 2782 elementos (7 duplicados eliminados), 88.2 km², 110s
+2026-10-19 01:05:22 (26/42) Lampa
+2026-10-19 01:06:40 [ok] Lampa: 697 elementos (0 duplicados eliminados), 451.2 km², 79s
+2026-10-19 01:06:45 (27/42) Renca
+2026-10-19 01:09:03 [ok] Renca: 1070 elementos (2 duplicados eliminados), 23.8 km², 138s
+2026-10-19 01:09:08 (28/42) Buin
+2026-10-19 01:11:09 [ok] Buin: 503 elementos (2 duplicados eliminados), 217.4 km², 120s
+2026-10-19 01:11:14 (29/42) San Bernardo
+2026-10-19 01:11:43 [ok] San Bernardo: 1968 elementos (0 duplicados eliminados), 153.2 km², 30s
+2026-10-19 01:11:48 (30/42) Paine
+2026-10-19 01:12:06 [ok] Paine: 412 elementos (3 duplicados eliminados), 678.2 km², 18s
+2026-10-19 01:12:11 (31/42) Conchalí
+2026-10-19 01:14:28 [ok] Conchalí: 971 elementos (2 duplicados eliminados), 11.0 km², 137s
+2026-10-19 01:14:33 (32/42) Lo Prado
+2026-10-19 01:14:53 [ok] Lo Prado: 727 elementos (2 duplicados eliminados), 6.6 km², 20s
+2026-10-19 01:14:58 (33/42) Padre Hurtado
+2026-10-19 01:16:26 [ok] Padre Hurtado: 437 elementos (3 duplicados eliminados), 81.2 km², 87s
+2026-10-19 01:16:31 (34/42) Pedro Aguirre Cerda
+2026-10-19 01:19:36 [ok] Pedro Aguirre Cerda: 781 elementos (1 duplicados eliminados), 8.7 km², 185s
+2026-10-19 01:19:41 (35/42) La Granja
+2026-10-19 01:20:05 [ok] La Granja: 1092 elementos (1 duplicados eliminados), 10.1 km², 24s
+2026-10-19 01:20:10 (36/42) El Bosque
+2026-10-19 01:22:29 [ok] El Bosque: 1002 elementos (3 duplicados eliminados), 14.3 km², 140s
+2026-10-19 01:22:34 (37/42) La Pintana
+2026-10-19 01:25:51 [ok] La Pintana: 1457 elementos (2 duplicados eliminados), 30.5 km², 197s
+2026-10-19 01:25:56 (38/42) Melipilla
+2026-10-19 01:27:18 [ok] Melipilla: 520 elementos (1 duplicados eliminados), 1343.1 km², 82s
+2026-10-19 01:27:23 (39/42) Lo Espejo
+2026-10-19 01:27:46 [ok] Lo Espejo: 638 elementos (1 duplicados eliminados), 8.2 km², 23s
+2026-10-19 01:27:51 (40/42) San Ramón
+2026-10-19 01:30:02 [ok] San Ramón: 825 elementos (2 duplicados eliminados), 6.3 km², 131s
+2026-10-19 01:30:07 (41/42) Cerro Navia
+2026-10-19 01:30:30 [ok] Cerro Navia: 1012 elementos (2 duplicados eliminados), 11.1 km², 24s
+2026-10-19 01:30:35 (42/42) Talagante
+2026-10-19 01:30:37    [REVISAR] 'Talagante' se geocodificó como 'Provincia de Talagante, Santiago Metropolitan Region, Chile'
+2026-10-19 01:32:57 [ok] Talagante: 1362 elementos (8 duplicados eliminados), 581.1 km², 142s
+2026-10-19 01:32:57 Tiempo total: 72.5 min
+2026-10-19 01:32:57 FIN: 53483 elementos en 42 comunas
+2026-10-19 01:32:58 Guardado: features_comunas.gpkg features_comunas.csv resumen_conteos.csv dataset_comunas.csv
+2026-10-19 01:41:12 (1/42) Las Condes
+2026-10-19 01:41:12 [caché] Las Condes
+2026-10-19 01:41:12 (2/42) Vitacura
+2026-10-19 01:41:12 [caché] Vitacura
+2026-10-19 01:41:12 (3/42) Providencia
+2026-10-19 01:41:12 [caché] Providencia
+2026-10-19 01:41:12 (4/42) Ñuñoa
+2026-10-19 01:41:12 [caché] Ñuñoa
+2026-10-19 01:41:12 (5/42) Lo Barnechea
+2026-10-19 01:41:12 [caché] Lo Barnechea
+2026-10-19 01:41:12 (6/42) La Reina
+2026-10-19 01:41:12 [caché] La Reina
+2026-10-19 01:41:12 (7/42) Santiago
+2026-10-19 01:41:12 [caché] Santiago
+2026-10-19 01:41:12 (8/42) San Miguel
+2026-10-19 01:41:12 [caché] San Miguel
+2026-10-19 01:41:12 (9/42) Huechuraba
+2026-10-19 01:41:12 [caché] Huechuraba
+2026-10-19 01:41:12 (10/42) Colina
+2026-10-19 01:41:12 [caché] Colina
+2026-10-19 01:41:12 (11/42) Maipú
+2026-10-19 01:41:12 [caché] Maipú
+2026-10-19 01:41:12 (12/42) Peñalolén
+2026-10-19 01:41:12 [caché] Peñalolén
+2026-10-19 01:41:12 (13/42) Independencia
+2026-10-19 01:41:12 [caché] Independencia
+2026-10-19 01:41:12 (14/42) La Cisterna
+2026-10-19 01:41:12 [caché] La Cisterna
+2026-10-19 01:41:12 (15/42) Recoleta
+2026-10-19 01:41:12 [caché] Recoleta
+2026-10-19 01:41:12 (16/42) Estación Central
+2026-10-19 01:41:12 [caché] Estación Central
+2026-10-19 01:41:12 (17/42) Macul
+2026-10-19 01:41:12 [caché] Macul
+2026-10-19 01:41:12 (18/42) La Florida
+2026-10-19 01:41:12 [caché] La Florida
+2026-10-19 01:41:12 (19/42) Pudahuel
+2026-10-19 01:41:12 [caché] Pudahuel
+2026-10-19 01:41:12 (20/42) Cerrillos
+2026-10-19 01:41:12 [caché] Cerrillos
+2026-10-19 01:41:12 (21/42) Quinta Normal
+2026-10-19 01:41:12 [caché] Quinta Normal
+2026-10-19 01:41:12 (22/42) San Joaquín
+2026-10-19 01:41:12 [caché] San Joaquín
+2026-10-19 01:41:12 (23/42) Peñaflor
+2026-10-19 01:41:12 [caché] Peñaflor
+2026-10-19 01:41:12 (24/42) Quilicura
+2026-10-19 01:41:12 [caché] Quilicura
+2026-10-19 01:41:12 (25/42) Puente Alto
+2026-10-19 01:41:12 [caché] Puente Alto
+2026-10-19 01:41:12 (26/42) Lampa
+2026-10-19 01:41:12 [caché] Lampa
+2026-10-19 01:41:12 (27/42) Renca
+2026-10-19 01:41:12 [caché] Renca
+2026-10-19 01:41:12 (28/42) Buin
+2026-10-19 01:41:12 [caché] Buin
+2026-10-19 01:41:12 (29/42) San Bernardo
+2026-10-19 01:41:12 [caché] San Bernardo
+2026-10-19 01:41:13 (30/42) Paine
+2026-10-19 01:41:13 [caché] Paine
+2026-10-19 01:41:13 (31/42) Conchalí
+2026-10-19 01:41:13 [caché] Conchalí
+2026-10-19 01:41:13 (32/42) Lo Prado
+2026-10-19 01:41:13 [caché] Lo Prado
+2026-10-19 01:41:13 (33/42) Padre Hurtado
+2026-10-19 01:41:13 [caché] Padre Hurtado
+2026-10-19 01:41:13 (34/42) Pedro Aguirre Cerda
+2026-10-19 01:41:13 [caché] Pedro Aguirre Cerda
+2026-10-19 01:41:13 (35/42) La Granja
+2026-10-19 01:41:13 [caché] La Granja
+2026-10-19 01:41:13 (36/42) El Bosque
+2026-10-19 01:41:13 [caché] El Bosque
+2026-10-19 01:41:13 (37/42) La Pintana
+2026-10-19 01:41:13 [caché] La Pintana
+2026-10-19 01:41:13 (38/42) Melipilla
+2026-10-19 01:41:13 [caché] Melipilla
+2026-10-19 01:41:13 (39/42) Lo Espejo
+2026-10-19 01:41:13 [caché] Lo Espejo
+2026-10-19 01:41:13 (40/42) San Ramón
+2026-10-19 01:41:13 [caché] San Ramón
+2026-10-19 01:41:13 (41/42) Cerro Navia
+2026-10-19 01:41:13 [caché] Cerro Navia
+2026-10-19 01:41:13 (42/42) Talagante
+2026-10-19 01:41:13 [caché] Talagante
+2026-10-19 01:41:13 Tiempo total: 0.0 min
+2026-10-19 01:41:13 FIN: 53483 elementos en 42 comunas
+2026-10-19 01:41:15 Guardado: features_comunas.gpkg features_comunas.csv resumen_conteos.csv dataset_comunas.csv
+2026-10-19 01:45:00 (1/42) Las Condes
+2026-10-19 01:45:00 [caché] Las Condes
+2026-10-19 01:45:00 (2/42) Vitacura
+2026-10-19 01:45:00 [caché] Vitacura
+2026-10-19 01:45:00 (3/42) Providencia
+2026-10-19 01:45:00 [caché] Providencia
+2026-10-19 01:45:00 (4/42) Ñuñoa
+2026-10-19 01:45:00 [caché] Ñuñoa
+2026-10-19 01:45:00 (5/42) Lo Barnechea
+2026-10-19 01:45:00 [caché] Lo Barnechea
+2026-10-19 01:45:00 (6/42) La Reina
+2026-10-19 01:45:00 [caché] La Reina
+2026-10-19 01:45:00 (7/42) Santiago
+2026-10-19 01:45:00 [caché descartada] Santiago: cambió la consulta (Santiago, Región Metropolitana de Santiago, Chile -> Santiago, Provincia de Santiago, Región Metropolitana de Santiago, Chile)
+2026-10-19 01:45:01 [ok] Santiago: 3823 elementos (18 duplicados eliminados), 23.1 km², 1s
+2026-10-19 01:45:01 (8/42) San Miguel
+2026-10-19 01:45:01 [caché] San Miguel
+2026-10-19 01:45:01 (9/42) Huechuraba
+2026-10-19 01:45:01 [caché] Huechuraba
+2026-10-19 01:45:01 (10/42) Colina
+2026-10-19 01:45:01 [caché] Colina
+2026-10-19 01:45:01 (11/42) Maipú
+2026-10-19 01:45:01 [caché] Maipú
+2026-10-19 01:45:01 (12/42) Peñalolén
+2026-10-19 01:45:01 [caché] Peñalolén
+2026-10-19 01:45:01 (13/42) Independencia
+2026-10-19 01:45:01 [caché] Independencia
+2026-10-19 01:45:01 (14/42) La Cisterna
+2026-10-19 01:45:01 [caché] La Cisterna
+2026-10-19 01:45:01 (15/42) Recoleta
+2026-10-19 01:45:01 [caché] Recoleta
+2026-10-19 01:45:01 (16/42) Estación Central
+2026-10-19 01:45:01 [caché] Estación Central
+2026-10-19 01:45:01 (17/42) Macul
+2026-10-19 01:45:01 [caché] Macul
+2026-10-19 01:45:01 (18/42) La Florida
+2026-10-19 01:45:01 [caché] La Florida
+2026-10-19 01:45:01 (19/42) Pudahuel
+2026-10-19 01:45:01 [caché] Pudahuel
+2026-10-19 01:45:01 (20/42) Cerrillos
+2026-10-19 01:45:01 [caché] Cerrillos
+2026-10-19 01:45:01 (21/42) Quinta Normal
+2026-10-19 01:45:01 [caché] Quinta Normal
+2026-10-19 01:45:01 (22/42) San Joaquín
+2026-10-19 01:45:01 [caché] San Joaquín
+2026-10-19 01:45:01 (23/42) Peñaflor
+2026-10-19 01:45:01 [caché] Peñaflor
+2026-10-19 01:45:01 (24/42) Quilicura
+2026-10-19 01:45:01 [caché] Quilicura
+2026-10-19 01:45:01 (25/42) Puente Alto
+2026-10-19 01:45:01 [caché] Puente Alto
+2026-10-19 01:45:01 (26/42) Lampa
+2026-10-19 01:45:01 [caché] Lampa
+2026-10-19 01:45:01 (27/42) Renca
+2026-10-19 01:45:01 [caché] Renca
+2026-10-19 01:45:01 (28/42) Buin
+2026-10-19 01:45:01 [caché] Buin
+2026-10-19 01:45:01 (29/42) San Bernardo
+2026-10-19 01:45:01 [caché] San Bernardo
+2026-10-19 01:45:01 (30/42) Paine
+2026-10-19 01:45:01 [caché] Paine
+2026-10-19 01:45:01 (31/42) Conchalí
+2026-10-19 01:45:01 [caché] Conchalí
+2026-10-19 01:45:01 (32/42) Lo Prado
+2026-10-19 01:45:01 [caché] Lo Prado
+2026-10-19 01:45:01 (33/42) Padre Hurtado
+2026-10-19 01:45:01 [caché] Padre Hurtado
+2026-10-19 01:45:01 (34/42) Pedro Aguirre Cerda
+2026-10-19 01:45:01 [caché] Pedro Aguirre Cerda
+2026-10-19 01:45:01 (35/42) La Granja
+2026-10-19 01:45:01 [caché] La Granja
+2026-10-19 01:45:01 (36/42) El Bosque
+2026-10-19 01:45:01 [caché] El Bosque
+2026-10-19 01:45:01 (37/42) La Pintana
+2026-10-19 01:45:01 [caché] La Pintana
+2026-10-19 01:45:01 (38/42) Melipilla
+2026-10-19 01:45:01 [caché] Melipilla
+2026-10-19 01:45:01 (39/42) Lo Espejo
+2026-10-19 01:45:01 [caché] Lo Espejo
+2026-10-19 01:45:01 (40/42) San Ramón
+2026-10-19 01:45:01 [caché] San Ramón
+2026-10-19 01:45:01 (41/42) Cerro Navia
+2026-10-19 01:45:01 [caché] Cerro Navia
+2026-10-19 01:45:01 (42/42) Talagante
+2026-10-19 01:45:01 [caché descartada] Talagante: cambió la consulta (Talagante, Región Metropolitana de Santiago, Chile -> R1626706)
+2026-10-19 01:45:24 [ok] Talagante: 381 elementos (1 duplicados eliminados), 128.0 km², 23s
+2026-10-19 01:45:24 Tiempo total: 0.4 min
+2026-10-19 01:45:24 FIN: 52502 elementos en 42 comunas
+2026-10-19 01:45:25 Guardado: features_comunas.gpkg features_comunas.csv resumen_conteos.csv dataset_comunas.csv
