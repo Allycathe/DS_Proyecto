@@ -1,0 +1,14 @@
+venv/
+.ipynb_checkpoints/
+.jupyter/
+.jupyter_ystore.db
+logs/
+cache/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Decide según lo anterior:
+# dataset/
+# modelo/
+# *.joblib
