@@ -1882,3 +1882,4 @@
 2026-11-14 04:43:24 Comunas con error (volver a ejecutar esta celda o revisar CONSULTA_ESPECIAL / CENTRO_URBANO): ['Punta Arenas']
 2026-11-14 04:43:24 FIN: 95494 elementos en 98 comunas
 2026-11-14 04:43:35 Guardado: datos_comunas/features_comunas.gpkg datos_comunas/features_comunas.csv datos_comunas/resumen_conteos.csv dataset/raw/dataset_comunas.csv
+2026-11-14 12:12:52 Guardado: datos_comunas/features_comunas.gpkg datos_comunas/features_comunas.csv datos_comunas/resumen_conteos.csv dataset/raw/dataset_comunas.csv
