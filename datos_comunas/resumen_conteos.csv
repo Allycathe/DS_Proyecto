@@ -1,0 +1,3333 @@
+comuna,categoria,tipo,n
+Las Condes,Salud,Hospital,8
+Las Condes,Salud,Clinica,41
+Las Condes,Salud,Centro_salud,4
+Las Condes,Salud,Consultorio,14
+Las Condes,Salud,Farmacia,148
+Las Condes,Recreativo_Cultural,Parque,296
+Las Condes,Recreativo_Cultural,Mall,25
+Las Condes,Recreativo_Cultural,Restaurante,410
+Las Condes,Recreativo_Cultural,Museo,7
+Las Condes,Recreativo_Cultural,Biblioteca,6
+Las Condes,Recreativo_Cultural,Teatro,8
+Las Condes,Seguridad,Bomberos,4
+Las Condes,Seguridad,Comisaria,5
+Las Condes,Educacion,Colegio,116
+Las Condes,Educacion,Jardin_infantil,121
+Las Condes,Educacion,Universidad,17
+Las Condes,Comercio,Supermercado,38
+Las Condes,Comercio,Banco,130
+Las Condes,Comercio,Feria,4
+Las Condes,Comercio,Almacen,227
+Las Condes,Transporte,Metro_estacion,9
+Las Condes,Transporte,Tren_estacion,0
+Las Condes,Transporte,Metro_entrada,36
+Las Condes,Transporte,Paradero_bus,617
+Las Condes,Transporte,Paradero_plataforma,2
+Las Condes,Transporte,Terminal_bus,2
+Las Condes,Negativos,Vertedero,0
+Las Condes,Negativos,Planta_residuos,0
+Las Condes,Negativos,Industrial,12
+Las Condes,Negativos,Fabrica,1
+Las Condes,Negativos,Botilleria,32
+Las Condes,Negativos,Bar_pub,58
+Las Condes,Negativos,Sitio_eriazo,33
+Las Condes,Negativos,Suelo_desnudo,18
+Vitacura,Salud,Hospital,3
+Vitacura,Salud,Clinica,17
+Vitacura,Salud,Centro_salud,2
+Vitacura,Salud,Consultorio,4
+Vitacura,Salud,Farmacia,55
+Vitacura,Recreativo_Cultural,Parque,144
+Vitacura,Recreativo_Cultural,Mall,15
+Vitacura,Recreativo_Cultural,Restaurante,233
+Vitacura,Recreativo_Cultural,Museo,5
+Vitacura,Recreativo_Cultural,Biblioteca,4
+Vitacura,Recreativo_Cultural,Teatro,3
+Vitacura,Seguridad,Bomberos,1
+Vitacura,Seguridad,Comisaria,4
+Vitacura,Educacion,Colegio,40
+Vitacura,Educacion,Jardin_infantil,37
+Vitacura,Educacion,Universidad,5
+Vitacura,Comercio,Supermercado,14
+Vitacura,Comercio,Banco,70
+Vitacura,Comercio,Feria,0
+Vitacura,Comercio,Almacen,63
+Vitacura,Transporte,Metro_estacion,0
+Vitacura,Transporte,Tren_estacion,0
+Vitacura,Transporte,Metro_entrada,0
+Vitacura,Transporte,Paradero_bus,247
+Vitacura,Transporte,Paradero_plataforma,0
+Vitacura,Transporte,Terminal_bus,2
+Vitacura,Negativos,Vertedero,0
+Vitacura,Negativos,Planta_residuos,0
+Vitacura,Negativos,Industrial,4
+Vitacura,Negativos,Fabrica,0
+Vitacura,Negativos,Botilleria,5
+Vitacura,Negativos,Bar_pub,32
+Vitacura,Negativos,Sitio_eriazo,20
+Vitacura,Negativos,Suelo_desnudo,21
+Providencia,Salud,Hospital,14
+Providencia,Salud,Clinica,48
+Providencia,Salud,Centro_salud,6
+Providencia,Salud,Consultorio,24
+Providencia,Salud,Farmacia,155
+Providencia,Recreativo_Cultural,Parque,132
+Providencia,Recreativo_Cultural,Mall,12
+Providencia,Recreativo_Cultural,Restaurante,617
+Providencia,Recreativo_Cultural,Museo,13
+Providencia,Recreativo_Cultural,Biblioteca,17
+Providencia,Recreativo_Cultural,Teatro,26
+Providencia,Seguridad,Bomberos,5
+Providencia,Seguridad,Comisaria,5
+Providencia,Educacion,Colegio,103
+Providencia,Educacion,Jardin_infantil,72
+Providencia,Educacion,Universidad,54
+Providencia,Comercio,Supermercado,42
+Providencia,Comercio,Banco,98
+Providencia,Comercio,Feria,10
+Providencia,Comercio,Almacen,233
+Providencia,Transporte,Metro_estacion,13
+Providencia,Transporte,Tren_estacion,0
+Providencia,Transporte,Metro_entrada,52
+Providencia,Transporte,Paradero_bus,368
+Providencia,Transporte,Paradero_plataforma,4
+Providencia,Transporte,Terminal_bus,0
+Providencia,Negativos,Vertedero,0
+Providencia,Negativos,Planta_residuos,0
+Providencia,Negativos,Industrial,1
+Providencia,Negativos,Fabrica,2
+Providencia,Negativos,Botilleria,41
+Providencia,Negativos,Bar_pub,151
+Providencia,Negativos,Sitio_eriazo,16
+Providencia,Negativos,Suelo_desnudo,7
+Ñuñoa,Salud,Hospital,1
+Ñuñoa,Salud,Clinica,19
+Ñuñoa,Salud,Centro_salud,15
+Ñuñoa,Salud,Consultorio,11
+Ñuñoa,Salud,Farmacia,116
+Ñuñoa,Recreativo_Cultural,Parque,173
+Ñuñoa,Recreativo_Cultural,Mall,5
+Ñuñoa,Recreativo_Cultural,Restaurante,298
+Ñuñoa,Recreativo_Cultural,Museo,10
+Ñuñoa,Recreativo_Cultural,Biblioteca,10
+Ñuñoa,Recreativo_Cultural,Teatro,8
+Ñuñoa,Seguridad,Bomberos,6
+Ñuñoa,Seguridad,Comisaria,8
+Ñuñoa,Educacion,Colegio,163
+Ñuñoa,Educacion,Jardin_infantil,83
+Ñuñoa,Educacion,Universidad,16
+Ñuñoa,Comercio,Supermercado,33
+Ñuñoa,Comercio,Banco,50
+Ñuñoa,Comercio,Feria,4
+Ñuñoa,Comercio,Almacen,187
+Ñuñoa,Transporte,Metro_estacion,15
+Ñuñoa,Transporte,Tren_estacion,0
+Ñuñoa,Transporte,Metro_entrada,37
+Ñuñoa,Transporte,Paradero_bus,574
+Ñuñoa,Transporte,Paradero_plataforma,19
+Ñuñoa,Transporte,Terminal_bus,0
+Ñuñoa,Negativos,Vertedero,0
+Ñuñoa,Negativos,Planta_residuos,0
+Ñuñoa,Negativos,Industrial,10
+Ñuñoa,Negativos,Fabrica,0
+Ñuñoa,Negativos,Botilleria,51
+Ñuñoa,Negativos,Bar_pub,57
+Ñuñoa,Negativos,Sitio_eriazo,15
+Ñuñoa,Negativos,Suelo_desnudo,0
+Lo Barnechea,Salud,Hospital,0
+Lo Barnechea,Salud,Clinica,7
+Lo Barnechea,Salud,Centro_salud,5
+Lo Barnechea,Salud,Consultorio,1
+Lo Barnechea,Salud,Farmacia,26
+Lo Barnechea,Recreativo_Cultural,Parque,130
+Lo Barnechea,Recreativo_Cultural,Mall,10
+Lo Barnechea,Recreativo_Cultural,Restaurante,64
+Lo Barnechea,Recreativo_Cultural,Museo,1
+Lo Barnechea,Recreativo_Cultural,Biblioteca,1
+Lo Barnechea,Recreativo_Cultural,Teatro,2
+Lo Barnechea,Seguridad,Bomberos,2
+Lo Barnechea,Seguridad,Comisaria,2
+Lo Barnechea,Educacion,Colegio,45
+Lo Barnechea,Educacion,Jardin_infantil,17
+Lo Barnechea,Educacion,Universidad,1
+Lo Barnechea,Comercio,Supermercado,12
+Lo Barnechea,Comercio,Banco,29
+Lo Barnechea,Comercio,Feria,0
+Lo Barnechea,Comercio,Almacen,42
+Lo Barnechea,Transporte,Metro_estacion,0
+Lo Barnechea,Transporte,Tren_estacion,1
+Lo Barnechea,Transporte,Metro_entrada,0
+Lo Barnechea,Transporte,Paradero_bus,222
+Lo Barnechea,Transporte,Paradero_plataforma,0
+Lo Barnechea,Transporte,Terminal_bus,0
+Lo Barnechea,Negativos,Vertedero,0
+Lo Barnechea,Negativos,Planta_residuos,0
+Lo Barnechea,Negativos,Industrial,7
+Lo Barnechea,Negativos,Fabrica,0
+Lo Barnechea,Negativos,Botilleria,6
+Lo Barnechea,Negativos,Bar_pub,8
+Lo Barnechea,Negativos,Sitio_eriazo,8
+Lo Barnechea,Negativos,Suelo_desnudo,16
+La Reina,Salud,Hospital,2
+La Reina,Salud,Clinica,11
+La Reina,Salud,Centro_salud,8
+La Reina,Salud,Consultorio,7
+La Reina,Salud,Farmacia,44
+La Reina,Recreativo_Cultural,Parque,142
+La Reina,Recreativo_Cultural,Mall,4
+La Reina,Recreativo_Cultural,Restaurante,90
+La Reina,Recreativo_Cultural,Museo,2
+La Reina,Recreativo_Cultural,Biblioteca,2
+La Reina,Recreativo_Cultural,Teatro,8
+La Reina,Seguridad,Bomberos,2
+La Reina,Seguridad,Comisaria,4
+La Reina,Educacion,Colegio,80
+La Reina,Educacion,Jardin_infantil,41
+La Reina,Educacion,Universidad,1
+La Reina,Comercio,Supermercado,16
+La Reina,Comercio,Banco,24
+La Reina,Comercio,Feria,5
+La Reina,Comercio,Almacen,62
+La Reina,Transporte,Metro_estacion,6
+La Reina,Transporte,Tren_estacion,0
+La Reina,Transporte,Metro_entrada,19
+La Reina,Transporte,Paradero_bus,423
+La Reina,Transporte,Paradero_plataforma,2
+La Reina,Transporte,Terminal_bus,0
+La Reina,Negativos,Vertedero,0
+La Reina,Negativos,Planta_residuos,0
+La Reina,Negativos,Industrial,8
+La Reina,Negativos,Fabrica,3
+La Reina,Negativos,Botilleria,21
+La Reina,Negativos,Bar_pub,14
+La Reina,Negativos,Sitio_eriazo,16
+La Reina,Negativos,Suelo_desnudo,0
+Santiago,Salud,Hospital,8
+Santiago,Salud,Clinica,34
+Santiago,Salud,Centro_salud,10
+Santiago,Salud,Consultorio,15
+Santiago,Salud,Farmacia,220
+Santiago,Recreativo_Cultural,Parque,195
+Santiago,Recreativo_Cultural,Mall,33
+Santiago,Recreativo_Cultural,Restaurante,771
+Santiago,Recreativo_Cultural,Museo,45
+Santiago,Recreativo_Cultural,Biblioteca,42
+Santiago,Recreativo_Cultural,Teatro,35
+Santiago,Seguridad,Bomberos,15
+Santiago,Seguridad,Comisaria,14
+Santiago,Educacion,Colegio,240
+Santiago,Educacion,Jardin_infantil,71
+Santiago,Educacion,Universidad,118
+Santiago,Comercio,Supermercado,76
+Santiago,Comercio,Banco,159
+Santiago,Comercio,Feria,36
+Santiago,Comercio,Almacen,381
+Santiago,Transporte,Metro_estacion,32
+Santiago,Transporte,Tren_estacion,2
+Santiago,Transporte,Metro_entrada,83
+Santiago,Transporte,Paradero_bus,840
+Santiago,Transporte,Paradero_plataforma,35
+Santiago,Transporte,Terminal_bus,2
+Santiago,Negativos,Vertedero,0
+Santiago,Negativos,Planta_residuos,0
+Santiago,Negativos,Industrial,46
+Santiago,Negativos,Fabrica,6
+Santiago,Negativos,Botilleria,123
+Santiago,Negativos,Bar_pub,112
+Santiago,Negativos,Sitio_eriazo,21
+Santiago,Negativos,Suelo_desnudo,6
+San Miguel,Salud,Hospital,4
+San Miguel,Salud,Clinica,10
+San Miguel,Salud,Centro_salud,9
+San Miguel,Salud,Consultorio,3
+San Miguel,Salud,Farmacia,42
+San Miguel,Recreativo_Cultural,Parque,74
+San Miguel,Recreativo_Cultural,Mall,8
+San Miguel,Recreativo_Cultural,Restaurante,85
+San Miguel,Recreativo_Cultural,Museo,0
+San Miguel,Recreativo_Cultural,Biblioteca,3
+San Miguel,Recreativo_Cultural,Teatro,3
+San Miguel,Seguridad,Bomberos,4
+San Miguel,Seguridad,Comisaria,1
+San Miguel,Educacion,Colegio,137
+San Miguel,Educacion,Jardin_infantil,42
+San Miguel,Educacion,Universidad,6
+San Miguel,Comercio,Supermercado,19
+San Miguel,Comercio,Banco,25
+San Miguel,Comercio,Feria,12
+San Miguel,Comercio,Almacen,53
+San Miguel,Transporte,Metro_estacion,8
+San Miguel,Transporte,Tren_estacion,0
+San Miguel,Transporte,Metro_entrada,23
+San Miguel,Transporte,Paradero_bus,358
+San Miguel,Transporte,Paradero_plataforma,2
+San Miguel,Transporte,Terminal_bus,0
+San Miguel,Negativos,Vertedero,0
+San Miguel,Negativos,Planta_residuos,0
+San Miguel,Negativos,Industrial,16
+San Miguel,Negativos,Fabrica,9
+San Miguel,Negativos,Botilleria,30
+San Miguel,Negativos,Bar_pub,11
+San Miguel,Negativos,Sitio_eriazo,2
+San Miguel,Negativos,Suelo_desnudo,0
+Huechuraba,Salud,Hospital,0
+Huechuraba,Salud,Clinica,3
+Huechuraba,Salud,Centro_salud,11
+Huechuraba,Salud,Consultorio,0
+Huechuraba,Salud,Farmacia,25
+Huechuraba,Recreativo_Cultural,Parque,88
+Huechuraba,Recreativo_Cultural,Mall,2
+Huechuraba,Recreativo_Cultural,Restaurante,51
+Huechuraba,Recreativo_Cultural,Museo,1
+Huechuraba,Recreativo_Cultural,Biblioteca,2
+Huechuraba,Recreativo_Cultural,Teatro,5
+Huechuraba,Seguridad,Bomberos,3
+Huechuraba,Seguridad,Comisaria,3
+Huechuraba,Educacion,Colegio,55
+Huechuraba,Educacion,Jardin_infantil,40
+Huechuraba,Educacion,Universidad,2
+Huechuraba,Comercio,Supermercado,11
+Huechuraba,Comercio,Banco,12
+Huechuraba,Comercio,Feria,1
+Huechuraba,Comercio,Almacen,57
+Huechuraba,Transporte,Metro_estacion,2
+Huechuraba,Transporte,Tren_estacion,0
+Huechuraba,Transporte,Metro_entrada,7
+Huechuraba,Transporte,Paradero_bus,344
+Huechuraba,Transporte,Paradero_plataforma,23
+Huechuraba,Transporte,Terminal_bus,3
+Huechuraba,Negativos,Vertedero,2
+Huechuraba,Negativos,Planta_residuos,0
+Huechuraba,Negativos,Industrial,52
+Huechuraba,Negativos,Fabrica,0
+Huechuraba,Negativos,Botilleria,30
+Huechuraba,Negativos,Bar_pub,3
+Huechuraba,Negativos,Sitio_eriazo,4
+Huechuraba,Negativos,Suelo_desnudo,20
+Colina,Salud,Hospital,1
+Colina,Salud,Clinica,4
+Colina,Salud,Centro_salud,5
+Colina,Salud,Consultorio,6
+Colina,Salud,Farmacia,23
+Colina,Recreativo_Cultural,Parque,152
+Colina,Recreativo_Cultural,Mall,4
+Colina,Recreativo_Cultural,Restaurante,38
+Colina,Recreativo_Cultural,Museo,1
+Colina,Recreativo_Cultural,Biblioteca,1
+Colina,Recreativo_Cultural,Teatro,1
+Colina,Seguridad,Bomberos,4
+Colina,Seguridad,Comisaria,5
+Colina,Educacion,Colegio,73
+Colina,Educacion,Jardin_infantil,31
+Colina,Educacion,Universidad,1
+Colina,Comercio,Supermercado,13
+Colina,Comercio,Banco,13
+Colina,Comercio,Feria,0
+Colina,Comercio,Almacen,33
+Colina,Transporte,Metro_estacion,0
+Colina,Transporte,Tren_estacion,0
+Colina,Transporte,Metro_entrada,0
+Colina,Transporte,Paradero_bus,137
+Colina,Transporte,Paradero_plataforma,4
+Colina,Transporte,Terminal_bus,0
+Colina,Negativos,Vertedero,2
+Colina,Negativos,Planta_residuos,0
+Colina,Negativos,Industrial,32
+Colina,Negativos,Fabrica,1
+Colina,Negativos,Botilleria,5
+Colina,Negativos,Bar_pub,3
+Colina,Negativos,Sitio_eriazo,11
+Colina,Negativos,Suelo_desnudo,0
+Maipú,Salud,Hospital,4
+Maipú,Salud,Clinica,18
+Maipú,Salud,Centro_salud,22
+Maipú,Salud,Consultorio,9
+Maipú,Salud,Farmacia,61
+Maipú,Recreativo_Cultural,Parque,612
+Maipú,Recreativo_Cultural,Mall,12
+Maipú,Recreativo_Cultural,Restaurante,163
+Maipú,Recreativo_Cultural,Museo,3
+Maipú,Recreativo_Cultural,Biblioteca,4
+Maipú,Recreativo_Cultural,Teatro,1
+Maipú,Seguridad,Bomberos,7
+Maipú,Seguridad,Comisaria,7
+Maipú,Educacion,Colegio,280
+Maipú,Educacion,Jardin_infantil,88
+Maipú,Educacion,Universidad,6
+Maipú,Comercio,Supermercado,53
+Maipú,Comercio,Banco,24
+Maipú,Comercio,Feria,5
+Maipú,Comercio,Almacen,143
+Maipú,Transporte,Metro_estacion,5
+Maipú,Transporte,Tren_estacion,0
+Maipú,Transporte,Metro_entrada,8
+Maipú,Transporte,Paradero_bus,1034
+Maipú,Transporte,Paradero_plataforma,2
+Maipú,Transporte,Terminal_bus,1
+Maipú,Negativos,Vertedero,1
+Maipú,Negativos,Planta_residuos,0
+Maipú,Negativos,Industrial,96
+Maipú,Negativos,Fabrica,16
+Maipú,Negativos,Botilleria,52
+Maipú,Negativos,Bar_pub,7
+Maipú,Negativos,Sitio_eriazo,31
+Maipú,Negativos,Suelo_desnudo,0
+Peñalolén,Salud,Hospital,2
+Peñalolén,Salud,Clinica,7
+Peñalolén,Salud,Centro_salud,17
+Peñalolén,Salud,Consultorio,4
+Peñalolén,Salud,Farmacia,29
+Peñalolén,Recreativo_Cultural,Parque,261
+Peñalolén,Recreativo_Cultural,Mall,4
+Peñalolén,Recreativo_Cultural,Restaurante,47
+Peñalolén,Recreativo_Cultural,Museo,3
+Peñalolén,Recreativo_Cultural,Biblioteca,2
+Peñalolén,Recreativo_Cultural,Teatro,5
+Peñalolén,Seguridad,Bomberos,2
+Peñalolén,Seguridad,Comisaria,6
+Peñalolén,Educacion,Colegio,136
+Peñalolén,Educacion,Jardin_infantil,58
+Peñalolén,Educacion,Universidad,5
+Peñalolén,Comercio,Supermercado,27
+Peñalolén,Comercio,Banco,14
+Peñalolén,Comercio,Feria,3
+Peñalolén,Comercio,Almacen,69
+Peñalolén,Transporte,Metro_estacion,6
+Peñalolén,Transporte,Tren_estacion,0
+Peñalolén,Transporte,Metro_entrada,20
+Peñalolén,Transporte,Paradero_bus,604
+Peñalolén,Transporte,Paradero_plataforma,5
+Peñalolén,Transporte,Terminal_bus,0
+Peñalolén,Negativos,Vertedero,0
+Peñalolén,Negativos,Planta_residuos,0
+Peñalolén,Negativos,Industrial,16
+Peñalolén,Negativos,Fabrica,0
+Peñalolén,Negativos,Botilleria,40
+Peñalolén,Negativos,Bar_pub,3
+Peñalolén,Negativos,Sitio_eriazo,13
+Peñalolén,Negativos,Suelo_desnudo,1
+Independencia,Salud,Hospital,6
+Independencia,Salud,Clinica,12
+Independencia,Salud,Centro_salud,6
+Independencia,Salud,Consultorio,7
+Independencia,Salud,Farmacia,38
+Independencia,Recreativo_Cultural,Parque,57
+Independencia,Recreativo_Cultural,Mall,8
+Independencia,Recreativo_Cultural,Restaurante,76
+Independencia,Recreativo_Cultural,Museo,5
+Independencia,Recreativo_Cultural,Biblioteca,6
+Independencia,Recreativo_Cultural,Teatro,2
+Independencia,Seguridad,Bomberos,5
+Independencia,Seguridad,Comisaria,9
+Independencia,Educacion,Colegio,82
+Independencia,Educacion,Jardin_infantil,20
+Independencia,Educacion,Universidad,6
+Independencia,Comercio,Supermercado,20
+Independencia,Comercio,Banco,20
+Independencia,Comercio,Feria,6
+Independencia,Comercio,Almacen,46
+Independencia,Transporte,Metro_estacion,5
+Independencia,Transporte,Tren_estacion,0
+Independencia,Transporte,Metro_entrada,10
+Independencia,Transporte,Paradero_bus,284
+Independencia,Transporte,Paradero_plataforma,4
+Independencia,Transporte,Terminal_bus,0
+Independencia,Negativos,Vertedero,0
+Independencia,Negativos,Planta_residuos,0
+Independencia,Negativos,Industrial,20
+Independencia,Negativos,Fabrica,15
+Independencia,Negativos,Botilleria,25
+Independencia,Negativos,Bar_pub,9
+Independencia,Negativos,Sitio_eriazo,2
+Independencia,Negativos,Suelo_desnudo,0
+La Cisterna,Salud,Hospital,0
+La Cisterna,Salud,Clinica,11
+La Cisterna,Salud,Centro_salud,6
+La Cisterna,Salud,Consultorio,2
+La Cisterna,Salud,Farmacia,36
+La Cisterna,Recreativo_Cultural,Parque,60
+La Cisterna,Recreativo_Cultural,Mall,4
+La Cisterna,Recreativo_Cultural,Restaurante,64
+La Cisterna,Recreativo_Cultural,Museo,1
+La Cisterna,Recreativo_Cultural,Biblioteca,1
+La Cisterna,Recreativo_Cultural,Teatro,2
+La Cisterna,Seguridad,Bomberos,4
+La Cisterna,Seguridad,Comisaria,3
+La Cisterna,Educacion,Colegio,120
+La Cisterna,Educacion,Jardin_infantil,33
+La Cisterna,Educacion,Universidad,1
+La Cisterna,Comercio,Supermercado,12
+La Cisterna,Comercio,Banco,9
+La Cisterna,Comercio,Feria,4
+La Cisterna,Comercio,Almacen,41
+La Cisterna,Transporte,Metro_estacion,4
+La Cisterna,Transporte,Tren_estacion,0
+La Cisterna,Transporte,Metro_entrada,12
+La Cisterna,Transporte,Paradero_bus,395
+La Cisterna,Transporte,Paradero_plataforma,6
+La Cisterna,Transporte,Terminal_bus,0
+La Cisterna,Negativos,Vertedero,0
+La Cisterna,Negativos,Planta_residuos,0
+La Cisterna,Negativos,Industrial,7
+La Cisterna,Negativos,Fabrica,5
+La Cisterna,Negativos,Botilleria,36
+La Cisterna,Negativos,Bar_pub,8
+La Cisterna,Negativos,Sitio_eriazo,4
+La Cisterna,Negativos,Suelo_desnudo,0
+Recoleta,Salud,Hospital,6
+Recoleta,Salud,Clinica,11
+Recoleta,Salud,Centro_salud,13
+Recoleta,Salud,Consultorio,6
+Recoleta,Salud,Farmacia,64
+Recoleta,Recreativo_Cultural,Parque,85
+Recoleta,Recreativo_Cultural,Mall,12
+Recoleta,Recreativo_Cultural,Restaurante,245
+Recoleta,Recreativo_Cultural,Museo,16
+Recoleta,Recreativo_Cultural,Biblioteca,16
+Recoleta,Recreativo_Cultural,Teatro,23
+Recoleta,Seguridad,Bomberos,8
+Recoleta,Seguridad,Comisaria,12
+Recoleta,Educacion,Colegio,118
+Recoleta,Educacion,Jardin_infantil,39
+Recoleta,Educacion,Universidad,14
+Recoleta,Comercio,Supermercado,32
+Recoleta,Comercio,Banco,27
+Recoleta,Comercio,Feria,6
+Recoleta,Comercio,Almacen,85
+Recoleta,Transporte,Metro_estacion,12
+Recoleta,Transporte,Tren_estacion,0
+Recoleta,Transporte,Metro_entrada,29
+Recoleta,Transporte,Paradero_bus,512
+Recoleta,Transporte,Paradero_plataforma,4
+Recoleta,Transporte,Terminal_bus,1
+Recoleta,Negativos,Vertedero,0
+Recoleta,Negativos,Planta_residuos,0
+Recoleta,Negativos,Industrial,14
+Recoleta,Negativos,Fabrica,0
+Recoleta,Negativos,Botilleria,48
+Recoleta,Negativos,Bar_pub,67
+Recoleta,Negativos,Sitio_eriazo,7
+Recoleta,Negativos,Suelo_desnudo,8
+Estación Central,Salud,Hospital,5
+Estación Central,Salud,Clinica,7
+Estación Central,Salud,Centro_salud,12
+Estación Central,Salud,Consultorio,4
+Estación Central,Salud,Farmacia,40
+Estación Central,Recreativo_Cultural,Parque,144
+Estación Central,Recreativo_Cultural,Mall,10
+Estación Central,Recreativo_Cultural,Restaurante,99
+Estación Central,Recreativo_Cultural,Museo,12
+Estación Central,Recreativo_Cultural,Biblioteca,8
+Estación Central,Recreativo_Cultural,Teatro,2
+Estación Central,Seguridad,Bomberos,2
+Estación Central,Seguridad,Comisaria,6
+Estación Central,Educacion,Colegio,120
+Estación Central,Educacion,Jardin_infantil,51
+Estación Central,Educacion,Universidad,6
+Estación Central,Comercio,Supermercado,18
+Estación Central,Comercio,Banco,23
+Estación Central,Comercio,Feria,9
+Estación Central,Comercio,Almacen,97
+Estación Central,Transporte,Metro_estacion,9
+Estación Central,Transporte,Tren_estacion,2
+Estación Central,Transporte,Metro_entrada,32
+Estación Central,Transporte,Paradero_bus,536
+Estación Central,Transporte,Paradero_plataforma,12
+Estación Central,Transporte,Terminal_bus,4
+Estación Central,Negativos,Vertedero,0
+Estación Central,Negativos,Planta_residuos,1
+Estación Central,Negativos,Industrial,58
+Estación Central,Negativos,Fabrica,5
+Estación Central,Negativos,Botilleria,37
+Estación Central,Negativos,Bar_pub,12
+Estación Central,Negativos,Sitio_eriazo,12
+Estación Central,Negativos,Suelo_desnudo,0
+Macul,Salud,Hospital,2
+Macul,Salud,Clinica,7
+Macul,Salud,Centro_salud,12
+Macul,Salud,Consultorio,2
+Macul,Salud,Farmacia,20
+Macul,Recreativo_Cultural,Parque,145
+Macul,Recreativo_Cultural,Mall,3
+Macul,Recreativo_Cultural,Restaurante,58
+Macul,Recreativo_Cultural,Museo,4
+Macul,Recreativo_Cultural,Biblioteca,5
+Macul,Recreativo_Cultural,Teatro,2
+Macul,Seguridad,Bomberos,1
+Macul,Seguridad,Comisaria,6
+Macul,Educacion,Colegio,90
+Macul,Educacion,Jardin_infantil,46
+Macul,Educacion,Universidad,8
+Macul,Comercio,Supermercado,20
+Macul,Comercio,Banco,20
+Macul,Comercio,Feria,4
+Macul,Comercio,Almacen,34
+Macul,Transporte,Metro_estacion,10
+Macul,Transporte,Tren_estacion,0
+Macul,Transporte,Metro_entrada,26
+Macul,Transporte,Paradero_bus,477
+Macul,Transporte,Paradero_plataforma,16
+Macul,Transporte,Terminal_bus,0
+Macul,Negativos,Vertedero,0
+Macul,Negativos,Planta_residuos,0
+Macul,Negativos,Industrial,24
+Macul,Negativos,Fabrica,1
+Macul,Negativos,Botilleria,37
+Macul,Negativos,Bar_pub,4
+Macul,Negativos,Sitio_eriazo,13
+Macul,Negativos,Suelo_desnudo,0
+La Florida,Salud,Hospital,3
+La Florida,Salud,Clinica,17
+La Florida,Salud,Centro_salud,17
+La Florida,Salud,Consultorio,9
+La Florida,Salud,Farmacia,76
+La Florida,Recreativo_Cultural,Parque,356
+La Florida,Recreativo_Cultural,Mall,10
+La Florida,Recreativo_Cultural,Restaurante,127
+La Florida,Recreativo_Cultural,Museo,3
+La Florida,Recreativo_Cultural,Biblioteca,3
+La Florida,Recreativo_Cultural,Teatro,3
+La Florida,Seguridad,Bomberos,5
+La Florida,Seguridad,Comisaria,7
+La Florida,Educacion,Colegio,262
+La Florida,Educacion,Jardin_infantil,82
+La Florida,Educacion,Universidad,3
+La Florida,Comercio,Supermercado,34
+La Florida,Comercio,Banco,27
+La Florida,Comercio,Feria,4
+La Florida,Comercio,Almacen,178
+La Florida,Transporte,Metro_estacion,12
+La Florida,Transporte,Tren_estacion,0
+La Florida,Transporte,Metro_entrada,26
+La Florida,Transporte,Paradero_bus,948
+La Florida,Transporte,Paradero_plataforma,22
+La Florida,Transporte,Terminal_bus,0
+La Florida,Negativos,Vertedero,0
+La Florida,Negativos,Planta_residuos,1
+La Florida,Negativos,Industrial,27
+La Florida,Negativos,Fabrica,0
+La Florida,Negativos,Botilleria,72
+La Florida,Negativos,Bar_pub,15
+La Florida,Negativos,Sitio_eriazo,17
+La Florida,Negativos,Suelo_desnudo,1
+Pudahuel,Salud,Hospital,1
+Pudahuel,Salud,Clinica,8
+Pudahuel,Salud,Centro_salud,20
+Pudahuel,Salud,Consultorio,6
+Pudahuel,Salud,Farmacia,37
+Pudahuel,Recreativo_Cultural,Parque,227
+Pudahuel,Recreativo_Cultural,Mall,6
+Pudahuel,Recreativo_Cultural,Restaurante,90
+Pudahuel,Recreativo_Cultural,Museo,1
+Pudahuel,Recreativo_Cultural,Biblioteca,1
+Pudahuel,Recreativo_Cultural,Teatro,5
+Pudahuel,Seguridad,Bomberos,9
+Pudahuel,Seguridad,Comisaria,9
+Pudahuel,Educacion,Colegio,111
+Pudahuel,Educacion,Jardin_infantil,33
+Pudahuel,Educacion,Universidad,2
+Pudahuel,Comercio,Supermercado,22
+Pudahuel,Comercio,Banco,7
+Pudahuel,Comercio,Feria,3
+Pudahuel,Comercio,Almacen,88
+Pudahuel,Transporte,Metro_estacion,3
+Pudahuel,Transporte,Tren_estacion,0
+Pudahuel,Transporte,Metro_entrada,4
+Pudahuel,Transporte,Paradero_bus,676
+Pudahuel,Transporte,Paradero_plataforma,6
+Pudahuel,Transporte,Terminal_bus,3
+Pudahuel,Negativos,Vertedero,5
+Pudahuel,Negativos,Planta_residuos,0
+Pudahuel,Negativos,Industrial,252
+Pudahuel,Negativos,Fabrica,38
+Pudahuel,Negativos,Botilleria,40
+Pudahuel,Negativos,Bar_pub,15
+Pudahuel,Negativos,Sitio_eriazo,31
+Pudahuel,Negativos,Suelo_desnudo,1
+Cerrillos,Salud,Hospital,0
+Cerrillos,Salud,Clinica,3
+Cerrillos,Salud,Centro_salud,10
+Cerrillos,Salud,Consultorio,4
+Cerrillos,Salud,Farmacia,15
+Cerrillos,Recreativo_Cultural,Parque,124
+Cerrillos,Recreativo_Cultural,Mall,1
+Cerrillos,Recreativo_Cultural,Restaurante,28
+Cerrillos,Recreativo_Cultural,Museo,3
+Cerrillos,Recreativo_Cultural,Biblioteca,2
+Cerrillos,Recreativo_Cultural,Teatro,1
+Cerrillos,Seguridad,Bomberos,2
+Cerrillos,Seguridad,Comisaria,6
+Cerrillos,Educacion,Colegio,76
+Cerrillos,Educacion,Jardin_infantil,44
+Cerrillos,Educacion,Universidad,2
+Cerrillos,Comercio,Supermercado,11
+Cerrillos,Comercio,Banco,12
+Cerrillos,Comercio,Feria,8
+Cerrillos,Comercio,Almacen,58
+Cerrillos,Transporte,Metro_estacion,2
+Cerrillos,Transporte,Tren_estacion,1
+Cerrillos,Transporte,Metro_entrada,2
+Cerrillos,Transporte,Paradero_bus,510
+Cerrillos,Transporte,Paradero_plataforma,1
+Cerrillos,Transporte,Terminal_bus,0
+Cerrillos,Negativos,Vertedero,0
+Cerrillos,Negativos,Planta_residuos,1
+Cerrillos,Negativos,Industrial,76
+Cerrillos,Negativos,Fabrica,18
+Cerrillos,Negativos,Botilleria,9
+Cerrillos,Negativos,Bar_pub,3
+Cerrillos,Negativos,Sitio_eriazo,21
+Cerrillos,Negativos,Suelo_desnudo,0
+Quinta Normal,Salud,Hospital,1
+Quinta Normal,Salud,Clinica,1
+Quinta Normal,Salud,Centro_salud,16
+Quinta Normal,Salud,Consultorio,3
+Quinta Normal,Salud,Farmacia,25
+Quinta Normal,Recreativo_Cultural,Parque,65
+Quinta Normal,Recreativo_Cultural,Mall,0
+Quinta Normal,Recreativo_Cultural,Restaurante,63
+Quinta Normal,Recreativo_Cultural,Museo,9
+Quinta Normal,Recreativo_Cultural,Biblioteca,2
+Quinta Normal,Recreativo_Cultural,Teatro,1
+Quinta Normal,Seguridad,Bomberos,6
+Quinta Normal,Seguridad,Comisaria,8
+Quinta Normal,Educacion,Colegio,130
+Quinta Normal,Educacion,Jardin_infantil,40
+Quinta Normal,Educacion,Universidad,3
+Quinta Normal,Comercio,Supermercado,19
+Quinta Normal,Comercio,Banco,10
+Quinta Normal,Comercio,Feria,3
+Quinta Normal,Comercio,Almacen,62
+Quinta Normal,Transporte,Metro_estacion,3
+Quinta Normal,Transporte,Tren_estacion,0
+Quinta Normal,Transporte,Metro_entrada,7
+Quinta Normal,Transporte,Paradero_bus,458
+Quinta Normal,Transporte,Paradero_plataforma,0
+Quinta Normal,Transporte,Terminal_bus,0
+Quinta Normal,Negativos,Vertedero,0
+Quinta Normal,Negativos,Planta_residuos,0
+Quinta Normal,Negativos,Industrial,28
+Quinta Normal,Negativos,Fabrica,2
+Quinta Normal,Negativos,Botilleria,48
+Quinta Normal,Negativos,Bar_pub,7
+Quinta Normal,Negativos,Sitio_eriazo,4
+Quinta Normal,Negativos,Suelo_desnudo,0
+San Joaquín,Salud,Hospital,3
+San Joaquín,Salud,Clinica,3
+San Joaquín,Salud,Centro_salud,12
+San Joaquín,Salud,Consultorio,2
+San Joaquín,Salud,Farmacia,12
+San Joaquín,Recreativo_Cultural,Parque,103
+San Joaquín,Recreativo_Cultural,Mall,4
+San Joaquín,Recreativo_Cultural,Restaurante,68
+San Joaquín,Recreativo_Cultural,Museo,4
+San Joaquín,Recreativo_Cultural,Biblioteca,3
+San Joaquín,Recreativo_Cultural,Teatro,2
+San Joaquín,Seguridad,Bomberos,3
+San Joaquín,Seguridad,Comisaria,4
+San Joaquín,Educacion,Colegio,80
+San Joaquín,Educacion,Jardin_infantil,21
+San Joaquín,Educacion,Universidad,5
+San Joaquín,Comercio,Supermercado,9
+San Joaquín,Comercio,Banco,12
+San Joaquín,Comercio,Feria,11
+San Joaquín,Comercio,Almacen,32
+San Joaquín,Transporte,Metro_estacion,8
+San Joaquín,Transporte,Tren_estacion,0
+San Joaquín,Transporte,Metro_entrada,11
+San Joaquín,Transporte,Paradero_bus,422
+San Joaquín,Transporte,Paradero_plataforma,13
+San Joaquín,Transporte,Terminal_bus,0
+San Joaquín,Negativos,Vertedero,0
+San Joaquín,Negativos,Planta_residuos,0
+San Joaquín,Negativos,Industrial,26
+San Joaquín,Negativos,Fabrica,6
+San Joaquín,Negativos,Botilleria,26
+San Joaquín,Negativos,Bar_pub,3
+San Joaquín,Negativos,Sitio_eriazo,8
+San Joaquín,Negativos,Suelo_desnudo,0
+Peñaflor,Salud,Hospital,1
+Peñaflor,Salud,Clinica,2
+Peñaflor,Salud,Centro_salud,6
+Peñaflor,Salud,Consultorio,2
+Peñaflor,Salud,Farmacia,3
+Peñaflor,Recreativo_Cultural,Parque,60
+Peñaflor,Recreativo_Cultural,Mall,0
+Peñaflor,Recreativo_Cultural,Restaurante,32
+Peñaflor,Recreativo_Cultural,Museo,0
+Peñaflor,Recreativo_Cultural,Biblioteca,1
+Peñaflor,Recreativo_Cultural,Teatro,1
+Peñaflor,Seguridad,Bomberos,4
+Peñaflor,Seguridad,Comisaria,2
+Peñaflor,Educacion,Colegio,69
+Peñaflor,Educacion,Jardin_infantil,10
+Peñaflor,Educacion,Universidad,0
+Peñaflor,Comercio,Supermercado,10
+Peñaflor,Comercio,Banco,1
+Peñaflor,Comercio,Feria,0
+Peñaflor,Comercio,Almacen,33
+Peñaflor,Transporte,Metro_estacion,0
+Peñaflor,Transporte,Tren_estacion,1
+Peñaflor,Transporte,Metro_entrada,0
+Peñaflor,Transporte,Paradero_bus,34
+Peñaflor,Transporte,Paradero_plataforma,1
+Peñaflor,Transporte,Terminal_bus,2
+Peñaflor,Negativos,Vertedero,0
+Peñaflor,Negativos,Planta_residuos,0
+Peñaflor,Negativos,Industrial,30
+Peñaflor,Negativos,Fabrica,2
+Peñaflor,Negativos,Botilleria,11
+Peñaflor,Negativos,Bar_pub,3
+Peñaflor,Negativos,Sitio_eriazo,6
+Peñaflor,Negativos,Suelo_desnudo,3
+Quilicura,Salud,Hospital,0
+Quilicura,Salud,Clinica,12
+Quilicura,Salud,Centro_salud,13
+Quilicura,Salud,Consultorio,6
+Quilicura,Salud,Farmacia,51
+Quilicura,Recreativo_Cultural,Parque,306
+Quilicura,Recreativo_Cultural,Mall,5
+Quilicura,Recreativo_Cultural,Restaurante,73
+Quilicura,Recreativo_Cultural,Museo,0
+Quilicura,Recreativo_Cultural,Biblioteca,1
+Quilicura,Recreativo_Cultural,Teatro,3
+Quilicura,Seguridad,Bomberos,5
+Quilicura,Seguridad,Comisaria,3
+Quilicura,Educacion,Colegio,72
+Quilicura,Educacion,Jardin_infantil,40
+Quilicura,Educacion,Universidad,0
+Quilicura,Comercio,Supermercado,15
+Quilicura,Comercio,Banco,9
+Quilicura,Comercio,Feria,0
+Quilicura,Comercio,Almacen,114
+Quilicura,Transporte,Metro_estacion,4
+Quilicura,Transporte,Tren_estacion,0
+Quilicura,Transporte,Metro_entrada,8
+Quilicura,Transporte,Paradero_bus,496
+Quilicura,Transporte,Paradero_plataforma,23
+Quilicura,Transporte,Terminal_bus,1
+Quilicura,Negativos,Vertedero,3
+Quilicura,Negativos,Planta_residuos,2
+Quilicura,Negativos,Industrial,345
+Quilicura,Negativos,Fabrica,84
+Quilicura,Negativos,Botilleria,32
+Quilicura,Negativos,Bar_pub,1
+Quilicura,Negativos,Sitio_eriazo,35
+Quilicura,Negativos,Suelo_desnudo,0
+Puente Alto,Salud,Hospital,3
+Puente Alto,Salud,Clinica,20
+Puente Alto,Salud,Centro_salud,14
+Puente Alto,Salud,Consultorio,15
+Puente Alto,Salud,Farmacia,69
+Puente Alto,Recreativo_Cultural,Parque,573
+Puente Alto,Recreativo_Cultural,Mall,7
+Puente Alto,Recreativo_Cultural,Restaurante,131
+Puente Alto,Recreativo_Cultural,Museo,1
+Puente Alto,Recreativo_Cultural,Biblioteca,4
+Puente Alto,Recreativo_Cultural,Teatro,3
+Puente Alto,Seguridad,Bomberos,10
+Puente Alto,Seguridad,Comisaria,9
+Puente Alto,Educacion,Colegio,285
+Puente Alto,Educacion,Jardin_infantil,98
+Puente Alto,Educacion,Universidad,0
+Puente Alto,Comercio,Supermercado,37
+Puente Alto,Comercio,Banco,22
+Puente Alto,Comercio,Feria,7
+Puente Alto,Comercio,Almacen,157
+Puente Alto,Transporte,Metro_estacion,6
+Puente Alto,Transporte,Tren_estacion,0
+Puente Alto,Transporte,Metro_entrada,13
+Puente Alto,Transporte,Paradero_bus,1112
+Puente Alto,Transporte,Paradero_plataforma,8
+Puente Alto,Transporte,Terminal_bus,0
+Puente Alto,Negativos,Vertedero,0
+Puente Alto,Negativos,Planta_residuos,0
+Puente Alto,Negativos,Industrial,86
+Puente Alto,Negativos,Fabrica,8
+Puente Alto,Negativos,Botilleria,33
+Puente Alto,Negativos,Bar_pub,20
+Puente Alto,Negativos,Sitio_eriazo,22
+Puente Alto,Negativos,Suelo_desnudo,14
+Lampa,Salud,Hospital,1
+Lampa,Salud,Clinica,2
+Lampa,Salud,Centro_salud,6
+Lampa,Salud,Consultorio,1
+Lampa,Salud,Farmacia,6
+Lampa,Recreativo_Cultural,Parque,136
+Lampa,Recreativo_Cultural,Mall,0
+Lampa,Recreativo_Cultural,Restaurante,12
+Lampa,Recreativo_Cultural,Museo,1
+Lampa,Recreativo_Cultural,Biblioteca,0
+Lampa,Recreativo_Cultural,Teatro,1
+Lampa,Seguridad,Bomberos,5
+Lampa,Seguridad,Comisaria,3
+Lampa,Educacion,Colegio,61
+Lampa,Educacion,Jardin_infantil,15
+Lampa,Educacion,Universidad,0
+Lampa,Comercio,Supermercado,11
+Lampa,Comercio,Banco,3
+Lampa,Comercio,Feria,1
+Lampa,Comercio,Almacen,19
+Lampa,Transporte,Metro_estacion,0
+Lampa,Transporte,Tren_estacion,2
+Lampa,Transporte,Metro_entrada,0
+Lampa,Transporte,Paradero_bus,139
+Lampa,Transporte,Paradero_plataforma,0
+Lampa,Transporte,Terminal_bus,0
+Lampa,Negativos,Vertedero,3
+Lampa,Negativos,Planta_residuos,0
+Lampa,Negativos,Industrial,181
+Lampa,Negativos,Fabrica,26
+Lampa,Negativos,Botilleria,5
+Lampa,Negativos,Bar_pub,2
+Lampa,Negativos,Sitio_eriazo,55
+Lampa,Negativos,Suelo_desnudo,0
+Renca,Salud,Hospital,0
+Renca,Salud,Clinica,1
+Renca,Salud,Centro_salud,14
+Renca,Salud,Consultorio,2
+Renca,Salud,Farmacia,14
+Renca,Recreativo_Cultural,Parque,139
+Renca,Recreativo_Cultural,Mall,0
+Renca,Recreativo_Cultural,Restaurante,35
+Renca,Recreativo_Cultural,Museo,0
+Renca,Recreativo_Cultural,Biblioteca,0
+Renca,Recreativo_Cultural,Teatro,5
+Renca,Seguridad,Bomberos,3
+Renca,Seguridad,Comisaria,5
+Renca,Educacion,Colegio,105
+Renca,Educacion,Jardin_infantil,44
+Renca,Educacion,Universidad,1
+Renca,Comercio,Supermercado,12
+Renca,Comercio,Banco,5
+Renca,Comercio,Feria,6
+Renca,Comercio,Almacen,25
+Renca,Transporte,Metro_estacion,0
+Renca,Transporte,Tren_estacion,0
+Renca,Transporte,Metro_entrada,0
+Renca,Transporte,Paradero_bus,467
+Renca,Transporte,Paradero_plataforma,0
+Renca,Transporte,Terminal_bus,0
+Renca,Negativos,Vertedero,0
+Renca,Negativos,Planta_residuos,0
+Renca,Negativos,Industrial,101
+Renca,Negativos,Fabrica,47
+Renca,Negativos,Botilleria,33
+Renca,Negativos,Bar_pub,0
+Renca,Negativos,Sitio_eriazo,5
+Renca,Negativos,Suelo_desnudo,0
+Buin,Salud,Hospital,1
+Buin,Salud,Clinica,4
+Buin,Salud,Centro_salud,3
+Buin,Salud,Consultorio,8
+Buin,Salud,Farmacia,8
+Buin,Recreativo_Cultural,Parque,149
+Buin,Recreativo_Cultural,Mall,4
+Buin,Recreativo_Cultural,Restaurante,19
+Buin,Recreativo_Cultural,Museo,2
+Buin,Recreativo_Cultural,Biblioteca,1
+Buin,Recreativo_Cultural,Teatro,2
+Buin,Seguridad,Bomberos,7
+Buin,Seguridad,Comisaria,6
+Buin,Educacion,Colegio,52
+Buin,Educacion,Jardin_infantil,10
+Buin,Educacion,Universidad,1
+Buin,Comercio,Supermercado,10
+Buin,Comercio,Banco,4
+Buin,Comercio,Feria,0
+Buin,Comercio,Almacen,11
+Buin,Transporte,Metro_estacion,0
+Buin,Transporte,Tren_estacion,3
+Buin,Transporte,Metro_entrada,0
+Buin,Transporte,Paradero_bus,91
+Buin,Transporte,Paradero_plataforma,6
+Buin,Transporte,Terminal_bus,0
+Buin,Negativos,Vertedero,0
+Buin,Negativos,Planta_residuos,0
+Buin,Negativos,Industrial,78
+Buin,Negativos,Fabrica,20
+Buin,Negativos,Botilleria,1
+Buin,Negativos,Bar_pub,0
+Buin,Negativos,Sitio_eriazo,2
+Buin,Negativos,Suelo_desnudo,0
+San Bernardo,Salud,Hospital,2
+San Bernardo,Salud,Clinica,12
+San Bernardo,Salud,Centro_salud,18
+San Bernardo,Salud,Consultorio,7
+San Bernardo,Salud,Farmacia,42
+San Bernardo,Recreativo_Cultural,Parque,294
+San Bernardo,Recreativo_Cultural,Mall,4
+San Bernardo,Recreativo_Cultural,Restaurante,76
+San Bernardo,Recreativo_Cultural,Museo,1
+San Bernardo,Recreativo_Cultural,Biblioteca,1
+San Bernardo,Recreativo_Cultural,Teatro,3
+San Bernardo,Seguridad,Bomberos,8
+San Bernardo,Seguridad,Comisaria,6
+San Bernardo,Educacion,Colegio,214
+San Bernardo,Educacion,Jardin_infantil,60
+San Bernardo,Educacion,Universidad,3
+San Bernardo,Comercio,Supermercado,23
+San Bernardo,Comercio,Banco,16
+San Bernardo,Comercio,Feria,2
+San Bernardo,Comercio,Almacen,69
+San Bernardo,Transporte,Metro_estacion,1
+San Bernardo,Transporte,Tren_estacion,6
+San Bernardo,Transporte,Metro_entrada,11
+San Bernardo,Transporte,Paradero_bus,820
+San Bernardo,Transporte,Paradero_plataforma,9
+San Bernardo,Transporte,Terminal_bus,1
+San Bernardo,Negativos,Vertedero,1
+San Bernardo,Negativos,Planta_residuos,0
+San Bernardo,Negativos,Industrial,154
+San Bernardo,Negativos,Fabrica,72
+San Bernardo,Negativos,Botilleria,17
+San Bernardo,Negativos,Bar_pub,7
+San Bernardo,Negativos,Sitio_eriazo,9
+San Bernardo,Negativos,Suelo_desnudo,0
+Paine,Salud,Hospital,2
+Paine,Salud,Clinica,3
+Paine,Salud,Centro_salud,3
+Paine,Salud,Consultorio,8
+Paine,Salud,Farmacia,3
+Paine,Recreativo_Cultural,Parque,71
+Paine,Recreativo_Cultural,Mall,0
+Paine,Recreativo_Cultural,Restaurante,20
+Paine,Recreativo_Cultural,Museo,1
+Paine,Recreativo_Cultural,Biblioteca,1
+Paine,Recreativo_Cultural,Teatro,2
+Paine,Seguridad,Bomberos,6
+Paine,Seguridad,Comisaria,6
+Paine,Educacion,Colegio,50
+Paine,Educacion,Jardin_infantil,10
+Paine,Educacion,Universidad,0
+Paine,Comercio,Supermercado,5
+Paine,Comercio,Banco,2
+Paine,Comercio,Feria,1
+Paine,Comercio,Almacen,24
+Paine,Transporte,Metro_estacion,0
+Paine,Transporte,Tren_estacion,2
+Paine,Transporte,Metro_entrada,0
+Paine,Transporte,Paradero_bus,76
+Paine,Transporte,Paradero_plataforma,4
+Paine,Transporte,Terminal_bus,0
+Paine,Negativos,Vertedero,0
+Paine,Negativos,Planta_residuos,0
+Paine,Negativos,Industrial,79
+Paine,Negativos,Fabrica,19
+Paine,Negativos,Botilleria,4
+Paine,Negativos,Bar_pub,4
+Paine,Negativos,Sitio_eriazo,3
+Paine,Negativos,Suelo_desnudo,3
+Conchalí,Salud,Hospital,0
+Conchalí,Salud,Clinica,4
+Conchalí,Salud,Centro_salud,11
+Conchalí,Salud,Consultorio,0
+Conchalí,Salud,Farmacia,20
+Conchalí,Recreativo_Cultural,Parque,75
+Conchalí,Recreativo_Cultural,Mall,1
+Conchalí,Recreativo_Cultural,Restaurante,54
+Conchalí,Recreativo_Cultural,Museo,0
+Conchalí,Recreativo_Cultural,Biblioteca,1
+Conchalí,Recreativo_Cultural,Teatro,3
+Conchalí,Seguridad,Bomberos,4
+Conchalí,Seguridad,Comisaria,4
+Conchalí,Educacion,Colegio,85
+Conchalí,Educacion,Jardin_infantil,36
+Conchalí,Educacion,Universidad,1
+Conchalí,Comercio,Supermercado,11
+Conchalí,Comercio,Banco,12
+Conchalí,Comercio,Feria,0
+Conchalí,Comercio,Almacen,23
+Conchalí,Transporte,Metro_estacion,5
+Conchalí,Transporte,Tren_estacion,0
+Conchalí,Transporte,Metro_entrada,7
+Conchalí,Transporte,Paradero_bus,437
+Conchalí,Transporte,Paradero_plataforma,23
+Conchalí,Transporte,Terminal_bus,1
+Conchalí,Negativos,Vertedero,2
+Conchalí,Negativos,Planta_residuos,1
+Conchalí,Negativos,Industrial,75
+Conchalí,Negativos,Fabrica,35
+Conchalí,Negativos,Botilleria,34
+Conchalí,Negativos,Bar_pub,5
+Conchalí,Negativos,Sitio_eriazo,1
+Conchalí,Negativos,Suelo_desnudo,0
+Lo Prado,Salud,Hospital,4
+Lo Prado,Salud,Clinica,7
+Lo Prado,Salud,Centro_salud,11
+Lo Prado,Salud,Consultorio,1
+Lo Prado,Salud,Farmacia,21
+Lo Prado,Recreativo_Cultural,Parque,96
+Lo Prado,Recreativo_Cultural,Mall,2
+Lo Prado,Recreativo_Cultural,Restaurante,19
+Lo Prado,Recreativo_Cultural,Museo,0
+Lo Prado,Recreativo_Cultural,Biblioteca,2
+Lo Prado,Recreativo_Cultural,Teatro,2
+Lo Prado,Seguridad,Bomberos,2
+Lo Prado,Seguridad,Comisaria,3
+Lo Prado,Educacion,Colegio,72
+Lo Prado,Educacion,Jardin_infantil,32
+Lo Prado,Educacion,Universidad,0
+Lo Prado,Comercio,Supermercado,14
+Lo Prado,Comercio,Banco,5
+Lo Prado,Comercio,Feria,2
+Lo Prado,Comercio,Almacen,49
+Lo Prado,Transporte,Metro_estacion,8
+Lo Prado,Transporte,Tren_estacion,0
+Lo Prado,Transporte,Metro_entrada,23
+Lo Prado,Transporte,Paradero_bus,317
+Lo Prado,Transporte,Paradero_plataforma,0
+Lo Prado,Transporte,Terminal_bus,1
+Lo Prado,Negativos,Vertedero,0
+Lo Prado,Negativos,Planta_residuos,0
+Lo Prado,Negativos,Industrial,12
+Lo Prado,Negativos,Fabrica,0
+Lo Prado,Negativos,Botilleria,18
+Lo Prado,Negativos,Bar_pub,3
+Lo Prado,Negativos,Sitio_eriazo,2
+Lo Prado,Negativos,Suelo_desnudo,0
+Padre Hurtado,Salud,Hospital,0
+Padre Hurtado,Salud,Clinica,2
+Padre Hurtado,Salud,Centro_salud,1
+Padre Hurtado,Salud,Consultorio,2
+Padre Hurtado,Salud,Farmacia,3
+Padre Hurtado,Recreativo_Cultural,Parque,172
+Padre Hurtado,Recreativo_Cultural,Mall,1
+Padre Hurtado,Recreativo_Cultural,Restaurante,18
+Padre Hurtado,Recreativo_Cultural,Museo,0
+Padre Hurtado,Recreativo_Cultural,Biblioteca,0
+Padre Hurtado,Recreativo_Cultural,Teatro,0
+Padre Hurtado,Seguridad,Bomberos,4
+Padre Hurtado,Seguridad,Comisaria,3
+Padre Hurtado,Educacion,Colegio,45
+Padre Hurtado,Educacion,Jardin_infantil,5
+Padre Hurtado,Educacion,Universidad,0
+Padre Hurtado,Comercio,Supermercado,7
+Padre Hurtado,Comercio,Banco,1
+Padre Hurtado,Comercio,Feria,0
+Padre Hurtado,Comercio,Almacen,38
+Padre Hurtado,Transporte,Metro_estacion,0
+Padre Hurtado,Transporte,Tren_estacion,1
+Padre Hurtado,Transporte,Metro_entrada,0
+Padre Hurtado,Transporte,Paradero_bus,83
+Padre Hurtado,Transporte,Paradero_plataforma,0
+Padre Hurtado,Transporte,Terminal_bus,1
+Padre Hurtado,Negativos,Vertedero,2
+Padre Hurtado,Negativos,Planta_residuos,0
+Padre Hurtado,Negativos,Industrial,17
+Padre Hurtado,Negativos,Fabrica,6
+Padre Hurtado,Negativos,Botilleria,6
+Padre Hurtado,Negativos,Bar_pub,0
+Padre Hurtado,Negativos,Sitio_eriazo,16
+Padre Hurtado,Negativos,Suelo_desnudo,1
+Pedro Aguirre Cerda,Salud,Hospital,2
+Pedro Aguirre Cerda,Salud,Clinica,3
+Pedro Aguirre Cerda,Salud,Centro_salud,12
+Pedro Aguirre Cerda,Salud,Consultorio,2
+Pedro Aguirre Cerda,Salud,Farmacia,10
+Pedro Aguirre Cerda,Recreativo_Cultural,Parque,115
+Pedro Aguirre Cerda,Recreativo_Cultural,Mall,1
+Pedro Aguirre Cerda,Recreativo_Cultural,Restaurante,26
+Pedro Aguirre Cerda,Recreativo_Cultural,Museo,1
+Pedro Aguirre Cerda,Recreativo_Cultural,Biblioteca,1
+Pedro Aguirre Cerda,Recreativo_Cultural,Teatro,4
+Pedro Aguirre Cerda,Seguridad,Bomberos,2
+Pedro Aguirre Cerda,Seguridad,Comisaria,8
+Pedro Aguirre Cerda,Educacion,Colegio,87
+Pedro Aguirre Cerda,Educacion,Jardin_infantil,42
+Pedro Aguirre Cerda,Educacion,Universidad,1
+Pedro Aguirre Cerda,Comercio,Supermercado,9
+Pedro Aguirre Cerda,Comercio,Banco,5
+Pedro Aguirre Cerda,Comercio,Feria,6
+Pedro Aguirre Cerda,Comercio,Almacen,68
+Pedro Aguirre Cerda,Transporte,Metro_estacion,2
+Pedro Aguirre Cerda,Transporte,Tren_estacion,2
+Pedro Aguirre Cerda,Transporte,Metro_entrada,3
+Pedro Aguirre Cerda,Transporte,Paradero_bus,312
+Pedro Aguirre Cerda,Transporte,Paradero_plataforma,8
+Pedro Aguirre Cerda,Transporte,Terminal_bus,0
+Pedro Aguirre Cerda,Negativos,Vertedero,0
+Pedro Aguirre Cerda,Negativos,Planta_residuos,0
+Pedro Aguirre Cerda,Negativos,Industrial,24
+Pedro Aguirre Cerda,Negativos,Fabrica,3
+Pedro Aguirre Cerda,Negativos,Botilleria,17
+Pedro Aguirre Cerda,Negativos,Bar_pub,2
+Pedro Aguirre Cerda,Negativos,Sitio_eriazo,4
+Pedro Aguirre Cerda,Negativos,Suelo_desnudo,0
+La Granja,Salud,Hospital,1
+La Granja,Salud,Clinica,2
+La Granja,Salud,Centro_salud,10
+La Granja,Salud,Consultorio,1
+La Granja,Salud,Farmacia,16
+La Granja,Recreativo_Cultural,Parque,193
+La Granja,Recreativo_Cultural,Mall,4
+La Granja,Recreativo_Cultural,Restaurante,36
+La Granja,Recreativo_Cultural,Museo,2
+La Granja,Recreativo_Cultural,Biblioteca,0
+La Granja,Recreativo_Cultural,Teatro,2
+La Granja,Seguridad,Bomberos,4
+La Granja,Seguridad,Comisaria,3
+La Granja,Educacion,Colegio,120
+La Granja,Educacion,Jardin_infantil,36
+La Granja,Educacion,Universidad,0
+La Granja,Comercio,Supermercado,11
+La Granja,Comercio,Banco,3
+La Granja,Comercio,Feria,8
+La Granja,Comercio,Almacen,83
+La Granja,Transporte,Metro_estacion,4
+La Granja,Transporte,Tren_estacion,0
+La Granja,Transporte,Metro_entrada,9
+La Granja,Transporte,Paradero_bus,484
+La Granja,Transporte,Paradero_plataforma,4
+La Granja,Transporte,Terminal_bus,0
+La Granja,Negativos,Vertedero,0
+La Granja,Negativos,Planta_residuos,1
+La Granja,Negativos,Industrial,6
+La Granja,Negativos,Fabrica,7
+La Granja,Negativos,Botilleria,39
+La Granja,Negativos,Bar_pub,0
+La Granja,Negativos,Sitio_eriazo,3
+La Granja,Negativos,Suelo_desnudo,0
+El Bosque,Salud,Hospital,1
+El Bosque,Salud,Clinica,5
+El Bosque,Salud,Centro_salud,13
+El Bosque,Salud,Consultorio,3
+El Bosque,Salud,Farmacia,36
+El Bosque,Recreativo_Cultural,Parque,143
+El Bosque,Recreativo_Cultural,Mall,1
+El Bosque,Recreativo_Cultural,Restaurante,31
+El Bosque,Recreativo_Cultural,Museo,0
+El Bosque,Recreativo_Cultural,Biblioteca,0
+El Bosque,Recreativo_Cultural,Teatro,1
+El Bosque,Seguridad,Bomberos,3
+El Bosque,Seguridad,Comisaria,2
+El Bosque,Educacion,Colegio,138
+El Bosque,Educacion,Jardin_infantil,52
+El Bosque,Educacion,Universidad,1
+El Bosque,Comercio,Supermercado,9
+El Bosque,Comercio,Banco,6
+El Bosque,Comercio,Feria,3
+El Bosque,Comercio,Almacen,67
+El Bosque,Transporte,Metro_estacion,4
+El Bosque,Transporte,Tren_estacion,1
+El Bosque,Transporte,Metro_entrada,5
+El Bosque,Transporte,Paradero_bus,425
+El Bosque,Transporte,Paradero_plataforma,1
+El Bosque,Transporte,Terminal_bus,0
+El Bosque,Negativos,Vertedero,0
+El Bosque,Negativos,Planta_residuos,0
+El Bosque,Negativos,Industrial,23
+El Bosque,Negativos,Fabrica,4
+El Bosque,Negativos,Botilleria,15
+El Bosque,Negativos,Bar_pub,6
+El Bosque,Negativos,Sitio_eriazo,3
+El Bosque,Negativos,Suelo_desnudo,0
+La Pintana,Salud,Hospital,1
+La Pintana,Salud,Clinica,1
+La Pintana,Salud,Centro_salud,12
+La Pintana,Salud,Consultorio,5
+La Pintana,Salud,Farmacia,7
+La Pintana,Recreativo_Cultural,Parque,339
+La Pintana,Recreativo_Cultural,Mall,0
+La Pintana,Recreativo_Cultural,Restaurante,28
+La Pintana,Recreativo_Cultural,Museo,1
+La Pintana,Recreativo_Cultural,Biblioteca,2
+La Pintana,Recreativo_Cultural,Teatro,4
+La Pintana,Seguridad,Bomberos,2
+La Pintana,Seguridad,Comisaria,4
+La Pintana,Educacion,Colegio,137
+La Pintana,Educacion,Jardin_infantil,64
+La Pintana,Educacion,Universidad,2
+La Pintana,Comercio,Supermercado,8
+La Pintana,Comercio,Banco,3
+La Pintana,Comercio,Feria,2
+La Pintana,Comercio,Almacen,115
+La Pintana,Transporte,Metro_estacion,0
+La Pintana,Transporte,Tren_estacion,0
+La Pintana,Transporte,Metro_entrada,0
+La Pintana,Transporte,Paradero_bus,639
+La Pintana,Transporte,Paradero_plataforma,0
+La Pintana,Transporte,Terminal_bus,0
+La Pintana,Negativos,Vertedero,0
+La Pintana,Negativos,Planta_residuos,0
+La Pintana,Negativos,Industrial,32
+La Pintana,Negativos,Fabrica,5
+La Pintana,Negativos,Botilleria,29
+La Pintana,Negativos,Bar_pub,1
+La Pintana,Negativos,Sitio_eriazo,8
+La Pintana,Negativos,Suelo_desnudo,0
+Melipilla,Salud,Hospital,2
+Melipilla,Salud,Clinica,5
+Melipilla,Salud,Centro_salud,9
+Melipilla,Salud,Consultorio,3
+Melipilla,Salud,Farmacia,13
+Melipilla,Recreativo_Cultural,Parque,59
+Melipilla,Recreativo_Cultural,Mall,1
+Melipilla,Recreativo_Cultural,Restaurante,30
+Melipilla,Recreativo_Cultural,Museo,0
+Melipilla,Recreativo_Cultural,Biblioteca,0
+Melipilla,Recreativo_Cultural,Teatro,1
+Melipilla,Seguridad,Bomberos,5
+Melipilla,Seguridad,Comisaria,2
+Melipilla,Educacion,Colegio,63
+Melipilla,Educacion,Jardin_infantil,18
+Melipilla,Educacion,Universidad,2
+Melipilla,Comercio,Supermercado,10
+Melipilla,Comercio,Banco,4
+Melipilla,Comercio,Feria,0
+Melipilla,Comercio,Almacen,25
+Melipilla,Transporte,Metro_estacion,0
+Melipilla,Transporte,Tren_estacion,1
+Melipilla,Transporte,Metro_entrada,0
+Melipilla,Transporte,Paradero_bus,76
+Melipilla,Transporte,Paradero_plataforma,0
+Melipilla,Transporte,Terminal_bus,1
+Melipilla,Negativos,Vertedero,0
+Melipilla,Negativos,Planta_residuos,0
+Melipilla,Negativos,Industrial,20
+Melipilla,Negativos,Fabrica,2
+Melipilla,Negativos,Botilleria,1
+Melipilla,Negativos,Bar_pub,1
+Melipilla,Negativos,Sitio_eriazo,1
+Melipilla,Negativos,Suelo_desnudo,0
+Lo Espejo,Salud,Hospital,0
+Lo Espejo,Salud,Clinica,1
+Lo Espejo,Salud,Centro_salud,7
+Lo Espejo,Salud,Consultorio,1
+Lo Espejo,Salud,Farmacia,4
+Lo Espejo,Recreativo_Cultural,Parque,79
+Lo Espejo,Recreativo_Cultural,Mall,1
+Lo Espejo,Recreativo_Cultural,Restaurante,19
+Lo Espejo,Recreativo_Cultural,Museo,0
+Lo Espejo,Recreativo_Cultural,Biblioteca,1
+Lo Espejo,Recreativo_Cultural,Teatro,2
+Lo Espejo,Seguridad,Bomberos,4
+Lo Espejo,Seguridad,Comisaria,5
+Lo Espejo,Educacion,Colegio,63
+Lo Espejo,Educacion,Jardin_infantil,22
+Lo Espejo,Educacion,Universidad,0
+Lo Espejo,Comercio,Supermercado,3
+Lo Espejo,Comercio,Banco,2
+Lo Espejo,Comercio,Feria,5
+Lo Espejo,Comercio,Almacen,42
+Lo Espejo,Transporte,Metro_estacion,0
+Lo Espejo,Transporte,Tren_estacion,1
+Lo Espejo,Transporte,Metro_entrada,0
+Lo Espejo,Transporte,Paradero_bus,322
+Lo Espejo,Transporte,Paradero_plataforma,1
+Lo Espejo,Transporte,Terminal_bus,0
+Lo Espejo,Negativos,Vertedero,0
+Lo Espejo,Negativos,Planta_residuos,0
+Lo Espejo,Negativos,Industrial,21
+Lo Espejo,Negativos,Fabrica,13
+Lo Espejo,Negativos,Botilleria,9
+Lo Espejo,Negativos,Bar_pub,2
+Lo Espejo,Negativos,Sitio_eriazo,8
+Lo Espejo,Negativos,Suelo_desnudo,0
+San Ramón,Salud,Hospital,1
+San Ramón,Salud,Clinica,1
+San Ramón,Salud,Centro_salud,12
+San Ramón,Salud,Consultorio,1
+San Ramón,Salud,Farmacia,16
+San Ramón,Recreativo_Cultural,Parque,128
+San Ramón,Recreativo_Cultural,Mall,0
+San Ramón,Recreativo_Cultural,Restaurante,23
+San Ramón,Recreativo_Cultural,Museo,0
+San Ramón,Recreativo_Cultural,Biblioteca,0
+San Ramón,Recreativo_Cultural,Teatro,1
+San Ramón,Seguridad,Bomberos,4
+San Ramón,Seguridad,Comisaria,1
+San Ramón,Educacion,Colegio,107
+San Ramón,Educacion,Jardin_infantil,22
+San Ramón,Educacion,Universidad,0
+San Ramón,Comercio,Supermercado,6
+San Ramón,Comercio,Banco,3
+San Ramón,Comercio,Feria,6
+San Ramón,Comercio,Almacen,43
+San Ramón,Transporte,Metro_estacion,2
+San Ramón,Transporte,Tren_estacion,0
+San Ramón,Transporte,Metro_entrada,6
+San Ramón,Transporte,Paradero_bus,400
+San Ramón,Transporte,Paradero_plataforma,2
+San Ramón,Transporte,Terminal_bus,0
+San Ramón,Negativos,Vertedero,0
+San Ramón,Negativos,Planta_residuos,0
+San Ramón,Negativos,Industrial,3
+San Ramón,Negativos,Fabrica,2
+San Ramón,Negativos,Botilleria,30
+San Ramón,Negativos,Bar_pub,1
+San Ramón,Negativos,Sitio_eriazo,4
+San Ramón,Negativos,Suelo_desnudo,0
+Cerro Navia,Salud,Hospital,1
+Cerro Navia,Salud,Clinica,5
+Cerro Navia,Salud,Centro_salud,16
+Cerro Navia,Salud,Consultorio,0
+Cerro Navia,Salud,Farmacia,25
+Cerro Navia,Recreativo_Cultural,Parque,167
+Cerro Navia,Recreativo_Cultural,Mall,0
+Cerro Navia,Recreativo_Cultural,Restaurante,51
+Cerro Navia,Recreativo_Cultural,Museo,0
+Cerro Navia,Recreativo_Cultural,Biblioteca,0
+Cerro Navia,Recreativo_Cultural,Teatro,4
+Cerro Navia,Seguridad,Bomberos,3
+Cerro Navia,Seguridad,Comisaria,3
+Cerro Navia,Educacion,Colegio,104
+Cerro Navia,Educacion,Jardin_infantil,38
+Cerro Navia,Educacion,Universidad,0
+Cerro Navia,Comercio,Supermercado,2
+Cerro Navia,Comercio,Banco,2
+Cerro Navia,Comercio,Feria,3
+Cerro Navia,Comercio,Almacen,70
+Cerro Navia,Transporte,Metro_estacion,0
+Cerro Navia,Transporte,Tren_estacion,0
+Cerro Navia,Transporte,Metro_entrada,0
+Cerro Navia,Transporte,Paradero_bus,414
+Cerro Navia,Transporte,Paradero_plataforma,0
+Cerro Navia,Transporte,Terminal_bus,0
+Cerro Navia,Negativos,Vertedero,0
+Cerro Navia,Negativos,Planta_residuos,0
+Cerro Navia,Negativos,Industrial,32
+Cerro Navia,Negativos,Fabrica,2
+Cerro Navia,Negativos,Botilleria,60
+Cerro Navia,Negativos,Bar_pub,1
+Cerro Navia,Negativos,Sitio_eriazo,9
+Cerro Navia,Negativos,Suelo_desnudo,0
+Talagante,Salud,Hospital,2
+Talagante,Salud,Clinica,6
+Talagante,Salud,Centro_salud,7
+Talagante,Salud,Consultorio,4
+Talagante,Salud,Farmacia,15
+Talagante,Recreativo_Cultural,Parque,79
+Talagante,Recreativo_Cultural,Mall,5
+Talagante,Recreativo_Cultural,Restaurante,28
+Talagante,Recreativo_Cultural,Museo,4
+Talagante,Recreativo_Cultural,Biblioteca,1
+Talagante,Recreativo_Cultural,Teatro,2
+Talagante,Seguridad,Bomberos,4
+Talagante,Seguridad,Comisaria,2
+Talagante,Educacion,Colegio,65
+Talagante,Educacion,Jardin_infantil,11
+Talagante,Educacion,Universidad,0
+Talagante,Comercio,Supermercado,10
+Talagante,Comercio,Banco,9
+Talagante,Comercio,Feria,0
+Talagante,Comercio,Almacen,24
+Talagante,Transporte,Metro_estacion,0
+Talagante,Transporte,Tren_estacion,1
+Talagante,Transporte,Metro_entrada,0
+Talagante,Transporte,Paradero_bus,58
+Talagante,Transporte,Paradero_plataforma,0
+Talagante,Transporte,Terminal_bus,0
+Talagante,Negativos,Vertedero,1
+Talagante,Negativos,Planta_residuos,0
+Talagante,Negativos,Industrial,33
+Talagante,Negativos,Fabrica,1
+Talagante,Negativos,Botilleria,5
+Talagante,Negativos,Bar_pub,1
+Talagante,Negativos,Sitio_eriazo,1
+Talagante,Negativos,Suelo_desnudo,3
+Concón,Salud,Hospital,0
+Concón,Salud,Clinica,5
+Concón,Salud,Centro_salud,4
+Concón,Salud,Consultorio,1
+Concón,Salud,Farmacia,17
+Concón,Recreativo_Cultural,Parque,59
+Concón,Recreativo_Cultural,Mall,6
+Concón,Recreativo_Cultural,Restaurante,80
+Concón,Recreativo_Cultural,Museo,1
+Concón,Recreativo_Cultural,Biblioteca,1
+Concón,Recreativo_Cultural,Teatro,0
+Concón,Seguridad,Bomberos,1
+Concón,Seguridad,Comisaria,1
+Concón,Educacion,Colegio,20
+Concón,Educacion,Jardin_infantil,11
+Concón,Educacion,Universidad,0
+Concón,Comercio,Supermercado,9
+Concón,Comercio,Banco,5
+Concón,Comercio,Feria,0
+Concón,Comercio,Almacen,28
+Concón,Transporte,Metro_estacion,0
+Concón,Transporte,Tren_estacion,0
+Concón,Transporte,Metro_entrada,0
+Concón,Transporte,Paradero_bus,79
+Concón,Transporte,Paradero_plataforma,7
+Concón,Transporte,Terminal_bus,1
+Concón,Negativos,Vertedero,1
+Concón,Negativos,Planta_residuos,0
+Concón,Negativos,Industrial,33
+Concón,Negativos,Fabrica,14
+Concón,Negativos,Botilleria,4
+Concón,Negativos,Bar_pub,2
+Concón,Negativos,Sitio_eriazo,8
+Concón,Negativos,Suelo_desnudo,6
+Concepción,Salud,Hospital,6
+Concepción,Salud,Clinica,34
+Concepción,Salud,Centro_salud,13
+Concepción,Salud,Consultorio,14
+Concepción,Salud,Farmacia,97
+Concepción,Recreativo_Cultural,Parque,277
+Concepción,Recreativo_Cultural,Mall,12
+Concepción,Recreativo_Cultural,Restaurante,145
+Concepción,Recreativo_Cultural,Museo,6
+Concepción,Recreativo_Cultural,Biblioteca,7
+Concepción,Recreativo_Cultural,Teatro,7
+Concepción,Seguridad,Bomberos,11
+Concepción,Seguridad,Comisaria,9
+Concepción,Educacion,Colegio,130
+Concepción,Educacion,Jardin_infantil,46
+Concepción,Educacion,Universidad,21
+Concepción,Comercio,Supermercado,59
+Concepción,Comercio,Banco,41
+Concepción,Comercio,Feria,3
+Concepción,Comercio,Almacen,152
+Concepción,Transporte,Metro_estacion,0
+Concepción,Transporte,Tren_estacion,2
+Concepción,Transporte,Metro_entrada,0
+Concepción,Transporte,Paradero_bus,694
+Concepción,Transporte,Paradero_plataforma,36
+Concepción,Transporte,Terminal_bus,9
+Concepción,Negativos,Vertedero,2
+Concepción,Negativos,Planta_residuos,0
+Concepción,Negativos,Industrial,76
+Concepción,Negativos,Fabrica,3
+Concepción,Negativos,Botilleria,11
+Concepción,Negativos,Bar_pub,85
+Concepción,Negativos,Sitio_eriazo,25
+Concepción,Negativos,Suelo_desnudo,0
+Machalí,Salud,Hospital,0
+Machalí,Salud,Clinica,4
+Machalí,Salud,Centro_salud,3
+Machalí,Salud,Consultorio,1
+Machalí,Salud,Farmacia,16
+Machalí,Recreativo_Cultural,Parque,118
+Machalí,Recreativo_Cultural,Mall,0
+Machalí,Recreativo_Cultural,Restaurante,43
+Machalí,Recreativo_Cultural,Museo,3
+Machalí,Recreativo_Cultural,Biblioteca,2
+Machalí,Recreativo_Cultural,Teatro,1
+Machalí,Seguridad,Bomberos,2
+Machalí,Seguridad,Comisaria,1
+Machalí,Educacion,Colegio,26
+Machalí,Educacion,Jardin_infantil,9
+Machalí,Educacion,Universidad,1
+Machalí,Comercio,Supermercado,8
+Machalí,Comercio,Banco,3
+Machalí,Comercio,Feria,0
+Machalí,Comercio,Almacen,26
+Machalí,Transporte,Metro_estacion,0
+Machalí,Transporte,Tren_estacion,0
+Machalí,Transporte,Metro_entrada,0
+Machalí,Transporte,Paradero_bus,55
+Machalí,Transporte,Paradero_plataforma,0
+Machalí,Transporte,Terminal_bus,0
+Machalí,Negativos,Vertedero,0
+Machalí,Negativos,Planta_residuos,0
+Machalí,Negativos,Industrial,16
+Machalí,Negativos,Fabrica,0
+Machalí,Negativos,Botilleria,2
+Machalí,Negativos,Bar_pub,5
+Machalí,Negativos,Sitio_eriazo,1
+Machalí,Negativos,Suelo_desnudo,1
+Chiguayante,Salud,Hospital,0
+Chiguayante,Salud,Clinica,2
+Chiguayante,Salud,Centro_salud,5
+Chiguayante,Salud,Consultorio,0
+Chiguayante,Salud,Farmacia,2
+Chiguayante,Recreativo_Cultural,Parque,118
+Chiguayante,Recreativo_Cultural,Mall,0
+Chiguayante,Recreativo_Cultural,Restaurante,4
+Chiguayante,Recreativo_Cultural,Museo,1
+Chiguayante,Recreativo_Cultural,Biblioteca,1
+Chiguayante,Recreativo_Cultural,Teatro,0
+Chiguayante,Seguridad,Bomberos,2
+Chiguayante,Seguridad,Comisaria,2
+Chiguayante,Educacion,Colegio,41
+Chiguayante,Educacion,Jardin_infantil,9
+Chiguayante,Educacion,Universidad,0
+Chiguayante,Comercio,Supermercado,13
+Chiguayante,Comercio,Banco,3
+Chiguayante,Comercio,Feria,0
+Chiguayante,Comercio,Almacen,7
+Chiguayante,Transporte,Metro_estacion,0
+Chiguayante,Transporte,Tren_estacion,4
+Chiguayante,Transporte,Metro_entrada,0
+Chiguayante,Transporte,Paradero_bus,204
+Chiguayante,Transporte,Paradero_plataforma,37
+Chiguayante,Transporte,Terminal_bus,3
+Chiguayante,Negativos,Vertedero,0
+Chiguayante,Negativos,Planta_residuos,0
+Chiguayante,Negativos,Industrial,7
+Chiguayante,Negativos,Fabrica,1
+Chiguayante,Negativos,Botilleria,0
+Chiguayante,Negativos,Bar_pub,2
+Chiguayante,Negativos,Sitio_eriazo,11
+Chiguayante,Negativos,Suelo_desnudo,0
+Viña del Mar,Salud,Hospital,9
+Viña del Mar,Salud,Clinica,22
+Viña del Mar,Salud,Centro_salud,21
+Viña del Mar,Salud,Consultorio,24
+Viña del Mar,Salud,Farmacia,80
+Viña del Mar,Recreativo_Cultural,Parque,148
+Viña del Mar,Recreativo_Cultural,Mall,22
+Viña del Mar,Recreativo_Cultural,Restaurante,260
+Viña del Mar,Recreativo_Cultural,Museo,7
+Viña del Mar,Recreativo_Cultural,Biblioteca,6
+Viña del Mar,Recreativo_Cultural,Teatro,6
+Viña del Mar,Seguridad,Bomberos,16
+Viña del Mar,Seguridad,Comisaria,11
+Viña del Mar,Educacion,Colegio,210
+Viña del Mar,Educacion,Jardin_infantil,86
+Viña del Mar,Educacion,Universidad,25
+Viña del Mar,Comercio,Supermercado,33
+Viña del Mar,Comercio,Banco,45
+Viña del Mar,Comercio,Feria,9
+Viña del Mar,Comercio,Almacen,216
+Viña del Mar,Transporte,Metro_estacion,0
+Viña del Mar,Transporte,Tren_estacion,6
+Viña del Mar,Transporte,Metro_entrada,9
+Viña del Mar,Transporte,Paradero_bus,310
+Viña del Mar,Transporte,Paradero_plataforma,17
+Viña del Mar,Transporte,Terminal_bus,6
+Viña del Mar,Negativos,Vertedero,2
+Viña del Mar,Negativos,Planta_residuos,0
+Viña del Mar,Negativos,Industrial,40
+Viña del Mar,Negativos,Fabrica,22
+Viña del Mar,Negativos,Botilleria,42
+Viña del Mar,Negativos,Bar_pub,75
+Viña del Mar,Negativos,Sitio_eriazo,16
+Viña del Mar,Negativos,Suelo_desnudo,20
+Rancagua,Salud,Hospital,4
+Rancagua,Salud,Clinica,20
+Rancagua,Salud,Centro_salud,17
+Rancagua,Salud,Consultorio,11
+Rancagua,Salud,Farmacia,59
+Rancagua,Recreativo_Cultural,Parque,348
+Rancagua,Recreativo_Cultural,Mall,7
+Rancagua,Recreativo_Cultural,Restaurante,96
+Rancagua,Recreativo_Cultural,Museo,4
+Rancagua,Recreativo_Cultural,Biblioteca,6
+Rancagua,Recreativo_Cultural,Teatro,5
+Rancagua,Seguridad,Bomberos,8
+Rancagua,Seguridad,Comisaria,6
+Rancagua,Educacion,Colegio,157
+Rancagua,Educacion,Jardin_infantil,51
+Rancagua,Educacion,Universidad,7
+Rancagua,Comercio,Supermercado,29
+Rancagua,Comercio,Banco,33
+Rancagua,Comercio,Feria,2
+Rancagua,Comercio,Almacen,73
+Rancagua,Transporte,Metro_estacion,0
+Rancagua,Transporte,Tren_estacion,1
+Rancagua,Transporte,Metro_entrada,0
+Rancagua,Transporte,Paradero_bus,176
+Rancagua,Transporte,Paradero_plataforma,4
+Rancagua,Transporte,Terminal_bus,6
+Rancagua,Negativos,Vertedero,0
+Rancagua,Negativos,Planta_residuos,0
+Rancagua,Negativos,Industrial,74
+Rancagua,Negativos,Fabrica,3
+Rancagua,Negativos,Botilleria,16
+Rancagua,Negativos,Bar_pub,24
+Rancagua,Negativos,Sitio_eriazo,31
+Rancagua,Negativos,Suelo_desnudo,2
+San Pedro de la Paz,Salud,Hospital,0
+San Pedro de la Paz,Salud,Clinica,2
+San Pedro de la Paz,Salud,Centro_salud,11
+San Pedro de la Paz,Salud,Consultorio,4
+San Pedro de la Paz,Salud,Farmacia,12
+San Pedro de la Paz,Recreativo_Cultural,Parque,373
+San Pedro de la Paz,Recreativo_Cultural,Mall,4
+San Pedro de la Paz,Recreativo_Cultural,Restaurante,36
+San Pedro de la Paz,Recreativo_Cultural,Museo,1
+San Pedro de la Paz,Recreativo_Cultural,Biblioteca,2
+San Pedro de la Paz,Recreativo_Cultural,Teatro,3
+San Pedro de la Paz,Seguridad,Bomberos,4
+San Pedro de la Paz,Seguridad,Comisaria,2
+San Pedro de la Paz,Educacion,Colegio,59
+San Pedro de la Paz,Educacion,Jardin_infantil,34
+San Pedro de la Paz,Educacion,Universidad,1
+San Pedro de la Paz,Comercio,Supermercado,23
+San Pedro de la Paz,Comercio,Banco,5
+San Pedro de la Paz,Comercio,Feria,2
+San Pedro de la Paz,Comercio,Almacen,38
+San Pedro de la Paz,Transporte,Metro_estacion,0
+San Pedro de la Paz,Transporte,Tren_estacion,7
+San Pedro de la Paz,Transporte,Metro_entrada,0
+San Pedro de la Paz,Transporte,Paradero_bus,357
+San Pedro de la Paz,Transporte,Paradero_plataforma,0
+San Pedro de la Paz,Transporte,Terminal_bus,1
+San Pedro de la Paz,Negativos,Vertedero,0
+San Pedro de la Paz,Negativos,Planta_residuos,0
+San Pedro de la Paz,Negativos,Industrial,29
+San Pedro de la Paz,Negativos,Fabrica,5
+San Pedro de la Paz,Negativos,Botilleria,3
+San Pedro de la Paz,Negativos,Bar_pub,5
+San Pedro de la Paz,Negativos,Sitio_eriazo,9
+San Pedro de la Paz,Negativos,Suelo_desnudo,1
+Maule,Salud,Hospital,0
+Maule,Salud,Clinica,1
+Maule,Salud,Centro_salud,4
+Maule,Salud,Consultorio,5
+Maule,Salud,Farmacia,1
+Maule,Recreativo_Cultural,Parque,146
+Maule,Recreativo_Cultural,Mall,0
+Maule,Recreativo_Cultural,Restaurante,7
+Maule,Recreativo_Cultural,Museo,0
+Maule,Recreativo_Cultural,Biblioteca,0
+Maule,Recreativo_Cultural,Teatro,0
+Maule,Seguridad,Bomberos,3
+Maule,Seguridad,Comisaria,3
+Maule,Educacion,Colegio,33
+Maule,Educacion,Jardin_infantil,11
+Maule,Educacion,Universidad,0
+Maule,Comercio,Supermercado,4
+Maule,Comercio,Banco,1
+Maule,Comercio,Feria,0
+Maule,Comercio,Almacen,25
+Maule,Transporte,Metro_estacion,0
+Maule,Transporte,Tren_estacion,2
+Maule,Transporte,Metro_entrada,0
+Maule,Transporte,Paradero_bus,69
+Maule,Transporte,Paradero_plataforma,0
+Maule,Transporte,Terminal_bus,0
+Maule,Negativos,Vertedero,0
+Maule,Negativos,Planta_residuos,0
+Maule,Negativos,Industrial,63
+Maule,Negativos,Fabrica,15
+Maule,Negativos,Botilleria,0
+Maule,Negativos,Bar_pub,0
+Maule,Negativos,Sitio_eriazo,1
+Maule,Negativos,Suelo_desnudo,0
+Valparaíso,Salud,Hospital,4
+Valparaíso,Salud,Clinica,14
+Valparaíso,Salud,Centro_salud,24
+Valparaíso,Salud,Consultorio,11
+Valparaíso,Salud,Farmacia,48
+Valparaíso,Recreativo_Cultural,Parque,199
+Valparaíso,Recreativo_Cultural,Mall,6
+Valparaíso,Recreativo_Cultural,Restaurante,236
+Valparaíso,Recreativo_Cultural,Museo,19
+Valparaíso,Recreativo_Cultural,Biblioteca,6
+Valparaíso,Recreativo_Cultural,Teatro,10
+Valparaíso,Seguridad,Bomberos,19
+Valparaíso,Seguridad,Comisaria,16
+Valparaíso,Educacion,Colegio,163
+Valparaíso,Educacion,Jardin_infantil,47
+Valparaíso,Educacion,Universidad,45
+Valparaíso,Comercio,Supermercado,31
+Valparaíso,Comercio,Banco,29
+Valparaíso,Comercio,Feria,7
+Valparaíso,Comercio,Almacen,179
+Valparaíso,Transporte,Metro_estacion,0
+Valparaíso,Transporte,Tren_estacion,5
+Valparaíso,Transporte,Metro_entrada,0
+Valparaíso,Transporte,Paradero_bus,380
+Valparaíso,Transporte,Paradero_plataforma,17
+Valparaíso,Transporte,Terminal_bus,6
+Valparaíso,Negativos,Vertedero,2
+Valparaíso,Negativos,Planta_residuos,0
+Valparaíso,Negativos,Industrial,59
+Valparaíso,Negativos,Fabrica,32
+Valparaíso,Negativos,Botilleria,43
+Valparaíso,Negativos,Bar_pub,62
+Valparaíso,Negativos,Sitio_eriazo,6
+Valparaíso,Negativos,Suelo_desnudo,9
+Puerto Varas,Salud,Hospital,1
+Puerto Varas,Salud,Clinica,1
+Puerto Varas,Salud,Centro_salud,4
+Puerto Varas,Salud,Consultorio,6
+Puerto Varas,Salud,Farmacia,13
+Puerto Varas,Recreativo_Cultural,Parque,114
+Puerto Varas,Recreativo_Cultural,Mall,2
+Puerto Varas,Recreativo_Cultural,Restaurante,78
+Puerto Varas,Recreativo_Cultural,Museo,2
+Puerto Varas,Recreativo_Cultural,Biblioteca,1
+Puerto Varas,Recreativo_Cultural,Teatro,0
+Puerto Varas,Seguridad,Bomberos,6
+Puerto Varas,Seguridad,Comisaria,3
+Puerto Varas,Educacion,Colegio,30
+Puerto Varas,Educacion,Jardin_infantil,26
+Puerto Varas,Educacion,Universidad,0
+Puerto Varas,Comercio,Supermercado,11
+Puerto Varas,Comercio,Banco,6
+Puerto Varas,Comercio,Feria,2
+Puerto Varas,Comercio,Almacen,63
+Puerto Varas,Transporte,Metro_estacion,0
+Puerto Varas,Transporte,Tren_estacion,1
+Puerto Varas,Transporte,Metro_entrada,0
+Puerto Varas,Transporte,Paradero_bus,39
+Puerto Varas,Transporte,Paradero_plataforma,1
+Puerto Varas,Transporte,Terminal_bus,3
+Puerto Varas,Negativos,Vertedero,0
+Puerto Varas,Negativos,Planta_residuos,0
+Puerto Varas,Negativos,Industrial,58
+Puerto Varas,Negativos,Fabrica,48
+Puerto Varas,Negativos,Botilleria,6
+Puerto Varas,Negativos,Bar_pub,9
+Puerto Varas,Negativos,Sitio_eriazo,9
+Puerto Varas,Negativos,Suelo_desnudo,0
+Temuco,Salud,Hospital,6
+Temuco,Salud,Clinica,17
+Temuco,Salud,Centro_salud,12
+Temuco,Salud,Consultorio,27
+Temuco,Salud,Farmacia,81
+Temuco,Recreativo_Cultural,Parque,394
+Temuco,Recreativo_Cultural,Mall,10
+Temuco,Recreativo_Cultural,Restaurante,172
+Temuco,Recreativo_Cultural,Museo,3
+Temuco,Recreativo_Cultural,Biblioteca,6
+Temuco,Recreativo_Cultural,Teatro,4
+Temuco,Seguridad,Bomberos,10
+Temuco,Seguridad,Comisaria,9
+Temuco,Educacion,Colegio,182
+Temuco,Educacion,Jardin_infantil,74
+Temuco,Educacion,Universidad,15
+Temuco,Comercio,Supermercado,61
+Temuco,Comercio,Banco,23
+Temuco,Comercio,Feria,7
+Temuco,Comercio,Almacen,209
+Temuco,Transporte,Metro_estacion,0
+Temuco,Transporte,Tren_estacion,2
+Temuco,Transporte,Metro_entrada,0
+Temuco,Transporte,Paradero_bus,437
+Temuco,Transporte,Paradero_plataforma,6
+Temuco,Transporte,Terminal_bus,11
+Temuco,Negativos,Vertedero,0
+Temuco,Negativos,Planta_residuos,0
+Temuco,Negativos,Industrial,92
+Temuco,Negativos,Fabrica,46
+Temuco,Negativos,Botilleria,9
+Temuco,Negativos,Bar_pub,38
+Temuco,Negativos,Sitio_eriazo,8
+Temuco,Negativos,Suelo_desnudo,0
+Chillán,Salud,Hospital,5
+Chillán,Salud,Clinica,8
+Chillán,Salud,Centro_salud,20
+Chillán,Salud,Consultorio,5
+Chillán,Salud,Farmacia,40
+Chillán,Recreativo_Cultural,Parque,407
+Chillán,Recreativo_Cultural,Mall,7
+Chillán,Recreativo_Cultural,Restaurante,49
+Chillán,Recreativo_Cultural,Museo,7
+Chillán,Recreativo_Cultural,Biblioteca,4
+Chillán,Recreativo_Cultural,Teatro,2
+Chillán,Seguridad,Bomberos,4
+Chillán,Seguridad,Comisaria,7
+Chillán,Educacion,Colegio,113
+Chillán,Educacion,Jardin_infantil,58
+Chillán,Educacion,Universidad,9
+Chillán,Comercio,Supermercado,31
+Chillán,Comercio,Banco,15
+Chillán,Comercio,Feria,4
+Chillán,Comercio,Almacen,34
+Chillán,Transporte,Metro_estacion,0
+Chillán,Transporte,Tren_estacion,2
+Chillán,Transporte,Metro_entrada,0
+Chillán,Transporte,Paradero_bus,356
+Chillán,Transporte,Paradero_plataforma,3
+Chillán,Transporte,Terminal_bus,4
+Chillán,Negativos,Vertedero,0
+Chillán,Negativos,Planta_residuos,0
+Chillán,Negativos,Industrial,80
+Chillán,Negativos,Fabrica,13
+Chillán,Negativos,Botilleria,4
+Chillán,Negativos,Bar_pub,12
+Chillán,Negativos,Sitio_eriazo,7
+Chillán,Negativos,Suelo_desnudo,0
+Villa Alemana,Salud,Hospital,1
+Villa Alemana,Salud,Clinica,3
+Villa Alemana,Salud,Centro_salud,5
+Villa Alemana,Salud,Consultorio,11
+Villa Alemana,Salud,Farmacia,26
+Villa Alemana,Recreativo_Cultural,Parque,43
+Villa Alemana,Recreativo_Cultural,Mall,9
+Villa Alemana,Recreativo_Cultural,Restaurante,37
+Villa Alemana,Recreativo_Cultural,Museo,0
+Villa Alemana,Recreativo_Cultural,Biblioteca,1
+Villa Alemana,Recreativo_Cultural,Teatro,3
+Villa Alemana,Seguridad,Bomberos,5
+Villa Alemana,Seguridad,Comisaria,3
+Villa Alemana,Educacion,Colegio,98
+Villa Alemana,Educacion,Jardin_infantil,38
+Villa Alemana,Educacion,Universidad,0
+Villa Alemana,Comercio,Supermercado,13
+Villa Alemana,Comercio,Banco,9
+Villa Alemana,Comercio,Feria,4
+Villa Alemana,Comercio,Almacen,159
+Villa Alemana,Transporte,Metro_estacion,0
+Villa Alemana,Transporte,Tren_estacion,5
+Villa Alemana,Transporte,Metro_entrada,0
+Villa Alemana,Transporte,Paradero_bus,160
+Villa Alemana,Transporte,Paradero_plataforma,12
+Villa Alemana,Transporte,Terminal_bus,2
+Villa Alemana,Negativos,Vertedero,1
+Villa Alemana,Negativos,Planta_residuos,0
+Villa Alemana,Negativos,Industrial,15
+Villa Alemana,Negativos,Fabrica,2
+Villa Alemana,Negativos,Botilleria,40
+Villa Alemana,Negativos,Bar_pub,13
+Villa Alemana,Negativos,Sitio_eriazo,15
+Villa Alemana,Negativos,Suelo_desnudo,1
+Talca,Salud,Hospital,4
+Talca,Salud,Clinica,18
+Talca,Salud,Centro_salud,18
+Talca,Salud,Consultorio,6
+Talca,Salud,Farmacia,37
+Talca,Recreativo_Cultural,Parque,477
+Talca,Recreativo_Cultural,Mall,11
+Talca,Recreativo_Cultural,Restaurante,63
+Talca,Recreativo_Cultural,Museo,4
+Talca,Recreativo_Cultural,Biblioteca,5
+Talca,Recreativo_Cultural,Teatro,6
+Talca,Seguridad,Bomberos,10
+Talca,Seguridad,Comisaria,8
+Talca,Educacion,Colegio,145
+Talca,Educacion,Jardin_infantil,43
+Talca,Educacion,Universidad,9
+Talca,Comercio,Supermercado,31
+Talca,Comercio,Banco,28
+Talca,Comercio,Feria,13
+Talca,Comercio,Almacen,51
+Talca,Transporte,Metro_estacion,0
+Talca,Transporte,Tren_estacion,2
+Talca,Transporte,Metro_entrada,0
+Talca,Transporte,Paradero_bus,235
+Talca,Transporte,Paradero_plataforma,26
+Talca,Transporte,Terminal_bus,5
+Talca,Negativos,Vertedero,0
+Talca,Negativos,Planta_residuos,0
+Talca,Negativos,Industrial,78
+Talca,Negativos,Fabrica,8
+Talca,Negativos,Botilleria,10
+Talca,Negativos,Bar_pub,13
+Talca,Negativos,Sitio_eriazo,16
+Talca,Negativos,Suelo_desnudo,0
+Coronel,Salud,Hospital,2
+Coronel,Salud,Clinica,1
+Coronel,Salud,Centro_salud,9
+Coronel,Salud,Consultorio,8
+Coronel,Salud,Farmacia,10
+Coronel,Recreativo_Cultural,Parque,169
+Coronel,Recreativo_Cultural,Mall,2
+Coronel,Recreativo_Cultural,Restaurante,15
+Coronel,Recreativo_Cultural,Museo,5
+Coronel,Recreativo_Cultural,Biblioteca,2
+Coronel,Recreativo_Cultural,Teatro,1
+Coronel,Seguridad,Bomberos,6
+Coronel,Seguridad,Comisaria,5
+Coronel,Educacion,Colegio,70
+Coronel,Educacion,Jardin_infantil,22
+Coronel,Educacion,Universidad,0
+Coronel,Comercio,Supermercado,15
+Coronel,Comercio,Banco,7
+Coronel,Comercio,Feria,2
+Coronel,Comercio,Almacen,74
+Coronel,Transporte,Metro_estacion,0
+Coronel,Transporte,Tren_estacion,6
+Coronel,Transporte,Metro_entrada,0
+Coronel,Transporte,Paradero_bus,183
+Coronel,Transporte,Paradero_plataforma,2
+Coronel,Transporte,Terminal_bus,2
+Coronel,Negativos,Vertedero,1
+Coronel,Negativos,Planta_residuos,0
+Coronel,Negativos,Industrial,32
+Coronel,Negativos,Fabrica,43
+Coronel,Negativos,Botilleria,13
+Coronel,Negativos,Bar_pub,6
+Coronel,Negativos,Sitio_eriazo,1
+Coronel,Negativos,Suelo_desnudo,2
+Iquique,Salud,Hospital,2
+Iquique,Salud,Clinica,4
+Iquique,Salud,Centro_salud,10
+Iquique,Salud,Consultorio,3
+Iquique,Salud,Farmacia,15
+Iquique,Recreativo_Cultural,Parque,64
+Iquique,Recreativo_Cultural,Mall,6
+Iquique,Recreativo_Cultural,Restaurante,42
+Iquique,Recreativo_Cultural,Museo,8
+Iquique,Recreativo_Cultural,Biblioteca,1
+Iquique,Recreativo_Cultural,Teatro,5
+Iquique,Seguridad,Bomberos,6
+Iquique,Seguridad,Comisaria,4
+Iquique,Educacion,Colegio,106
+Iquique,Educacion,Jardin_infantil,69
+Iquique,Educacion,Universidad,7
+Iquique,Comercio,Supermercado,11
+Iquique,Comercio,Banco,14
+Iquique,Comercio,Feria,5
+Iquique,Comercio,Almacen,8
+Iquique,Transporte,Metro_estacion,0
+Iquique,Transporte,Tren_estacion,1
+Iquique,Transporte,Metro_entrada,0
+Iquique,Transporte,Paradero_bus,215
+Iquique,Transporte,Paradero_plataforma,0
+Iquique,Transporte,Terminal_bus,5
+Iquique,Negativos,Vertedero,0
+Iquique,Negativos,Planta_residuos,0
+Iquique,Negativos,Industrial,22
+Iquique,Negativos,Fabrica,1
+Iquique,Negativos,Botilleria,2
+Iquique,Negativos,Bar_pub,7
+Iquique,Negativos,Sitio_eriazo,1
+Iquique,Negativos,Suelo_desnudo,0
+Quilpué,Salud,Hospital,2
+Quilpué,Salud,Clinica,10
+Quilpué,Salud,Centro_salud,8
+Quilpué,Salud,Consultorio,19
+Quilpué,Salud,Farmacia,48
+Quilpué,Recreativo_Cultural,Parque,86
+Quilpué,Recreativo_Cultural,Mall,13
+Quilpué,Recreativo_Cultural,Restaurante,72
+Quilpué,Recreativo_Cultural,Museo,0
+Quilpué,Recreativo_Cultural,Biblioteca,1
+Quilpué,Recreativo_Cultural,Teatro,2
+Quilpué,Seguridad,Bomberos,5
+Quilpué,Seguridad,Comisaria,3
+Quilpué,Educacion,Colegio,127
+Quilpué,Educacion,Jardin_infantil,52
+Quilpué,Educacion,Universidad,2
+Quilpué,Comercio,Supermercado,23
+Quilpué,Comercio,Banco,7
+Quilpué,Comercio,Feria,17
+Quilpué,Comercio,Almacen,289
+Quilpué,Transporte,Metro_estacion,0
+Quilpué,Transporte,Tren_estacion,5
+Quilpué,Transporte,Metro_entrada,2
+Quilpué,Transporte,Paradero_bus,197
+Quilpué,Transporte,Paradero_plataforma,16
+Quilpué,Transporte,Terminal_bus,1
+Quilpué,Negativos,Vertedero,4
+Quilpué,Negativos,Planta_residuos,0
+Quilpué,Negativos,Industrial,32
+Quilpué,Negativos,Fabrica,13
+Quilpué,Negativos,Botilleria,49
+Quilpué,Negativos,Bar_pub,15
+Quilpué,Negativos,Sitio_eriazo,22
+Quilpué,Negativos,Suelo_desnudo,0
+Talcahuano,Salud,Hospital,4
+Talcahuano,Salud,Clinica,2
+Talcahuano,Salud,Centro_salud,17
+Talcahuano,Salud,Consultorio,2
+Talcahuano,Salud,Farmacia,23
+Talcahuano,Recreativo_Cultural,Parque,239
+Talcahuano,Recreativo_Cultural,Mall,10
+Talcahuano,Recreativo_Cultural,Restaurante,42
+Talcahuano,Recreativo_Cultural,Museo,1
+Talcahuano,Recreativo_Cultural,Biblioteca,0
+Talcahuano,Recreativo_Cultural,Teatro,2
+Talcahuano,Seguridad,Bomberos,7
+Talcahuano,Seguridad,Comisaria,8
+Talcahuano,Educacion,Colegio,93
+Talcahuano,Educacion,Jardin_infantil,19
+Talcahuano,Educacion,Universidad,6
+Talcahuano,Comercio,Supermercado,20
+Talcahuano,Comercio,Banco,21
+Talcahuano,Comercio,Feria,4
+Talcahuano,Comercio,Almacen,77
+Talcahuano,Transporte,Metro_estacion,0
+Talcahuano,Transporte,Tren_estacion,5
+Talcahuano,Transporte,Metro_entrada,0
+Talcahuano,Transporte,Paradero_bus,509
+Talcahuano,Transporte,Paradero_plataforma,26
+Talcahuano,Transporte,Terminal_bus,2
+Talcahuano,Negativos,Vertedero,3
+Talcahuano,Negativos,Planta_residuos,0
+Talcahuano,Negativos,Industrial,84
+Talcahuano,Negativos,Fabrica,4
+Talcahuano,Negativos,Botilleria,6
+Talcahuano,Negativos,Bar_pub,5
+Talcahuano,Negativos,Sitio_eriazo,2
+Talcahuano,Negativos,Suelo_desnudo,8
+La Serena,Salud,Hospital,4
+La Serena,Salud,Clinica,19
+La Serena,Salud,Centro_salud,15
+La Serena,Salud,Consultorio,5
+La Serena,Salud,Farmacia,53
+La Serena,Recreativo_Cultural,Parque,620
+La Serena,Recreativo_Cultural,Mall,22
+La Serena,Recreativo_Cultural,Restaurante,135
+La Serena,Recreativo_Cultural,Museo,11
+La Serena,Recreativo_Cultural,Biblioteca,5
+La Serena,Recreativo_Cultural,Teatro,11
+La Serena,Seguridad,Bomberos,6
+La Serena,Seguridad,Comisaria,10
+La Serena,Educacion,Colegio,177
+La Serena,Educacion,Jardin_infantil,84
+La Serena,Educacion,Universidad,13
+La Serena,Comercio,Supermercado,34
+La Serena,Comercio,Banco,26
+La Serena,Comercio,Feria,6
+La Serena,Comercio,Almacen,52
+La Serena,Transporte,Metro_estacion,0
+La Serena,Transporte,Tren_estacion,1
+La Serena,Transporte,Metro_entrada,0
+La Serena,Transporte,Paradero_bus,318
+La Serena,Transporte,Paradero_plataforma,2
+La Serena,Transporte,Terminal_bus,3
+La Serena,Negativos,Vertedero,0
+La Serena,Negativos,Planta_residuos,0
+La Serena,Negativos,Industrial,64
+La Serena,Negativos,Fabrica,3
+La Serena,Negativos,Botilleria,7
+La Serena,Negativos,Bar_pub,25
+La Serena,Negativos,Sitio_eriazo,28
+La Serena,Negativos,Suelo_desnudo,1
+Hualpén,Salud,Hospital,1
+Hualpén,Salud,Clinica,4
+Hualpén,Salud,Centro_salud,14
+Hualpén,Salud,Consultorio,1
+Hualpén,Salud,Farmacia,12
+Hualpén,Recreativo_Cultural,Parque,111
+Hualpén,Recreativo_Cultural,Mall,4
+Hualpén,Recreativo_Cultural,Restaurante,28
+Hualpén,Recreativo_Cultural,Museo,1
+Hualpén,Recreativo_Cultural,Biblioteca,1
+Hualpén,Recreativo_Cultural,Teatro,0
+Hualpén,Seguridad,Bomberos,3
+Hualpén,Seguridad,Comisaria,5
+Hualpén,Educacion,Colegio,47
+Hualpén,Educacion,Jardin_infantil,11
+Hualpén,Educacion,Universidad,4
+Hualpén,Comercio,Supermercado,20
+Hualpén,Comercio,Banco,9
+Hualpén,Comercio,Feria,1
+Hualpén,Comercio,Almacen,102
+Hualpén,Transporte,Metro_estacion,0
+Hualpén,Transporte,Tren_estacion,1
+Hualpén,Transporte,Metro_entrada,0
+Hualpén,Transporte,Paradero_bus,358
+Hualpén,Transporte,Paradero_plataforma,9
+Hualpén,Transporte,Terminal_bus,1
+Hualpén,Negativos,Vertedero,2
+Hualpén,Negativos,Planta_residuos,0
+Hualpén,Negativos,Industrial,47
+Hualpén,Negativos,Fabrica,1
+Hualpén,Negativos,Botilleria,6
+Hualpén,Negativos,Bar_pub,2
+Hualpén,Negativos,Sitio_eriazo,0
+Hualpén,Negativos,Suelo_desnudo,24
+Puerto Montt,Salud,Hospital,6
+Puerto Montt,Salud,Clinica,8
+Puerto Montt,Salud,Centro_salud,13
+Puerto Montt,Salud,Consultorio,6
+Puerto Montt,Salud,Farmacia,24
+Puerto Montt,Recreativo_Cultural,Parque,817
+Puerto Montt,Recreativo_Cultural,Mall,14
+Puerto Montt,Recreativo_Cultural,Restaurante,95
+Puerto Montt,Recreativo_Cultural,Museo,2
+Puerto Montt,Recreativo_Cultural,Biblioteca,4
+Puerto Montt,Recreativo_Cultural,Teatro,2
+Puerto Montt,Seguridad,Bomberos,15
+Puerto Montt,Seguridad,Comisaria,9
+Puerto Montt,Educacion,Colegio,147
+Puerto Montt,Educacion,Jardin_infantil,96
+Puerto Montt,Educacion,Universidad,13
+Puerto Montt,Comercio,Supermercado,41
+Puerto Montt,Comercio,Banco,19
+Puerto Montt,Comercio,Feria,11
+Puerto Montt,Comercio,Almacen,73
+Puerto Montt,Transporte,Metro_estacion,0
+Puerto Montt,Transporte,Tren_estacion,2
+Puerto Montt,Transporte,Metro_entrada,0
+Puerto Montt,Transporte,Paradero_bus,295
+Puerto Montt,Transporte,Paradero_plataforma,22
+Puerto Montt,Transporte,Terminal_bus,4
+Puerto Montt,Negativos,Vertedero,0
+Puerto Montt,Negativos,Planta_residuos,0
+Puerto Montt,Negativos,Industrial,170
+Puerto Montt,Negativos,Fabrica,68
+Puerto Montt,Negativos,Botilleria,19
+Puerto Montt,Negativos,Bar_pub,25
+Puerto Montt,Negativos,Sitio_eriazo,11
+Puerto Montt,Negativos,Suelo_desnudo,0
+Lota,Salud,Hospital,1
+Lota,Salud,Clinica,0
+Lota,Salud,Centro_salud,4
+Lota,Salud,Consultorio,2
+Lota,Salud,Farmacia,4
+Lota,Recreativo_Cultural,Parque,7
+Lota,Recreativo_Cultural,Mall,0
+Lota,Recreativo_Cultural,Restaurante,4
+Lota,Recreativo_Cultural,Museo,2
+Lota,Recreativo_Cultural,Biblioteca,0
+Lota,Recreativo_Cultural,Teatro,2
+Lota,Seguridad,Bomberos,1
+Lota,Seguridad,Comisaria,1
+Lota,Educacion,Colegio,26
+Lota,Educacion,Jardin_infantil,5
+Lota,Educacion,Universidad,0
+Lota,Comercio,Supermercado,3
+Lota,Comercio,Banco,2
+Lota,Comercio,Feria,1
+Lota,Comercio,Almacen,6
+Lota,Transporte,Metro_estacion,0
+Lota,Transporte,Tren_estacion,0
+Lota,Transporte,Metro_entrada,0
+Lota,Transporte,Paradero_bus,40
+Lota,Transporte,Paradero_plataforma,0
+Lota,Transporte,Terminal_bus,3
+Lota,Negativos,Vertedero,1
+Lota,Negativos,Planta_residuos,0
+Lota,Negativos,Industrial,6
+Lota,Negativos,Fabrica,0
+Lota,Negativos,Botilleria,0
+Lota,Negativos,Bar_pub,2
+Lota,Negativos,Sitio_eriazo,0
+Lota,Negativos,Suelo_desnudo,0
+Tomé,Salud,Hospital,1
+Tomé,Salud,Clinica,0
+Tomé,Salud,Centro_salud,7
+Tomé,Salud,Consultorio,5
+Tomé,Salud,Farmacia,6
+Tomé,Recreativo_Cultural,Parque,28
+Tomé,Recreativo_Cultural,Mall,0
+Tomé,Recreativo_Cultural,Restaurante,29
+Tomé,Recreativo_Cultural,Museo,0
+Tomé,Recreativo_Cultural,Biblioteca,0
+Tomé,Recreativo_Cultural,Teatro,1
+Tomé,Seguridad,Bomberos,3
+Tomé,Seguridad,Comisaria,3
+Tomé,Educacion,Colegio,50
+Tomé,Educacion,Jardin_infantil,3
+Tomé,Educacion,Universidad,1
+Tomé,Comercio,Supermercado,6
+Tomé,Comercio,Banco,1
+Tomé,Comercio,Feria,3
+Tomé,Comercio,Almacen,25
+Tomé,Transporte,Metro_estacion,0
+Tomé,Transporte,Tren_estacion,0
+Tomé,Transporte,Metro_entrada,0
+Tomé,Transporte,Paradero_bus,62
+Tomé,Transporte,Paradero_plataforma,0
+Tomé,Transporte,Terminal_bus,1
+Tomé,Negativos,Vertedero,0
+Tomé,Negativos,Planta_residuos,0
+Tomé,Negativos,Industrial,4
+Tomé,Negativos,Fabrica,0
+Tomé,Negativos,Botilleria,5
+Tomé,Negativos,Bar_pub,3
+Tomé,Negativos,Sitio_eriazo,0
+Tomé,Negativos,Suelo_desnudo,5
+Alto Hospicio,Salud,Hospital,2
+Alto Hospicio,Salud,Clinica,0
+Alto Hospicio,Salud,Centro_salud,9
+Alto Hospicio,Salud,Consultorio,0
+Alto Hospicio,Salud,Farmacia,3
+Alto Hospicio,Recreativo_Cultural,Parque,40
+Alto Hospicio,Recreativo_Cultural,Mall,0
+Alto Hospicio,Recreativo_Cultural,Restaurante,3
+Alto Hospicio,Recreativo_Cultural,Museo,1
+Alto Hospicio,Recreativo_Cultural,Biblioteca,0
+Alto Hospicio,Recreativo_Cultural,Teatro,3
+Alto Hospicio,Seguridad,Bomberos,2
+Alto Hospicio,Seguridad,Comisaria,1
+Alto Hospicio,Educacion,Colegio,50
+Alto Hospicio,Educacion,Jardin_infantil,24
+Alto Hospicio,Educacion,Universidad,0
+Alto Hospicio,Comercio,Supermercado,4
+Alto Hospicio,Comercio,Banco,6
+Alto Hospicio,Comercio,Feria,2
+Alto Hospicio,Comercio,Almacen,0
+Alto Hospicio,Transporte,Metro_estacion,0
+Alto Hospicio,Transporte,Tren_estacion,0
+Alto Hospicio,Transporte,Metro_entrada,0
+Alto Hospicio,Transporte,Paradero_bus,124
+Alto Hospicio,Transporte,Paradero_plataforma,0
+Alto Hospicio,Transporte,Terminal_bus,4
+Alto Hospicio,Negativos,Vertedero,29
+Alto Hospicio,Negativos,Planta_residuos,0
+Alto Hospicio,Negativos,Industrial,39
+Alto Hospicio,Negativos,Fabrica,0
+Alto Hospicio,Negativos,Botilleria,1
+Alto Hospicio,Negativos,Bar_pub,0
+Alto Hospicio,Negativos,Sitio_eriazo,2
+Alto Hospicio,Negativos,Suelo_desnudo,0
+Coquimbo,Salud,Hospital,2
+Coquimbo,Salud,Clinica,2
+Coquimbo,Salud,Centro_salud,13
+Coquimbo,Salud,Consultorio,2
+Coquimbo,Salud,Farmacia,16
+Coquimbo,Recreativo_Cultural,Parque,556
+Coquimbo,Recreativo_Cultural,Mall,12
+Coquimbo,Recreativo_Cultural,Restaurante,51
+Coquimbo,Recreativo_Cultural,Museo,4
+Coquimbo,Recreativo_Cultural,Biblioteca,3
+Coquimbo,Recreativo_Cultural,Teatro,3
+Coquimbo,Seguridad,Bomberos,6
+Coquimbo,Seguridad,Comisaria,8
+Coquimbo,Educacion,Colegio,134
+Coquimbo,Educacion,Jardin_infantil,60
+Coquimbo,Educacion,Universidad,1
+Coquimbo,Comercio,Supermercado,19
+Coquimbo,Comercio,Banco,9
+Coquimbo,Comercio,Feria,6
+Coquimbo,Comercio,Almacen,33
+Coquimbo,Transporte,Metro_estacion,0
+Coquimbo,Transporte,Tren_estacion,1
+Coquimbo,Transporte,Metro_entrada,0
+Coquimbo,Transporte,Paradero_bus,342
+Coquimbo,Transporte,Paradero_plataforma,1
+Coquimbo,Transporte,Terminal_bus,1
+Coquimbo,Negativos,Vertedero,2
+Coquimbo,Negativos,Planta_residuos,0
+Coquimbo,Negativos,Industrial,65
+Coquimbo,Negativos,Fabrica,20
+Coquimbo,Negativos,Botilleria,7
+Coquimbo,Negativos,Bar_pub,17
+Coquimbo,Negativos,Sitio_eriazo,34
+Coquimbo,Negativos,Suelo_desnudo,11
+Penco,Salud,Hospital,1
+Penco,Salud,Clinica,3
+Penco,Salud,Centro_salud,8
+Penco,Salud,Consultorio,0
+Penco,Salud,Farmacia,8
+Penco,Recreativo_Cultural,Parque,45
+Penco,Recreativo_Cultural,Mall,3
+Penco,Recreativo_Cultural,Restaurante,26
+Penco,Recreativo_Cultural,Museo,1
+Penco,Recreativo_Cultural,Biblioteca,0
+Penco,Recreativo_Cultural,Teatro,0
+Penco,Seguridad,Bomberos,4
+Penco,Seguridad,Comisaria,2
+Penco,Educacion,Colegio,37
+Penco,Educacion,Jardin_infantil,6
+Penco,Educacion,Universidad,0
+Penco,Comercio,Supermercado,12
+Penco,Comercio,Banco,2
+Penco,Comercio,Feria,0
+Penco,Comercio,Almacen,48
+Penco,Transporte,Metro_estacion,0
+Penco,Transporte,Tren_estacion,1
+Penco,Transporte,Metro_entrada,0
+Penco,Transporte,Paradero_bus,214
+Penco,Transporte,Paradero_plataforma,2
+Penco,Transporte,Terminal_bus,2
+Penco,Negativos,Vertedero,1
+Penco,Negativos,Planta_residuos,0
+Penco,Negativos,Industrial,18
+Penco,Negativos,Fabrica,0
+Penco,Negativos,Botilleria,3
+Penco,Negativos,Bar_pub,7
+Penco,Negativos,Sitio_eriazo,1
+Penco,Negativos,Suelo_desnudo,0
+Padre Las Casas,Salud,Hospital,2
+Padre Las Casas,Salud,Clinica,1
+Padre Las Casas,Salud,Centro_salud,5
+Padre Las Casas,Salud,Consultorio,10
+Padre Las Casas,Salud,Farmacia,6
+Padre Las Casas,Recreativo_Cultural,Parque,108
+Padre Las Casas,Recreativo_Cultural,Mall,2
+Padre Las Casas,Recreativo_Cultural,Restaurante,12
+Padre Las Casas,Recreativo_Cultural,Museo,0
+Padre Las Casas,Recreativo_Cultural,Biblioteca,0
+Padre Las Casas,Recreativo_Cultural,Teatro,0
+Padre Las Casas,Seguridad,Bomberos,1
+Padre Las Casas,Seguridad,Comisaria,1
+Padre Las Casas,Educacion,Colegio,105
+Padre Las Casas,Educacion,Jardin_infantil,27
+Padre Las Casas,Educacion,Universidad,1
+Padre Las Casas,Comercio,Supermercado,9
+Padre Las Casas,Comercio,Banco,1
+Padre Las Casas,Comercio,Feria,3
+Padre Las Casas,Comercio,Almacen,74
+Padre Las Casas,Transporte,Metro_estacion,0
+Padre Las Casas,Transporte,Tren_estacion,1
+Padre Las Casas,Transporte,Metro_entrada,0
+Padre Las Casas,Transporte,Paradero_bus,115
+Padre Las Casas,Transporte,Paradero_plataforma,3
+Padre Las Casas,Transporte,Terminal_bus,0
+Padre Las Casas,Negativos,Vertedero,0
+Padre Las Casas,Negativos,Planta_residuos,0
+Padre Las Casas,Negativos,Industrial,49
+Padre Las Casas,Negativos,Fabrica,52
+Padre Las Casas,Negativos,Botilleria,0
+Padre Las Casas,Negativos,Bar_pub,1
+Padre Las Casas,Negativos,Sitio_eriazo,9
+Padre Las Casas,Negativos,Suelo_desnudo,0
+Chillán Viejo,Salud,Hospital,1
+Chillán Viejo,Salud,Clinica,0
+Chillán Viejo,Salud,Centro_salud,6
+Chillán Viejo,Salud,Consultorio,2
+Chillán Viejo,Salud,Farmacia,3
+Chillán Viejo,Recreativo_Cultural,Parque,108
+Chillán Viejo,Recreativo_Cultural,Mall,0
+Chillán Viejo,Recreativo_Cultural,Restaurante,3
+Chillán Viejo,Recreativo_Cultural,Museo,0
+Chillán Viejo,Recreativo_Cultural,Biblioteca,1
+Chillán Viejo,Recreativo_Cultural,Teatro,0
+Chillán Viejo,Seguridad,Bomberos,1
+Chillán Viejo,Seguridad,Comisaria,2
+Chillán Viejo,Educacion,Colegio,25
+Chillán Viejo,Educacion,Jardin_infantil,13
+Chillán Viejo,Educacion,Universidad,0
+Chillán Viejo,Comercio,Supermercado,3
+Chillán Viejo,Comercio,Banco,1
+Chillán Viejo,Comercio,Feria,0
+Chillán Viejo,Comercio,Almacen,9
+Chillán Viejo,Transporte,Metro_estacion,0
+Chillán Viejo,Transporte,Tren_estacion,2
+Chillán Viejo,Transporte,Metro_entrada,0
+Chillán Viejo,Transporte,Paradero_bus,122
+Chillán Viejo,Transporte,Paradero_plataforma,1
+Chillán Viejo,Transporte,Terminal_bus,0
+Chillán Viejo,Negativos,Vertedero,2
+Chillán Viejo,Negativos,Planta_residuos,0
+Chillán Viejo,Negativos,Industrial,56
+Chillán Viejo,Negativos,Fabrica,10
+Chillán Viejo,Negativos,Botilleria,1
+Chillán Viejo,Negativos,Bar_pub,1
+Chillán Viejo,Negativos,Sitio_eriazo,0
+Chillán Viejo,Negativos,Suelo_desnudo,0
+Rengo,Salud,Hospital,3
+Rengo,Salud,Clinica,3
+Rengo,Salud,Centro_salud,4
+Rengo,Salud,Consultorio,7
+Rengo,Salud,Farmacia,9
+Rengo,Recreativo_Cultural,Parque,98
+Rengo,Recreativo_Cultural,Mall,4
+Rengo,Recreativo_Cultural,Restaurante,26
+Rengo,Recreativo_Cultural,Museo,4
+Rengo,Recreativo_Cultural,Biblioteca,1
+Rengo,Recreativo_Cultural,Teatro,1
+Rengo,Seguridad,Bomberos,10
+Rengo,Seguridad,Comisaria,4
+Rengo,Educacion,Colegio,43
+Rengo,Educacion,Jardin_infantil,16
+Rengo,Educacion,Universidad,1
+Rengo,Comercio,Supermercado,16
+Rengo,Comercio,Banco,7
+Rengo,Comercio,Feria,1
+Rengo,Comercio,Almacen,21
+Rengo,Transporte,Metro_estacion,0
+Rengo,Transporte,Tren_estacion,2
+Rengo,Transporte,Metro_entrada,0
+Rengo,Transporte,Paradero_bus,109
+Rengo,Transporte,Paradero_plataforma,4
+Rengo,Transporte,Terminal_bus,1
+Rengo,Negativos,Vertedero,0
+Rengo,Negativos,Planta_residuos,0
+Rengo,Negativos,Industrial,71
+Rengo,Negativos,Fabrica,7
+Rengo,Negativos,Botilleria,2
+Rengo,Negativos,Bar_pub,3
+Rengo,Negativos,Sitio_eriazo,4
+Rengo,Negativos,Suelo_desnudo,11
+Coyhaique,Salud,Hospital,1
+Coyhaique,Salud,Clinica,6
+Coyhaique,Salud,Centro_salud,7
+Coyhaique,Salud,Consultorio,2
+Coyhaique,Salud,Farmacia,5
+Coyhaique,Recreativo_Cultural,Parque,52
+Coyhaique,Recreativo_Cultural,Mall,1
+Coyhaique,Recreativo_Cultural,Restaurante,52
+Coyhaique,Recreativo_Cultural,Museo,3
+Coyhaique,Recreativo_Cultural,Biblioteca,2
+Coyhaique,Recreativo_Cultural,Teatro,0
+Coyhaique,Seguridad,Bomberos,4
+Coyhaique,Seguridad,Comisaria,3
+Coyhaique,Educacion,Colegio,40
+Coyhaique,Educacion,Jardin_infantil,19
+Coyhaique,Educacion,Universidad,4
+Coyhaique,Comercio,Supermercado,15
+Coyhaique,Comercio,Banco,11
+Coyhaique,Comercio,Feria,3
+Coyhaique,Comercio,Almacen,28
+Coyhaique,Transporte,Metro_estacion,0
+Coyhaique,Transporte,Tren_estacion,0
+Coyhaique,Transporte,Metro_entrada,0
+Coyhaique,Transporte,Paradero_bus,78
+Coyhaique,Transporte,Paradero_plataforma,0
+Coyhaique,Transporte,Terminal_bus,6
+Coyhaique,Negativos,Vertedero,0
+Coyhaique,Negativos,Planta_residuos,0
+Coyhaique,Negativos,Industrial,17
+Coyhaique,Negativos,Fabrica,0
+Coyhaique,Negativos,Botilleria,2
+Coyhaique,Negativos,Bar_pub,6
+Coyhaique,Negativos,Sitio_eriazo,2
+Coyhaique,Negativos,Suelo_desnudo,2
+Valdivia,Salud,Hospital,3
+Valdivia,Salud,Clinica,14
+Valdivia,Salud,Centro_salud,13
+Valdivia,Salud,Consultorio,11
+Valdivia,Salud,Farmacia,34
+Valdivia,Recreativo_Cultural,Parque,380
+Valdivia,Recreativo_Cultural,Mall,12
+Valdivia,Recreativo_Cultural,Restaurante,98
+Valdivia,Recreativo_Cultural,Museo,12
+Valdivia,Recreativo_Cultural,Biblioteca,2
+Valdivia,Recreativo_Cultural,Teatro,5
+Valdivia,Seguridad,Bomberos,10
+Valdivia,Seguridad,Comisaria,11
+Valdivia,Educacion,Colegio,90
+Valdivia,Educacion,Jardin_infantil,40
+Valdivia,Educacion,Universidad,11
+Valdivia,Comercio,Supermercado,42
+Valdivia,Comercio,Banco,16
+Valdivia,Comercio,Feria,12
+Valdivia,Comercio,Almacen,157
+Valdivia,Transporte,Metro_estacion,0
+Valdivia,Transporte,Tren_estacion,1
+Valdivia,Transporte,Metro_entrada,0
+Valdivia,Transporte,Paradero_bus,414
+Valdivia,Transporte,Paradero_plataforma,1
+Valdivia,Transporte,Terminal_bus,9
+Valdivia,Negativos,Vertedero,0
+Valdivia,Negativos,Planta_residuos,0
+Valdivia,Negativos,Industrial,50
+Valdivia,Negativos,Fabrica,16
+Valdivia,Negativos,Botilleria,44
+Valdivia,Negativos,Bar_pub,45
+Valdivia,Negativos,Sitio_eriazo,0
+Valdivia,Negativos,Suelo_desnudo,0
+La Calera,Salud,Hospital,2
+La Calera,Salud,Clinica,2
+La Calera,Salud,Centro_salud,7
+La Calera,Salud,Consultorio,4
+La Calera,Salud,Farmacia,3
+La Calera,Recreativo_Cultural,Parque,42
+La Calera,Recreativo_Cultural,Mall,1
+La Calera,Recreativo_Cultural,Restaurante,3
+La Calera,Recreativo_Cultural,Museo,0
+La Calera,Recreativo_Cultural,Biblioteca,0
+La Calera,Recreativo_Cultural,Teatro,1
+La Calera,Seguridad,Bomberos,1
+La Calera,Seguridad,Comisaria,1
+La Calera,Educacion,Colegio,41
+La Calera,Educacion,Jardin_infantil,18
+La Calera,Educacion,Universidad,0
+La Calera,Comercio,Supermercado,8
+La Calera,Comercio,Banco,8
+La Calera,Comercio,Feria,1
+La Calera,Comercio,Almacen,16
+La Calera,Transporte,Metro_estacion,0
+La Calera,Transporte,Tren_estacion,2
+La Calera,Transporte,Metro_entrada,0
+La Calera,Transporte,Paradero_bus,51
+La Calera,Transporte,Paradero_plataforma,0
+La Calera,Transporte,Terminal_bus,3
+La Calera,Negativos,Vertedero,1
+La Calera,Negativos,Planta_residuos,0
+La Calera,Negativos,Industrial,11
+La Calera,Negativos,Fabrica,0
+La Calera,Negativos,Botilleria,2
+La Calera,Negativos,Bar_pub,0
+La Calera,Negativos,Sitio_eriazo,4
+La Calera,Negativos,Suelo_desnudo,0
+Calama,Salud,Hospital,3
+Calama,Salud,Clinica,6
+Calama,Salud,Centro_salud,12
+Calama,Salud,Consultorio,1
+Calama,Salud,Farmacia,15
+Calama,Recreativo_Cultural,Parque,60
+Calama,Recreativo_Cultural,Mall,5
+Calama,Recreativo_Cultural,Restaurante,46
+Calama,Recreativo_Cultural,Museo,1
+Calama,Recreativo_Cultural,Biblioteca,1
+Calama,Recreativo_Cultural,Teatro,1
+Calama,Seguridad,Bomberos,3
+Calama,Seguridad,Comisaria,7
+Calama,Educacion,Colegio,61
+Calama,Educacion,Jardin_infantil,27
+Calama,Educacion,Universidad,3
+Calama,Comercio,Supermercado,10
+Calama,Comercio,Banco,13
+Calama,Comercio,Feria,3
+Calama,Comercio,Almacen,16
+Calama,Transporte,Metro_estacion,0
+Calama,Transporte,Tren_estacion,1
+Calama,Transporte,Metro_entrada,0
+Calama,Transporte,Paradero_bus,243
+Calama,Transporte,Paradero_plataforma,1
+Calama,Transporte,Terminal_bus,10
+Calama,Negativos,Vertedero,4
+Calama,Negativos,Planta_residuos,1
+Calama,Negativos,Industrial,142
+Calama,Negativos,Fabrica,3
+Calama,Negativos,Botilleria,0
+Calama,Negativos,Bar_pub,7
+Calama,Negativos,Sitio_eriazo,1
+Calama,Negativos,Suelo_desnudo,1
+Curicó,Salud,Hospital,4
+Curicó,Salud,Clinica,5
+Curicó,Salud,Centro_salud,11
+Curicó,Salud,Consultorio,8
+Curicó,Salud,Farmacia,16
+Curicó,Recreativo_Cultural,Parque,249
+Curicó,Recreativo_Cultural,Mall,2
+Curicó,Recreativo_Cultural,Restaurante,41
+Curicó,Recreativo_Cultural,Museo,2
+Curicó,Recreativo_Cultural,Biblioteca,2
+Curicó,Recreativo_Cultural,Teatro,3
+Curicó,Seguridad,Bomberos,6
+Curicó,Seguridad,Comisaria,7
+Curicó,Educacion,Colegio,90
+Curicó,Educacion,Jardin_infantil,28
+Curicó,Educacion,Universidad,8
+Curicó,Comercio,Supermercado,23
+Curicó,Comercio,Banco,13
+Curicó,Comercio,Feria,7
+Curicó,Comercio,Almacen,60
+Curicó,Transporte,Metro_estacion,0
+Curicó,Transporte,Tren_estacion,1
+Curicó,Transporte,Metro_entrada,0
+Curicó,Transporte,Paradero_bus,118
+Curicó,Transporte,Paradero_plataforma,0
+Curicó,Transporte,Terminal_bus,4
+Curicó,Negativos,Vertedero,1
+Curicó,Negativos,Planta_residuos,0
+Curicó,Negativos,Industrial,74
+Curicó,Negativos,Fabrica,51
+Curicó,Negativos,Botilleria,15
+Curicó,Negativos,Bar_pub,14
+Curicó,Negativos,Sitio_eriazo,7
+Curicó,Negativos,Suelo_desnudo,0
+Los Andes,Salud,Hospital,2
+Los Andes,Salud,Clinica,2
+Los Andes,Salud,Centro_salud,5
+Los Andes,Salud,Consultorio,1
+Los Andes,Salud,Farmacia,9
+Los Andes,Recreativo_Cultural,Parque,76
+Los Andes,Recreativo_Cultural,Mall,3
+Los Andes,Recreativo_Cultural,Restaurante,10
+Los Andes,Recreativo_Cultural,Museo,4
+Los Andes,Recreativo_Cultural,Biblioteca,1
+Los Andes,Recreativo_Cultural,Teatro,0
+Los Andes,Seguridad,Bomberos,1
+Los Andes,Seguridad,Comisaria,1
+Los Andes,Educacion,Colegio,46
+Los Andes,Educacion,Jardin_infantil,9
+Los Andes,Educacion,Universidad,1
+Los Andes,Comercio,Supermercado,9
+Los Andes,Comercio,Banco,6
+Los Andes,Comercio,Feria,0
+Los Andes,Comercio,Almacen,4
+Los Andes,Transporte,Metro_estacion,0
+Los Andes,Transporte,Tren_estacion,1
+Los Andes,Transporte,Metro_entrada,0
+Los Andes,Transporte,Paradero_bus,15
+Los Andes,Transporte,Paradero_plataforma,3
+Los Andes,Transporte,Terminal_bus,3
+Los Andes,Negativos,Vertedero,0
+Los Andes,Negativos,Planta_residuos,0
+Los Andes,Negativos,Industrial,17
+Los Andes,Negativos,Fabrica,0
+Los Andes,Negativos,Botilleria,2
+Los Andes,Negativos,Bar_pub,2
+Los Andes,Negativos,Sitio_eriazo,1
+Los Andes,Negativos,Suelo_desnudo,7
+San Felipe,Salud,Hospital,2
+San Felipe,Salud,Clinica,1
+San Felipe,Salud,Centro_salud,6
+San Felipe,Salud,Consultorio,0
+San Felipe,Salud,Farmacia,8
+San Felipe,Recreativo_Cultural,Parque,24
+San Felipe,Recreativo_Cultural,Mall,1
+San Felipe,Recreativo_Cultural,Restaurante,11
+San Felipe,Recreativo_Cultural,Museo,7
+San Felipe,Recreativo_Cultural,Biblioteca,0
+San Felipe,Recreativo_Cultural,Teatro,1
+San Felipe,Seguridad,Bomberos,4
+San Felipe,Seguridad,Comisaria,4
+San Felipe,Educacion,Colegio,53
+San Felipe,Educacion,Jardin_infantil,8
+San Felipe,Educacion,Universidad,3
+San Felipe,Comercio,Supermercado,10
+San Felipe,Comercio,Banco,5
+San Felipe,Comercio,Feria,2
+San Felipe,Comercio,Almacen,7
+San Felipe,Transporte,Metro_estacion,0
+San Felipe,Transporte,Tren_estacion,0
+San Felipe,Transporte,Metro_entrada,0
+San Felipe,Transporte,Paradero_bus,10
+San Felipe,Transporte,Paradero_plataforma,0
+San Felipe,Transporte,Terminal_bus,1
+San Felipe,Negativos,Vertedero,3
+San Felipe,Negativos,Planta_residuos,0
+San Felipe,Negativos,Industrial,33
+San Felipe,Negativos,Fabrica,1
+San Felipe,Negativos,Botilleria,4
+San Felipe,Negativos,Bar_pub,9
+San Felipe,Negativos,Sitio_eriazo,1
+San Felipe,Negativos,Suelo_desnudo,0
+Antofagasta,Salud,Hospital,8
+Antofagasta,Salud,Clinica,22
+Antofagasta,Salud,Centro_salud,19
+Antofagasta,Salud,Consultorio,7
+Antofagasta,Salud,Farmacia,33
+Antofagasta,Recreativo_Cultural,Parque,128
+Antofagasta,Recreativo_Cultural,Mall,6
+Antofagasta,Recreativo_Cultural,Restaurante,121
+Antofagasta,Recreativo_Cultural,Museo,6
+Antofagasta,Recreativo_Cultural,Biblioteca,7
+Antofagasta,Recreativo_Cultural,Teatro,7
+Antofagasta,Seguridad,Bomberos,5
+Antofagasta,Seguridad,Comisaria,13
+Antofagasta,Educacion,Colegio,126
+Antofagasta,Educacion,Jardin_infantil,70
+Antofagasta,Educacion,Universidad,12
+Antofagasta,Comercio,Supermercado,26
+Antofagasta,Comercio,Banco,26
+Antofagasta,Comercio,Feria,4
+Antofagasta,Comercio,Almacen,68
+Antofagasta,Transporte,Metro_estacion,0
+Antofagasta,Transporte,Tren_estacion,1
+Antofagasta,Transporte,Metro_entrada,0
+Antofagasta,Transporte,Paradero_bus,639
+Antofagasta,Transporte,Paradero_plataforma,8
+Antofagasta,Transporte,Terminal_bus,3
+Antofagasta,Negativos,Vertedero,2
+Antofagasta,Negativos,Planta_residuos,0
+Antofagasta,Negativos,Industrial,219
+Antofagasta,Negativos,Fabrica,0
+Antofagasta,Negativos,Botilleria,11
+Antofagasta,Negativos,Bar_pub,26
+Antofagasta,Negativos,Sitio_eriazo,6
+Antofagasta,Negativos,Suelo_desnudo,0
+Copiapó,Salud,Hospital,4
+Copiapó,Salud,Clinica,4
+Copiapó,Salud,Centro_salud,13
+Copiapó,Salud,Consultorio,2
+Copiapó,Salud,Farmacia,9
+Copiapó,Recreativo_Cultural,Parque,120
+Copiapó,Recreativo_Cultural,Mall,6
+Copiapó,Recreativo_Cultural,Restaurante,24
+Copiapó,Recreativo_Cultural,Museo,4
+Copiapó,Recreativo_Cultural,Biblioteca,2
+Copiapó,Recreativo_Cultural,Teatro,3
+Copiapó,Seguridad,Bomberos,6
+Copiapó,Seguridad,Comisaria,5
+Copiapó,Educacion,Colegio,68
+Copiapó,Educacion,Jardin_infantil,41
+Copiapó,Educacion,Universidad,6
+Copiapó,Comercio,Supermercado,19
+Copiapó,Comercio,Banco,16
+Copiapó,Comercio,Feria,0
+Copiapó,Comercio,Almacen,2
+Copiapó,Transporte,Metro_estacion,0
+Copiapó,Transporte,Tren_estacion,1
+Copiapó,Transporte,Metro_entrada,0
+Copiapó,Transporte,Paradero_bus,349
+Copiapó,Transporte,Paradero_plataforma,0
+Copiapó,Transporte,Terminal_bus,3
+Copiapó,Negativos,Vertedero,14
+Copiapó,Negativos,Planta_residuos,0
+Copiapó,Negativos,Industrial,68
+Copiapó,Negativos,Fabrica,0
+Copiapó,Negativos,Botilleria,0
+Copiapó,Negativos,Bar_pub,3
+Copiapó,Negativos,Sitio_eriazo,2
+Copiapó,Negativos,Suelo_desnudo,0
+Villarrica,Salud,Hospital,2
+Villarrica,Salud,Clinica,0
+Villarrica,Salud,Centro_salud,5
+Villarrica,Salud,Consultorio,3
+Villarrica,Salud,Farmacia,16
+Villarrica,Recreativo_Cultural,Parque,48
+Villarrica,Recreativo_Cultural,Mall,4
+Villarrica,Recreativo_Cultural,Restaurante,49
+Villarrica,Recreativo_Cultural,Museo,3
+Villarrica,Recreativo_Cultural,Biblioteca,3
+Villarrica,Recreativo_Cultural,Teatro,1
+Villarrica,Seguridad,Bomberos,4
+Villarrica,Seguridad,Comisaria,1
+Villarrica,Educacion,Colegio,41
+Villarrica,Educacion,Jardin_infantil,13
+Villarrica,Educacion,Universidad,1
+Villarrica,Comercio,Supermercado,19
+Villarrica,Comercio,Banco,7
+Villarrica,Comercio,Feria,3
+Villarrica,Comercio,Almacen,33
+Villarrica,Transporte,Metro_estacion,0
+Villarrica,Transporte,Tren_estacion,0
+Villarrica,Transporte,Metro_entrada,0
+Villarrica,Transporte,Paradero_bus,72
+Villarrica,Transporte,Paradero_plataforma,0
+Villarrica,Transporte,Terminal_bus,8
+Villarrica,Negativos,Vertedero,0
+Villarrica,Negativos,Planta_residuos,0
+Villarrica,Negativos,Industrial,14
+Villarrica,Negativos,Fabrica,1
+Villarrica,Negativos,Botilleria,3
+Villarrica,Negativos,Bar_pub,7
+Villarrica,Negativos,Sitio_eriazo,1
+Villarrica,Negativos,Suelo_desnudo,3
+Linares,Salud,Hospital,1
+Linares,Salud,Clinica,16
+Linares,Salud,Centro_salud,10
+Linares,Salud,Consultorio,9
+Linares,Salud,Farmacia,19
+Linares,Recreativo_Cultural,Parque,175
+Linares,Recreativo_Cultural,Mall,1
+Linares,Recreativo_Cultural,Restaurante,29
+Linares,Recreativo_Cultural,Museo,2
+Linares,Recreativo_Cultural,Biblioteca,1
+Linares,Recreativo_Cultural,Teatro,2
+Linares,Seguridad,Bomberos,4
+Linares,Seguridad,Comisaria,9
+Linares,Educacion,Colegio,62
+Linares,Educacion,Jardin_infantil,16
+Linares,Educacion,Universidad,3
+Linares,Comercio,Supermercado,18
+Linares,Comercio,Banco,13
+Linares,Comercio,Feria,17
+Linares,Comercio,Almacen,38
+Linares,Transporte,Metro_estacion,0
+Linares,Transporte,Tren_estacion,1
+Linares,Transporte,Metro_entrada,0
+Linares,Transporte,Paradero_bus,123
+Linares,Transporte,Paradero_plataforma,3
+Linares,Transporte,Terminal_bus,4
+Linares,Negativos,Vertedero,0
+Linares,Negativos,Planta_residuos,0
+Linares,Negativos,Industrial,59
+Linares,Negativos,Fabrica,28
+Linares,Negativos,Botilleria,4
+Linares,Negativos,Bar_pub,8
+Linares,Negativos,Sitio_eriazo,4
+Linares,Negativos,Suelo_desnudo,0
+Castro,Salud,Hospital,1
+Castro,Salud,Clinica,9
+Castro,Salud,Centro_salud,4
+Castro,Salud,Consultorio,8
+Castro,Salud,Farmacia,13
+Castro,Recreativo_Cultural,Parque,32
+Castro,Recreativo_Cultural,Mall,3
+Castro,Recreativo_Cultural,Restaurante,56
+Castro,Recreativo_Cultural,Museo,4
+Castro,Recreativo_Cultural,Biblioteca,1
+Castro,Recreativo_Cultural,Teatro,2
+Castro,Seguridad,Bomberos,7
+Castro,Seguridad,Comisaria,2
+Castro,Educacion,Colegio,58
+Castro,Educacion,Jardin_infantil,16
+Castro,Educacion,Universidad,3
+Castro,Comercio,Supermercado,42
+Castro,Comercio,Banco,5
+Castro,Comercio,Feria,4
+Castro,Comercio,Almacen,27
+Castro,Transporte,Metro_estacion,0
+Castro,Transporte,Tren_estacion,0
+Castro,Transporte,Metro_entrada,0
+Castro,Transporte,Paradero_bus,102
+Castro,Transporte,Paradero_plataforma,10
+Castro,Transporte,Terminal_bus,3
+Castro,Negativos,Vertedero,0
+Castro,Negativos,Planta_residuos,0
+Castro,Negativos,Industrial,33
+Castro,Negativos,Fabrica,2
+Castro,Negativos,Botilleria,2
+Castro,Negativos,Bar_pub,12
+Castro,Negativos,Sitio_eriazo,0
+Castro,Negativos,Suelo_desnudo,0
+San Fernando,Salud,Hospital,1
+San Fernando,Salud,Clinica,15
+San Fernando,Salud,Centro_salud,4
+San Fernando,Salud,Consultorio,8
+San Fernando,Salud,Farmacia,19
+San Fernando,Recreativo_Cultural,Parque,58
+San Fernando,Recreativo_Cultural,Mall,2
+San Fernando,Recreativo_Cultural,Restaurante,19
+San Fernando,Recreativo_Cultural,Museo,1
+San Fernando,Recreativo_Cultural,Biblioteca,1
+San Fernando,Recreativo_Cultural,Teatro,0
+San Fernando,Seguridad,Bomberos,4
+San Fernando,Seguridad,Comisaria,4
+San Fernando,Educacion,Colegio,56
+San Fernando,Educacion,Jardin_infantil,16
+San Fernando,Educacion,Universidad,1
+San Fernando,Comercio,Supermercado,15
+San Fernando,Comercio,Banco,14
+San Fernando,Comercio,Feria,1
+San Fernando,Comercio,Almacen,11
+San Fernando,Transporte,Metro_estacion,0
+San Fernando,Transporte,Tren_estacion,1
+San Fernando,Transporte,Metro_entrada,0
+San Fernando,Transporte,Paradero_bus,61
+San Fernando,Transporte,Paradero_plataforma,8
+San Fernando,Transporte,Terminal_bus,3
+San Fernando,Negativos,Vertedero,0
+San Fernando,Negativos,Planta_residuos,0
+San Fernando,Negativos,Industrial,41
+San Fernando,Negativos,Fabrica,2
+San Fernando,Negativos,Botilleria,4
+San Fernando,Negativos,Bar_pub,2
+San Fernando,Negativos,Sitio_eriazo,8
+San Fernando,Negativos,Suelo_desnudo,4
+Osorno,Salud,Hospital,3
+Osorno,Salud,Clinica,2
+Osorno,Salud,Centro_salud,10
+Osorno,Salud,Consultorio,5
+Osorno,Salud,Farmacia,21
+Osorno,Recreativo_Cultural,Parque,170
+Osorno,Recreativo_Cultural,Mall,2
+Osorno,Recreativo_Cultural,Restaurante,50
+Osorno,Recreativo_Cultural,Museo,5
+Osorno,Recreativo_Cultural,Biblioteca,4
+Osorno,Recreativo_Cultural,Teatro,2
+Osorno,Seguridad,Bomberos,8
+Osorno,Seguridad,Comisaria,8
+Osorno,Educacion,Colegio,117
+Osorno,Educacion,Jardin_infantil,41
+Osorno,Educacion,Universidad,9
+Osorno,Comercio,Supermercado,30
+Osorno,Comercio,Banco,12
+Osorno,Comercio,Feria,4
+Osorno,Comercio,Almacen,32
+Osorno,Transporte,Metro_estacion,0
+Osorno,Transporte,Tren_estacion,1
+Osorno,Transporte,Metro_entrada,0
+Osorno,Transporte,Paradero_bus,252
+Osorno,Transporte,Paradero_plataforma,2
+Osorno,Transporte,Terminal_bus,5
+Osorno,Negativos,Vertedero,0
+Osorno,Negativos,Planta_residuos,0
+Osorno,Negativos,Industrial,82
+Osorno,Negativos,Fabrica,14
+Osorno,Negativos,Botilleria,2
+Osorno,Negativos,Bar_pub,16
+Osorno,Negativos,Sitio_eriazo,1
+Osorno,Negativos,Suelo_desnudo,0
+San Antonio,Salud,Hospital,2
+San Antonio,Salud,Clinica,5
+San Antonio,Salud,Centro_salud,9
+San Antonio,Salud,Consultorio,10
+San Antonio,Salud,Farmacia,16
+San Antonio,Recreativo_Cultural,Parque,77
+San Antonio,Recreativo_Cultural,Mall,1
+San Antonio,Recreativo_Cultural,Restaurante,29
+San Antonio,Recreativo_Cultural,Museo,1
+San Antonio,Recreativo_Cultural,Biblioteca,1
+San Antonio,Recreativo_Cultural,Teatro,1
+San Antonio,Seguridad,Bomberos,6
+San Antonio,Seguridad,Comisaria,5
+San Antonio,Educacion,Colegio,67
+San Antonio,Educacion,Jardin_infantil,22
+San Antonio,Educacion,Universidad,1
+San Antonio,Comercio,Supermercado,9
+San Antonio,Comercio,Banco,9
+San Antonio,Comercio,Feria,3
+San Antonio,Comercio,Almacen,21
+San Antonio,Transporte,Metro_estacion,0
+San Antonio,Transporte,Tren_estacion,2
+San Antonio,Transporte,Metro_entrada,0
+San Antonio,Transporte,Paradero_bus,37
+San Antonio,Transporte,Paradero_plataforma,0
+San Antonio,Transporte,Terminal_bus,2
+San Antonio,Negativos,Vertedero,2
+San Antonio,Negativos,Planta_residuos,0
+San Antonio,Negativos,Industrial,43
+San Antonio,Negativos,Fabrica,1
+San Antonio,Negativos,Botilleria,4
+San Antonio,Negativos,Bar_pub,3
+San Antonio,Negativos,Sitio_eriazo,0
+San Antonio,Negativos,Suelo_desnudo,0
+San Carlos,Salud,Hospital,1
+San Carlos,Salud,Clinica,3
+San Carlos,Salud,Centro_salud,6
+San Carlos,Salud,Consultorio,4
+San Carlos,Salud,Farmacia,6
+San Carlos,Recreativo_Cultural,Parque,84
+San Carlos,Recreativo_Cultural,Mall,5
+San Carlos,Recreativo_Cultural,Restaurante,26
+San Carlos,Recreativo_Cultural,Museo,1
+San Carlos,Recreativo_Cultural,Biblioteca,2
+San Carlos,Recreativo_Cultural,Teatro,1
+San Carlos,Seguridad,Bomberos,1
+San Carlos,Seguridad,Comisaria,2
+San Carlos,Educacion,Colegio,29
+San Carlos,Educacion,Jardin_infantil,12
+San Carlos,Educacion,Universidad,0
+San Carlos,Comercio,Supermercado,8
+San Carlos,Comercio,Banco,4
+San Carlos,Comercio,Feria,2
+San Carlos,Comercio,Almacen,19
+San Carlos,Transporte,Metro_estacion,0
+San Carlos,Transporte,Tren_estacion,2
+San Carlos,Transporte,Metro_entrada,0
+San Carlos,Transporte,Paradero_bus,84
+San Carlos,Transporte,Paradero_plataforma,2
+San Carlos,Transporte,Terminal_bus,7
+San Carlos,Negativos,Vertedero,0
+San Carlos,Negativos,Planta_residuos,0
+San Carlos,Negativos,Industrial,39
+San Carlos,Negativos,Fabrica,5
+San Carlos,Negativos,Botilleria,0
+San Carlos,Negativos,Bar_pub,0
+San Carlos,Negativos,Sitio_eriazo,4
+San Carlos,Negativos,Suelo_desnudo,0
+Constitución,Salud,Hospital,1
+Constitución,Salud,Clinica,0
+Constitución,Salud,Centro_salud,4
+Constitución,Salud,Consultorio,3
+Constitución,Salud,Farmacia,4
+Constitución,Recreativo_Cultural,Parque,13
+Constitución,Recreativo_Cultural,Mall,0
+Constitución,Recreativo_Cultural,Restaurante,17
+Constitución,Recreativo_Cultural,Museo,1
+Constitución,Recreativo_Cultural,Biblioteca,1
+Constitución,Recreativo_Cultural,Teatro,2
+Constitución,Seguridad,Bomberos,1
+Constitución,Seguridad,Comisaria,1
+Constitución,Educacion,Colegio,21
+Constitución,Educacion,Jardin_infantil,5
+Constitución,Educacion,Universidad,1
+Constitución,Comercio,Supermercado,9
+Constitución,Comercio,Banco,4
+Constitución,Comercio,Feria,3
+Constitución,Comercio,Almacen,5
+Constitución,Transporte,Metro_estacion,0
+Constitución,Transporte,Tren_estacion,1
+Constitución,Transporte,Metro_entrada,0
+Constitución,Transporte,Paradero_bus,118
+Constitución,Transporte,Paradero_plataforma,1
+Constitución,Transporte,Terminal_bus,1
+Constitución,Negativos,Vertedero,0
+Constitución,Negativos,Planta_residuos,0
+Constitución,Negativos,Industrial,13
+Constitución,Negativos,Fabrica,0
+Constitución,Negativos,Botilleria,3
+Constitución,Negativos,Bar_pub,3
+Constitución,Negativos,Sitio_eriazo,1
+Constitución,Negativos,Suelo_desnudo,37
+Ovalle,Salud,Hospital,3
+Ovalle,Salud,Clinica,2
+Ovalle,Salud,Centro_salud,11
+Ovalle,Salud,Consultorio,4
+Ovalle,Salud,Farmacia,15
+Ovalle,Recreativo_Cultural,Parque,84
+Ovalle,Recreativo_Cultural,Mall,3
+Ovalle,Recreativo_Cultural,Restaurante,26
+Ovalle,Recreativo_Cultural,Museo,1
+Ovalle,Recreativo_Cultural,Biblioteca,1
+Ovalle,Recreativo_Cultural,Teatro,2
+Ovalle,Seguridad,Bomberos,4
+Ovalle,Seguridad,Comisaria,2
+Ovalle,Educacion,Colegio,59
+Ovalle,Educacion,Jardin_infantil,13
+Ovalle,Educacion,Universidad,2
+Ovalle,Comercio,Supermercado,17
+Ovalle,Comercio,Banco,6
+Ovalle,Comercio,Feria,4
+Ovalle,Comercio,Almacen,24
+Ovalle,Transporte,Metro_estacion,0
+Ovalle,Transporte,Tren_estacion,0
+Ovalle,Transporte,Metro_entrada,0
+Ovalle,Transporte,Paradero_bus,134
+Ovalle,Transporte,Paradero_plataforma,0
+Ovalle,Transporte,Terminal_bus,3
+Ovalle,Negativos,Vertedero,6
+Ovalle,Negativos,Planta_residuos,0
+Ovalle,Negativos,Industrial,36
+Ovalle,Negativos,Fabrica,0
+Ovalle,Negativos,Botilleria,19
+Ovalle,Negativos,Bar_pub,11
+Ovalle,Negativos,Sitio_eriazo,0
+Ovalle,Negativos,Suelo_desnudo,0
+San Javier,Salud,Hospital,1
+San Javier,Salud,Clinica,2
+San Javier,Salud,Centro_salud,3
+San Javier,Salud,Consultorio,5
+San Javier,Salud,Farmacia,5
+San Javier,Recreativo_Cultural,Parque,67
+San Javier,Recreativo_Cultural,Mall,0
+San Javier,Recreativo_Cultural,Restaurante,4
+San Javier,Recreativo_Cultural,Museo,1
+San Javier,Recreativo_Cultural,Biblioteca,0
+San Javier,Recreativo_Cultural,Teatro,1
+San Javier,Seguridad,Bomberos,2
+San Javier,Seguridad,Comisaria,1
+San Javier,Educacion,Colegio,27
+San Javier,Educacion,Jardin_infantil,10
+San Javier,Educacion,Universidad,0
+San Javier,Comercio,Supermercado,4
+San Javier,Comercio,Banco,3
+San Javier,Comercio,Feria,2
+San Javier,Comercio,Almacen,14
+San Javier,Transporte,Metro_estacion,0
+San Javier,Transporte,Tren_estacion,1
+San Javier,Transporte,Metro_entrada,0
+San Javier,Transporte,Paradero_bus,65
+San Javier,Transporte,Paradero_plataforma,0
+San Javier,Transporte,Terminal_bus,2
+San Javier,Negativos,Vertedero,0
+San Javier,Negativos,Planta_residuos,0
+San Javier,Negativos,Industrial,36
+San Javier,Negativos,Fabrica,2
+San Javier,Negativos,Botilleria,0
+San Javier,Negativos,Bar_pub,0
+San Javier,Negativos,Sitio_eriazo,0
+San Javier,Negativos,Suelo_desnudo,0
+Arica,Salud,Hospital,4
+Arica,Salud,Clinica,6
+Arica,Salud,Centro_salud,11
+Arica,Salud,Consultorio,7
+Arica,Salud,Farmacia,26
+Arica,Recreativo_Cultural,Parque,117
+Arica,Recreativo_Cultural,Mall,1
+Arica,Recreativo_Cultural,Restaurante,87
+Arica,Recreativo_Cultural,Museo,7
+Arica,Recreativo_Cultural,Biblioteca,4
+Arica,Recreativo_Cultural,Teatro,2
+Arica,Seguridad,Bomberos,5
+Arica,Seguridad,Comisaria,9
+Arica,Educacion,Colegio,115
+Arica,Educacion,Jardin_infantil,35
+Arica,Educacion,Universidad,7
+Arica,Comercio,Supermercado,9
+Arica,Comercio,Banco,21
+Arica,Comercio,Feria,11
+Arica,Comercio,Almacen,56
+Arica,Transporte,Metro_estacion,0
+Arica,Transporte,Tren_estacion,3
+Arica,Transporte,Metro_entrada,0
+Arica,Transporte,Paradero_bus,469
+Arica,Transporte,Paradero_plataforma,0
+Arica,Transporte,Terminal_bus,5
+Arica,Negativos,Vertedero,1
+Arica,Negativos,Planta_residuos,0
+Arica,Negativos,Industrial,32
+Arica,Negativos,Fabrica,9
+Arica,Negativos,Botilleria,17
+Arica,Negativos,Bar_pub,18
+Arica,Negativos,Sitio_eriazo,0
+Arica,Negativos,Suelo_desnudo,1
+Limache,Salud,Hospital,4
+Limache,Salud,Clinica,4
+Limache,Salud,Centro_salud,2
+Limache,Salud,Consultorio,4
+Limache,Salud,Farmacia,11
+Limache,Recreativo_Cultural,Parque,92
+Limache,Recreativo_Cultural,Mall,5
+Limache,Recreativo_Cultural,Restaurante,38
+Limache,Recreativo_Cultural,Museo,2
+Limache,Recreativo_Cultural,Biblioteca,1
+Limache,Recreativo_Cultural,Teatro,0
+Limache,Seguridad,Bomberos,3
+Limache,Seguridad,Comisaria,2
+Limache,Educacion,Colegio,37
+Limache,Educacion,Jardin_infantil,19
+Limache,Educacion,Universidad,0
+Limache,Comercio,Supermercado,10
+Limache,Comercio,Banco,3
+Limache,Comercio,Feria,1
+Limache,Comercio,Almacen,94
+Limache,Transporte,Metro_estacion,0
+Limache,Transporte,Tren_estacion,1
+Limache,Transporte,Metro_entrada,0
+Limache,Transporte,Paradero_bus,103
+Limache,Transporte,Paradero_plataforma,3
+Limache,Transporte,Terminal_bus,4
+Limache,Negativos,Vertedero,1
+Limache,Negativos,Planta_residuos,0
+Limache,Negativos,Industrial,24
+Limache,Negativos,Fabrica,0
+Limache,Negativos,Botilleria,17
+Limache,Negativos,Bar_pub,1
+Limache,Negativos,Sitio_eriazo,13
+Limache,Negativos,Suelo_desnudo,0
+Quillota,Salud,Hospital,2
+Quillota,Salud,Clinica,1
+Quillota,Salud,Centro_salud,8
+Quillota,Salud,Consultorio,4
+Quillota,Salud,Farmacia,17
+Quillota,Recreativo_Cultural,Parque,90
+Quillota,Recreativo_Cultural,Mall,11
+Quillota,Recreativo_Cultural,Restaurante,20
+Quillota,Recreativo_Cultural,Museo,1
+Quillota,Recreativo_Cultural,Biblioteca,0
+Quillota,Recreativo_Cultural,Teatro,1
+Quillota,Seguridad,Bomberos,4
+Quillota,Seguridad,Comisaria,2
+Quillota,Educacion,Colegio,61
+Quillota,Educacion,Jardin_infantil,21
+Quillota,Educacion,Universidad,1
+Quillota,Comercio,Supermercado,13
+Quillota,Comercio,Banco,9
+Quillota,Comercio,Feria,5
+Quillota,Comercio,Almacen,21
+Quillota,Transporte,Metro_estacion,0
+Quillota,Transporte,Tren_estacion,1
+Quillota,Transporte,Metro_entrada,0
+Quillota,Transporte,Paradero_bus,99
+Quillota,Transporte,Paradero_plataforma,0
+Quillota,Transporte,Terminal_bus,3
+Quillota,Negativos,Vertedero,1
+Quillota,Negativos,Planta_residuos,0
+Quillota,Negativos,Industrial,27
+Quillota,Negativos,Fabrica,1
+Quillota,Negativos,Botilleria,6
+Quillota,Negativos,Bar_pub,2
+Quillota,Negativos,Sitio_eriazo,11
+Quillota,Negativos,Suelo_desnudo,0
+Molina,Salud,Hospital,1
+Molina,Salud,Clinica,2
+Molina,Salud,Centro_salud,2
+Molina,Salud,Consultorio,5
+Molina,Salud,Farmacia,5
+Molina,Recreativo_Cultural,Parque,32
+Molina,Recreativo_Cultural,Mall,0
+Molina,Recreativo_Cultural,Restaurante,9
+Molina,Recreativo_Cultural,Museo,0
+Molina,Recreativo_Cultural,Biblioteca,1
+Molina,Recreativo_Cultural,Teatro,1
+Molina,Seguridad,Bomberos,2
+Molina,Seguridad,Comisaria,6
+Molina,Educacion,Colegio,39
+Molina,Educacion,Jardin_infantil,11
+Molina,Educacion,Universidad,0
+Molina,Comercio,Supermercado,5
+Molina,Comercio,Banco,3
+Molina,Comercio,Feria,1
+Molina,Comercio,Almacen,9
+Molina,Transporte,Metro_estacion,0
+Molina,Transporte,Tren_estacion,2
+Molina,Transporte,Metro_entrada,0
+Molina,Transporte,Paradero_bus,74
+Molina,Transporte,Paradero_plataforma,0
+Molina,Transporte,Terminal_bus,1
+Molina,Negativos,Vertedero,0
+Molina,Negativos,Planta_residuos,0
+Molina,Negativos,Industrial,23
+Molina,Negativos,Fabrica,1
+Molina,Negativos,Botilleria,2
+Molina,Negativos,Bar_pub,4
+Molina,Negativos,Sitio_eriazo,1
+Molina,Negativos,Suelo_desnudo,0
+Los Ángeles,Salud,Hospital,2
+Los Ángeles,Salud,Clinica,10
+Los Ángeles,Salud,Centro_salud,15
+Los Ángeles,Salud,Consultorio,1
+Los Ángeles,Salud,Farmacia,14
+Los Ángeles,Recreativo_Cultural,Parque,234
+Los Ángeles,Recreativo_Cultural,Mall,2
+Los Ángeles,Recreativo_Cultural,Restaurante,36
+Los Ángeles,Recreativo_Cultural,Museo,1
+Los Ángeles,Recreativo_Cultural,Biblioteca,2
+Los Ángeles,Recreativo_Cultural,Teatro,4
+Los Ángeles,Seguridad,Bomberos,6
+Los Ángeles,Seguridad,Comisaria,7
+Los Ángeles,Educacion,Colegio,105
+Los Ángeles,Educacion,Jardin_infantil,26
+Los Ángeles,Educacion,Universidad,9
+Los Ángeles,Comercio,Supermercado,26
+Los Ángeles,Comercio,Banco,25
+Los Ángeles,Comercio,Feria,4
+Los Ángeles,Comercio,Almacen,13
+Los Ángeles,Transporte,Metro_estacion,0
+Los Ángeles,Transporte,Tren_estacion,0
+Los Ángeles,Transporte,Metro_entrada,0
+Los Ángeles,Transporte,Paradero_bus,173
+Los Ángeles,Transporte,Paradero_plataforma,0
+Los Ángeles,Transporte,Terminal_bus,5
+Los Ángeles,Negativos,Vertedero,0
+Los Ángeles,Negativos,Planta_residuos,0
+Los Ángeles,Negativos,Industrial,82
+Los Ángeles,Negativos,Fabrica,77
+Los Ángeles,Negativos,Botilleria,6
+Los Ángeles,Negativos,Bar_pub,17
+Los Ángeles,Negativos,Sitio_eriazo,6
+Los Ángeles,Negativos,Suelo_desnudo,0
+Angol,Salud,Hospital,2
+Angol,Salud,Clinica,0
+Angol,Salud,Centro_salud,5
+Angol,Salud,Consultorio,2
+Angol,Salud,Farmacia,11
+Angol,Recreativo_Cultural,Parque,84
+Angol,Recreativo_Cultural,Mall,1
+Angol,Recreativo_Cultural,Restaurante,7
+Angol,Recreativo_Cultural,Museo,2
+Angol,Recreativo_Cultural,Biblioteca,1
+Angol,Recreativo_Cultural,Teatro,1
+Angol,Seguridad,Bomberos,5
+Angol,Seguridad,Comisaria,3
+Angol,Educacion,Colegio,30
+Angol,Educacion,Jardin_infantil,21
+Angol,Educacion,Universidad,1
+Angol,Comercio,Supermercado,8
+Angol,Comercio,Banco,6
+Angol,Comercio,Feria,0
+Angol,Comercio,Almacen,8
+Angol,Transporte,Metro_estacion,0
+Angol,Transporte,Tren_estacion,0
+Angol,Transporte,Metro_entrada,0
+Angol,Transporte,Paradero_bus,54
+Angol,Transporte,Paradero_plataforma,0
+Angol,Transporte,Terminal_bus,5
+Angol,Negativos,Vertedero,0
+Angol,Negativos,Planta_residuos,0
+Angol,Negativos,Industrial,28
+Angol,Negativos,Fabrica,25
+Angol,Negativos,Botilleria,0
+Angol,Negativos,Bar_pub,2
+Angol,Negativos,Sitio_eriazo,0
+Angol,Negativos,Suelo_desnudo,0
+Vallenar,Salud,Hospital,2
+Vallenar,Salud,Clinica,1
+Vallenar,Salud,Centro_salud,5
+Vallenar,Salud,Consultorio,3
+Vallenar,Salud,Farmacia,4
+Vallenar,Recreativo_Cultural,Parque,50
+Vallenar,Recreativo_Cultural,Mall,1
+Vallenar,Recreativo_Cultural,Restaurante,11
+Vallenar,Recreativo_Cultural,Museo,1
+Vallenar,Recreativo_Cultural,Biblioteca,0
+Vallenar,Recreativo_Cultural,Teatro,2
+Vallenar,Seguridad,Bomberos,2
+Vallenar,Seguridad,Comisaria,3
+Vallenar,Educacion,Colegio,40
+Vallenar,Educacion,Jardin_infantil,14
+Vallenar,Educacion,Universidad,1
+Vallenar,Comercio,Supermercado,4
+Vallenar,Comercio,Banco,8
+Vallenar,Comercio,Feria,1
+Vallenar,Comercio,Almacen,10
+Vallenar,Transporte,Metro_estacion,0
+Vallenar,Transporte,Tren_estacion,2
+Vallenar,Transporte,Metro_entrada,0
+Vallenar,Transporte,Paradero_bus,11
+Vallenar,Transporte,Paradero_plataforma,0
+Vallenar,Transporte,Terminal_bus,3
+Vallenar,Negativos,Vertedero,8
+Vallenar,Negativos,Planta_residuos,0
+Vallenar,Negativos,Industrial,11
+Vallenar,Negativos,Fabrica,0
+Vallenar,Negativos,Botilleria,4
+Vallenar,Negativos,Bar_pub,3
+Vallenar,Negativos,Sitio_eriazo,0
+Vallenar,Negativos,Suelo_desnudo,0
+San Vicente,Salud,Hospital,2
+San Vicente,Salud,Clinica,14
+San Vicente,Salud,Centro_salud,1
+San Vicente,Salud,Consultorio,20
+San Vicente,Salud,Farmacia,15
+San Vicente,Recreativo_Cultural,Parque,71
+San Vicente,Recreativo_Cultural,Mall,3
+San Vicente,Recreativo_Cultural,Restaurante,42
+San Vicente,Recreativo_Cultural,Museo,1
+San Vicente,Recreativo_Cultural,Biblioteca,1
+San Vicente,Recreativo_Cultural,Teatro,2
+San Vicente,Seguridad,Bomberos,5
+San Vicente,Seguridad,Comisaria,3
+San Vicente,Educacion,Colegio,37
+San Vicente,Educacion,Jardin_infantil,15
+San Vicente,Educacion,Universidad,0
+San Vicente,Comercio,Supermercado,6
+San Vicente,Comercio,Banco,5
+San Vicente,Comercio,Feria,4
+San Vicente,Comercio,Almacen,28
+San Vicente,Transporte,Metro_estacion,0
+San Vicente,Transporte,Tren_estacion,0
+San Vicente,Transporte,Metro_entrada,0
+San Vicente,Transporte,Paradero_bus,170
+San Vicente,Transporte,Paradero_plataforma,11
+San Vicente,Transporte,Terminal_bus,2
+San Vicente,Negativos,Vertedero,0
+San Vicente,Negativos,Planta_residuos,0
+San Vicente,Negativos,Industrial,41
+San Vicente,Negativos,Fabrica,2
+San Vicente,Negativos,Botilleria,5
+San Vicente,Negativos,Bar_pub,10
+San Vicente,Negativos,Sitio_eriazo,3
+San Vicente,Negativos,Suelo_desnudo,63
