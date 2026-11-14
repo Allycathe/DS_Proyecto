@@ -401,3 +401,7 @@
 2026-11-13 21:42:29 (21/99) Quinta Normal
 2026-11-13 21:45:52 [ok] Quinta Normal: 1024 elementos (1 duplicados eliminados), 11.8 km², 203s
 2026-11-13 21:45:57 (22/99) San Joaquín
+2026-11-13 21:57:40 [ok] San Joaquín: 916 elementos (1 duplicados eliminados), 9.9 km², 703s
+2026-11-13 21:57:45 (23/99) Peñaflor
+2026-11-13 22:01:51 [ok] Peñaflor: 330 elementos (4 duplicados eliminados), 69.1 km², 246s
+2026-11-13 22:01:56 (24/99) Quilicura
