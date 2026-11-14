@@ -6,9 +6,6 @@ Modelo KNN que clasifica comunas según su ICVU (Índice de Calidad de Vida Urba
 
 ```
 DS_Proyecto/
-├── data_obtain_comunas.ipynb    # Obtiene y une los datos (ICVU + features) y genera el dataset
-├── KNN-Clasif-Predic.ipynb      # Entrena, evalúa y guarda el modelo KNN
-├── ICVU_proyecto/               # Notebooks / código del proyecto
 ├── dataset/                     # CSV generado (dataset_comunas.csv)
 ├── modelos/                     # Modelo entrenado (.joblib)
 └── requirements.txt
