@@ -1256,3 +1256,275 @@
 2026-11-14 01:52:16 (67/99) Coquimbo
 2026-11-14 01:52:20 [ERROR] Coquimbo: NameError: name 'imite' is not defined
 2026-11-14 01:52:20 (68/99) Penco
+2026-11-14 01:52:23 [ERROR] Penco: NameError: name 'imite' is not defined
+2026-11-14 01:52:23 (69/99) Padre Las Casas
+2026-11-14 01:52:26 [ERROR] Padre Las Casas: NameError: name 'imite' is not defined
+2026-11-14 01:52:26 (70/99) Chillán Viejo
+2026-11-14 01:52:30 [ERROR] Chillán Viejo: NameError: name 'imite' is not defined
+2026-11-14 01:52:30 (71/99) Punta Arenas
+2026-11-14 01:52:33 [ERROR] Punta Arenas: ValueError: Punta Arenas: área 35,653 km² (¿región/provincia?). Agregar una consulta en CONSULTA_ESPECIAL
+2026-11-14 01:52:33 (72/99) Rengo
+2026-11-14 01:52:37 [ERROR] Rengo: NameError: name 'imite' is not defined
+2026-11-14 01:52:37 (73/99) Coyhaique
+2026-11-14 01:52:41 [ERROR] Coyhaique: NameError: name 'imite' is not defined
+2026-11-14 01:52:41 (74/99) Valdivia
+2026-11-14 01:52:44 [ERROR] Valdivia: NameError: name 'imite' is not defined
+2026-11-14 01:52:44 (75/99) La Calera
+2026-11-14 01:52:46 [ERROR] La Calera: NameError: name 'imite' is not defined
+2026-11-14 01:52:46 (76/99) Calama
+2026-11-14 01:52:49 [ERROR] Calama: NameError: name 'imite' is not defined
+2026-11-14 01:52:49 (77/99) Curicó
+2026-11-14 01:52:53 [ERROR] Curicó: NameError: name 'imite' is not defined
+2026-11-14 01:52:53 (78/99) Los Andes
+2026-11-14 01:52:56 [ERROR] Los Andes: NameError: name 'imite' is not defined
+2026-11-14 01:52:56 (79/99) San Felipe
+2026-11-14 01:52:59 [ERROR] San Felipe: NameError: name 'imite' is not defined
+2026-11-14 01:52:59 (80/99) Antofagasta
+2026-11-14 01:53:03 [ERROR] Antofagasta: NameError: name 'imite' is not defined
+2026-11-14 01:53:03 (81/99) Copiapó
+2026-11-14 01:53:07 [ERROR] Copiapó: NameError: name 'imite' is not defined
+2026-11-14 01:53:07 (82/99) Villarrica
+2026-11-14 01:53:10 [ERROR] Villarrica: NameError: name 'imite' is not defined
+2026-11-14 01:53:10 (83/99) Linares
+2026-11-14 01:55:11 99 comunas: 60 con caché vigente, 39 por descargar
+2026-11-14 01:55:11    pendiente: Valparaíso (sin caché)
+2026-11-14 01:55:11    pendiente: Hualpén (sin caché)
+2026-11-14 01:55:11    pendiente: Puerto Montt (sin caché)
+2026-11-14 01:55:11    pendiente: Lota (sin caché)
+2026-11-14 01:55:11    pendiente: Tomé (sin caché)
+2026-11-14 01:55:11    pendiente: Alto Hospicio (sin caché)
+2026-11-14 01:55:11    pendiente: Coquimbo (sin caché)
+2026-11-14 01:55:11    pendiente: Penco (sin caché)
+2026-11-14 01:55:11    pendiente: Padre Las Casas (sin caché)
+2026-11-14 01:55:11    pendiente: Chillán Viejo (sin caché)
+2026-11-14 01:55:11    pendiente: Punta Arenas (sin caché)
+2026-11-14 01:55:11    pendiente: Rengo (sin caché)
+2026-11-14 01:55:11    pendiente: Coyhaique (sin caché)
+2026-11-14 01:55:11    pendiente: Valdivia (sin caché)
+2026-11-14 01:55:11    pendiente: La Calera (sin caché)
+2026-11-14 01:55:11    pendiente: Calama (sin caché)
+2026-11-14 01:55:11    pendiente: Curicó (sin caché)
+2026-11-14 01:55:11    pendiente: Los Andes (sin caché)
+2026-11-14 01:55:11    pendiente: San Felipe (sin caché)
+2026-11-14 01:55:11    pendiente: Antofagasta (sin caché)
+2026-11-14 01:55:11    pendiente: Copiapó (sin caché)
+2026-11-14 01:55:11    pendiente: Villarrica (sin caché)
+2026-11-14 01:55:11    pendiente: Linares (sin caché)
+2026-11-14 01:55:11    pendiente: Castro (sin caché)
+2026-11-14 01:55:11    pendiente: San Fernando (sin caché)
+2026-11-14 01:55:11    pendiente: Osorno (sin caché)
+2026-11-14 01:55:11    pendiente: San Antonio (sin caché)
+2026-11-14 01:55:11    pendiente: San Carlos (sin caché)
+2026-11-14 01:55:11    pendiente: Constitución (sin caché)
+2026-11-14 01:55:11    pendiente: Ovalle (sin caché)
+2026-11-14 01:55:11    pendiente: San Javier (sin caché)
+2026-11-14 01:55:11    pendiente: Arica (sin caché)
+2026-11-14 01:55:11    pendiente: Limache (sin caché)
+2026-11-14 01:55:11    pendiente: Quillota (sin caché)
+2026-11-14 01:55:11    pendiente: Molina (sin caché)
+2026-11-14 01:55:11    pendiente: Los Ángeles (sin caché)
+2026-11-14 01:55:11    pendiente: Angol (sin caché)
+2026-11-14 01:55:11    pendiente: Vallenar (sin caché)
+2026-11-14 01:55:11    pendiente: San Vicente (sin caché)
+2026-11-14 01:55:11 (1/99) Las Condes
+2026-11-14 01:55:11 [caché] Las Condes (caché antigua sin firma; se asume la misma configuración)
+2026-11-14 01:55:11 (2/99) Vitacura
+2026-11-14 01:55:11 [caché] Vitacura (caché antigua sin firma; se asume la misma configuración)
+2026-11-14 01:55:11 (3/99) Providencia
+2026-11-14 01:55:11 [caché] Providencia (caché antigua sin firma; se asume la misma configuración)
+2026-11-14 01:55:11 (4/99) Ñuñoa
+2026-11-14 01:55:11 [caché] Ñuñoa (caché antigua sin firma; se asume la misma configuración)
+2026-11-14 01:55:11 (5/99) Lo Barnechea
+2026-11-14 01:55:11 [caché] Lo Barnechea (vigente)
+2026-11-14 01:55:11 (6/99) La Reina
+2026-11-14 01:55:11 [caché] La Reina (caché antigua sin firma; se asume la misma configuración)
+2026-11-14 01:55:11 (7/99) Santiago
+2026-11-14 01:55:11 [caché] Santiago (caché antigua sin firma; se asume la misma configuración)
+2026-11-14 01:55:11 (8/99) San Miguel
+2026-11-14 01:55:11 [caché] San Miguel (caché antigua sin firma; se asume la misma configuración)
+2026-11-14 01:55:11 (9/99) Huechuraba
+2026-11-14 01:55:11 [caché] Huechuraba (caché antigua sin firma; se asume la misma configuración)
+2026-11-14 01:55:11 (10/99) Colina
+2026-11-14 01:55:11 [caché] Colina (vigente)
+2026-11-14 01:55:11 (11/99) Maipú
+2026-11-14 01:55:11 [caché] Maipú (caché antigua sin firma; se asume la misma configuración)
+2026-11-14 01:55:11 (12/99) Peñalolén
+2026-11-14 01:55:11 [caché] Peñalolén (caché antigua sin firma; se asume la misma configuración)
+2026-11-14 01:55:11 (13/99) Independencia
+2026-11-14 01:55:11 [caché] Independencia (vigente)
+2026-11-14 01:55:11 (14/99) La Cisterna
+2026-11-14 01:55:11 [caché] La Cisterna (vigente)
+2026-11-14 01:55:11 (15/99) Recoleta
+2026-11-14 01:55:11 [caché] Recoleta (vigente)
+2026-11-14 01:55:11 (16/99) Estación Central
+2026-11-14 01:55:11 [caché] Estación Central (vigente)
+2026-11-14 01:55:11 (17/99) Macul
+2026-11-14 01:55:11 [caché] Macul (vigente)
+2026-11-14 01:55:11 (18/99) La Florida
+2026-11-14 01:55:11 [caché] La Florida (vigente)
+2026-11-14 01:55:11 (19/99) Pudahuel
+2026-11-14 01:55:11 [caché] Pudahuel (vigente)
+2026-11-14 01:55:11 (20/99) Cerrillos
+2026-11-14 01:55:11 [caché] Cerrillos (vigente)
+2026-11-14 01:55:11 (21/99) Quinta Normal
+2026-11-14 01:55:11 [caché] Quinta Normal (vigente)
+2026-11-14 01:55:11 (22/99) San Joaquín
+2026-11-14 01:55:12 [caché] San Joaquín (vigente)
+2026-11-14 01:55:12 (23/99) Peñaflor
+2026-11-14 01:55:12 [caché] Peñaflor (vigente)
+2026-11-14 01:55:12 (24/99) Quilicura
+2026-11-14 01:55:12 [caché] Quilicura (vigente)
+2026-11-14 01:55:12 (25/99) Puente Alto
+2026-11-14 01:55:12 [caché] Puente Alto (vigente)
+2026-11-14 01:55:12 (26/99) Lampa
+2026-11-14 01:55:12 [caché] Lampa (vigente)
+2026-11-14 01:55:12 (27/99) Renca
+2026-11-14 01:55:12 [caché] Renca (vigente)
+2026-11-14 01:55:12 (28/99) Buin
+2026-11-14 01:55:12 [caché] Buin (vigente)
+2026-11-14 01:55:12 (29/99) San Bernardo
+2026-11-14 01:55:12 [caché] San Bernardo (vigente)
+2026-11-14 01:55:12 (30/99) Paine
+2026-11-14 01:55:12 [caché] Paine (vigente)
+2026-11-14 01:55:12 (31/99) Conchalí
+2026-11-14 01:55:12 [caché] Conchalí (vigente)
+2026-11-14 01:55:12 (32/99) Lo Prado
+2026-11-14 01:55:12 [caché] Lo Prado (vigente)
+2026-11-14 01:55:12 (33/99) Padre Hurtado
+2026-11-14 01:55:12 [caché] Padre Hurtado (vigente)
+2026-11-14 01:55:12 (34/99) Pedro Aguirre Cerda
+2026-11-14 01:55:12 [caché] Pedro Aguirre Cerda (vigente)
+2026-11-14 01:55:12 (35/99) La Granja
+2026-11-14 01:55:12 [caché] La Granja (vigente)
+2026-11-14 01:55:12 (36/99) El Bosque
+2026-11-14 01:55:12 [caché] El Bosque (vigente)
+2026-11-14 01:55:12 (37/99) La Pintana
+2026-11-14 01:55:12 [caché] La Pintana (vigente)
+2026-11-14 01:55:12 (38/99) Melipilla
+2026-11-14 01:55:12 [caché] Melipilla (vigente)
+2026-11-14 01:55:12 (39/99) Lo Espejo
+2026-11-14 01:55:12 [caché] Lo Espejo (vigente)
+2026-11-14 01:55:12 (40/99) San Ramón
+2026-11-14 01:55:12 [caché] San Ramón (vigente)
+2026-11-14 01:55:12 (41/99) Cerro Navia
+2026-11-14 01:55:12 [caché] Cerro Navia (vigente)
+2026-11-14 01:55:12 (42/99) Talagante
+2026-11-14 01:55:12 [caché] Talagante (vigente)
+2026-11-14 01:55:12 (43/99) Concón
+2026-11-14 01:55:12 [caché] Concón (vigente)
+2026-11-14 01:55:12 (44/99) Concepción
+2026-11-14 01:55:12 [caché] Concepción (vigente)
+2026-11-14 01:55:12 (45/99) Machalí
+2026-11-14 01:55:12 [caché] Machalí (vigente)
+2026-11-14 01:55:12 (46/99) Chiguayante
+2026-11-14 01:55:12 [caché] Chiguayante (vigente)
+2026-11-14 01:55:12 (47/99) Viña del Mar
+2026-11-14 01:55:12 [caché] Viña del Mar (vigente)
+2026-11-14 01:55:12 (48/99) Rancagua
+2026-11-14 01:55:12 [caché] Rancagua (vigente)
+2026-11-14 01:55:12 (49/99) San Pedro de la Paz
+2026-11-14 01:55:12 [caché] San Pedro de la Paz (vigente)
+2026-11-14 01:55:12 (50/99) Maule
+2026-11-14 01:55:12 [caché] Maule (vigente)
+2026-11-14 01:55:12 (51/99) Valparaíso
+2026-11-14 01:55:39 [ok] Valparaíso: 1734 elementos (3 duplicados eliminados), 317.3 km², 27s
+2026-11-14 01:55:44 (52/99) Puerto Varas
+2026-11-14 01:55:44 [caché] Puerto Varas (vigente)
+2026-11-14 01:55:44 (53/99) Temuco
+2026-11-14 01:55:44 [caché] Temuco (vigente)
+2026-11-14 01:55:44 (54/99) Chillán
+2026-11-14 01:55:44 [caché] Chillán (vigente)
+2026-11-14 01:55:44 (55/99) Villa Alemana
+2026-11-14 01:55:44 [caché] Villa Alemana (vigente)
+2026-11-14 01:55:44 (56/99) Talca
+2026-11-14 01:55:44 [caché] Talca (vigente)
+2026-11-14 01:55:44 (57/99) Coronel
+2026-11-14 01:55:44 [caché] Coronel (vigente)
+2026-11-14 01:55:44 (58/99) Iquique
+2026-11-14 01:55:44 [caché] Iquique (vigente)
+2026-11-14 01:55:44 (59/99) Quilpué
+2026-11-14 01:55:44 [caché] Quilpué (vigente)
+2026-11-14 01:55:44 (60/99) Talcahuano
+2026-11-14 01:55:44 [caché] Talcahuano (vigente)
+2026-11-14 01:55:44 (61/99) La Serena
+2026-11-14 01:55:44 [caché] La Serena (vigente)
+2026-11-14 01:55:44 (62/99) Hualpén
+2026-11-14 01:56:14 [ok] Hualpén: 830 elementos (0 duplicados eliminados), 53.9 km², 30s
+2026-11-14 01:56:19 (63/99) Puerto Montt
+2026-11-14 02:04:13 [ok] Puerto Montt: 2031 elementos (3 duplicados eliminados), 293.8 km² (zona urbana), 474s
+2026-11-14 02:04:18 (64/99) Lota
+2026-11-14 02:04:41 [ok] Lota: 123 elementos (0 duplicados eliminados), 115.8 km², 23s
+2026-11-14 02:04:46 (65/99) Tomé
+2026-11-14 02:05:08 [ok] Tomé: 252 elementos (1 duplicados eliminados), 495.8 km², 21s
+2026-11-14 02:05:13 (66/99) Alto Hospicio
+2026-11-14 02:12:52 [ok] Alto Hospicio: 349 elementos (2 duplicados eliminados), 569.2 km², 459s
+2026-11-14 02:12:57 (67/99) Coquimbo
+2026-11-14 02:15:20 [ok] Coquimbo: 1441 elementos (1 duplicados eliminados), 121.4 km² (zona urbana), 143s
+2026-11-14 02:15:25 (68/99) Penco
+2026-11-14 02:21:36 [ok] Penco: 455 elementos (3 duplicados eliminados), 108.0 km², 371s
+2026-11-14 02:21:41 (69/99) Padre Las Casas
+2026-11-14 02:22:10 [ok] Padre Las Casas: 598 elementos (0 duplicados eliminados), 464.7 km², 28s
+2026-11-14 02:22:15 (70/99) Chillán Viejo
+2026-11-14 02:22:49 [ok] Chillán Viejo: 373 elementos (0 duplicados eliminados), 263.7 km², 34s
+2026-11-14 02:22:54 (71/99) Punta Arenas
+2026-11-14 02:22:55 [ERROR] Punta Arenas: ValueError: Punta Arenas: área 35,653 km² (¿región/provincia?). Agregar una consulta en CONSULTA_ESPECIAL
+2026-11-14 02:22:55 (72/99) Rengo
+2026-11-14 02:23:29 [ok] Rengo: 493 elementos (1 duplicados eliminados), 584.5 km², 34s
+2026-11-14 02:23:34 (73/99) Coyhaique
+2026-11-14 02:23:56 [ok] Coyhaique: 371 elementos (1 duplicados eliminados), 300.2 km² (zona urbana), 22s
+2026-11-14 02:24:01 (74/99) Valdivia
+2026-11-14 02:26:14 [ok] Valdivia: 1553 elementos (3 duplicados eliminados), 292.6 km² (zona urbana), 133s
+2026-11-14 02:26:19 (75/99) La Calera
+2026-11-14 02:26:44 [ok] La Calera: 233 elementos (0 duplicados eliminados), 60.3 km², 25s
+2026-11-14 02:26:49 (76/99) Calama
+2026-11-14 02:27:27 [ok] Calama: 708 elementos (2 duplicados eliminados), 313.7 km² (zona urbana), 38s
+2026-11-14 02:27:32 (77/99) Curicó
+2026-11-14 02:27:53 [ok] Curicó: 870 elementos (3 duplicados eliminados), 192.8 km² (zona urbana), 21s
+2026-11-14 02:27:58 (78/99) Los Andes
+2026-11-14 02:30:17 [ok] Los Andes: 241 elementos (0 duplicados eliminados), 50.9 km² (zona urbana), 139s
+2026-11-14 02:30:22 (79/99) San Felipe
+2026-11-14 02:31:45 [ok] San Felipe: 219 elementos (3 duplicados eliminados), 182.2 km², 83s
+2026-11-14 02:31:50 (80/99) Antofagasta
+2026-11-14 02:32:20 [ok] Antofagasta: 1629 elementos (5 duplicados eliminados), 180.7 km² (zona urbana), 30s
+2026-11-14 02:32:25 (81/99) Copiapó
+2026-11-14 02:35:33 [ok] Copiapó: 794 elementos (3 duplicados eliminados), 308.1 km² (zona urbana), 189s
+2026-11-14 02:35:38 (82/99) Villarrica
+2026-11-14 02:38:38 [ok] Villarrica: 365 elementos (2 duplicados eliminados), 313.1 km² (zona urbana), 179s
+2026-11-14 02:38:43 (83/99) Linares
+2026-11-14 02:39:10 [ok] Linares: 679 elementos (0 duplicados eliminados), 221.1 km² (zona urbana), 27s
+2026-11-14 02:39:15 (84/99) Castro
+2026-11-14 02:39:37 [ok] Castro: 461 elementos (2 duplicados eliminados), 722.7 km², 22s
+2026-11-14 02:39:42 (85/99) San Fernando
+2026-11-14 02:40:06 [ok] San Fernando: 384 elementos (2 duplicados eliminados), 163.6 km² (zona urbana), 24s
+2026-11-14 02:40:11 (86/99) Osorno
+2026-11-14 02:40:34 [ok] Osorno: 910 elementos (1 duplicados eliminados), 286.1 km² (zona urbana), 23s
+2026-11-14 02:40:39 (87/99) San Antonio
+2026-11-14 02:44:45 [ok] San Antonio: 389 elementos (0 duplicados eliminados), 408.3 km², 246s
+2026-11-14 02:44:50 (88/99) San Carlos
+2026-11-14 02:47:10 [ok] San Carlos: 359 elementos (0 duplicados eliminados), 302.4 km² (zona urbana), 140s
+2026-11-14 02:47:15 (89/99) Constitución
+2026-11-14 02:47:46 [ok] Constitución: 274 elementos (2 duplicados eliminados), 194.4 km² (zona urbana), 31s
+2026-11-14 02:47:51 (90/99) Ovalle
+2026-11-14 02:48:22 [ok] Ovalle: 492 elementos (1 duplicados eliminados), 313.7 km² (zona urbana), 30s
+2026-11-14 02:48:27 (91/99) San Javier
+2026-11-14 02:48:56 [ok] San Javier: 258 elementos (1 duplicados eliminados), 178.9 km² (zona urbana), 30s
+2026-11-14 02:49:01 (92/99) Arica
+2026-11-14 02:53:24 [ok] Arica: 1095 elementos (3 duplicados eliminados), 177.1 km² (zona urbana), 262s
+2026-11-14 02:53:29 (93/99) Limache
+2026-11-14 02:54:00 [ok] Limache: 499 elementos (2 duplicados eliminados), 294.5 km², 32s
+2026-11-14 02:54:05 (94/99) Quillota
+2026-11-14 02:54:39 [ok] Quillota: 443 elementos (0 duplicados eliminados), 300.7 km², 34s
+2026-11-14 02:54:44 (95/99) Molina
+2026-11-14 02:55:17 [ok] Molina: 242 elementos (0 duplicados eliminados), 186.9 km² (zona urbana), 33s
+2026-11-14 02:55:22 (96/99) Los Ángeles
+2026-11-14 03:02:14 [ok] Los Ángeles: 908 elementos (1 duplicados eliminados), 313.7 km² (zona urbana), 412s
+2026-11-14 03:02:19 (97/99) Angol
+2026-11-14 03:08:05 [ok] Angol: 312 elementos (1 duplicados eliminados), 301.6 km² (zona urbana), 345s
+2026-11-14 03:08:10 (98/99) Vallenar
+2026-11-14 03:10:27 [ok] Vallenar: 205 elementos (2 duplicados eliminados), 313.7 km² (zona urbana), 138s
+2026-11-14 03:10:32 (99/99) San Vicente
+2026-11-14 03:10:36    [REVISAR] 'San Vicente' se geocodificó como 'San Vicente de Tagua Tagua, Provincia de Cachapoal, O'Higgins Region, 2970000, Chile'
+2026-11-14 03:10:54 [ok] San Vicente: 582 elementos (1 duplicados eliminados), 484.1 km², 21s
+2026-11-14 03:10:54 Tiempo total: 75.7 min
+2026-11-14 03:10:54 Comunas con error (volver a ejecutar esta celda o revisar CONSULTA_ESPECIAL / CENTRO_URBANO): ['Punta Arenas']
+2026-11-14 03:10:54 FIN: 95494 elementos en 98 comunas
