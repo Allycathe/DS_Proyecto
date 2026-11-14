@@ -276,3 +276,128 @@
 2026-11-13 21:07:24 (18/99) La Florida
 2026-11-13 21:07:53 [ok] La Florida: 2367 elementos (3 duplicados eliminados), 71.0 km², 29s
 2026-11-13 21:07:58 (19/99) Pudahuel
+2026-11-13 21:27:11 99 comunas: 18 con caché vigente, 81 por descargar
+2026-11-13 21:27:11    pendiente: Pudahuel (sin caché)
+2026-11-13 21:27:11    pendiente: Cerrillos (sin caché)
+2026-11-13 21:27:11    pendiente: Quinta Normal (sin caché)
+2026-11-13 21:27:11    pendiente: San Joaquín (sin caché)
+2026-11-13 21:27:11    pendiente: Peñaflor (sin caché)
+2026-11-13 21:27:11    pendiente: Quilicura (sin caché)
+2026-11-13 21:27:11    pendiente: Puente Alto (sin caché)
+2026-11-13 21:27:11    pendiente: Lampa (sin caché)
+2026-11-13 21:27:11    pendiente: Renca (sin caché)
+2026-11-13 21:27:11    pendiente: Buin (sin caché)
+2026-11-13 21:27:11    pendiente: San Bernardo (sin caché)
+2026-11-13 21:27:11    pendiente: Paine (sin caché)
+2026-11-13 21:27:11    pendiente: Conchalí (sin caché)
+2026-11-13 21:27:11    pendiente: Lo Prado (sin caché)
+2026-11-13 21:27:11    pendiente: Padre Hurtado (sin caché)
+2026-11-13 21:27:11    pendiente: Pedro Aguirre Cerda (sin caché)
+2026-11-13 21:27:11    pendiente: La Granja (sin caché)
+2026-11-13 21:27:11    pendiente: El Bosque (sin caché)
+2026-11-13 21:27:11    pendiente: La Pintana (sin caché)
+2026-11-13 21:27:11    pendiente: Melipilla (sin caché)
+2026-11-13 21:27:11    pendiente: Lo Espejo (sin caché)
+2026-11-13 21:27:11    pendiente: San Ramón (sin caché)
+2026-11-13 21:27:11    pendiente: Cerro Navia (sin caché)
+2026-11-13 21:27:11    pendiente: Talagante (sin caché)
+2026-11-13 21:27:11    pendiente: Concón (sin caché)
+2026-11-13 21:27:11    pendiente: Concepción (sin caché)
+2026-11-13 21:27:11    pendiente: Machalí (sin caché)
+2026-11-13 21:27:11    pendiente: Chiguayante (sin caché)
+2026-11-13 21:27:11    pendiente: Viña del Mar (sin caché)
+2026-11-13 21:27:11    pendiente: Rancagua (sin caché)
+2026-11-13 21:27:11    pendiente: San Pedro de la Paz (sin caché)
+2026-11-13 21:27:11    pendiente: Maule (sin caché)
+2026-11-13 21:27:11    pendiente: Valparaíso (sin caché)
+2026-11-13 21:27:11    pendiente: Puerto Varas (sin caché)
+2026-11-13 21:27:11    pendiente: Temuco (sin caché)
+2026-11-13 21:27:11    pendiente: Chillán (sin caché)
+2026-11-13 21:27:11    pendiente: Villa Alemana (sin caché)
+2026-11-13 21:27:11    pendiente: Talca (sin caché)
+2026-11-13 21:27:11    pendiente: Coronel (sin caché)
+2026-11-13 21:27:11    pendiente: Iquique (sin caché)
+2026-11-13 21:27:11    pendiente: Quilpué (sin caché)
+2026-11-13 21:27:11    pendiente: Talcahuano (sin caché)
+2026-11-13 21:27:11    pendiente: La Serena (sin caché)
+2026-11-13 21:27:11    pendiente: Hualpén (sin caché)
+2026-11-13 21:27:11    pendiente: Puerto Montt (sin caché)
+2026-11-13 21:27:11    pendiente: Lota (sin caché)
+2026-11-13 21:27:11    pendiente: Tomé (sin caché)
+2026-11-13 21:27:11    pendiente: Alto Hospicio (sin caché)
+2026-11-13 21:27:11    pendiente: Coquimbo (sin caché)
+2026-11-13 21:27:11    pendiente: Penco (sin caché)
+2026-11-13 21:27:11    pendiente: Padre Las Casas (sin caché)
+2026-11-13 21:27:11    pendiente: Chillán Viejo (sin caché)
+2026-11-13 21:27:11    pendiente: Punta Arenas (sin caché)
+2026-11-13 21:27:11    pendiente: Rengo (sin caché)
+2026-11-13 21:27:11    pendiente: Coyhaique (sin caché)
+2026-11-13 21:27:11    pendiente: Valdivia (sin caché)
+2026-11-13 21:27:11    pendiente: La Calera (sin caché)
+2026-11-13 21:27:11    pendiente: Calama (sin caché)
+2026-11-13 21:27:11    pendiente: Curicó (sin caché)
+2026-11-13 21:27:11    pendiente: Los Andes (sin caché)
+2026-11-13 21:27:11    pendiente: San Felipe (sin caché)
+2026-11-13 21:27:11    pendiente: Antofagasta (sin caché)
+2026-11-13 21:27:11    pendiente: Copiapó (sin caché)
+2026-11-13 21:27:11    pendiente: Villarrica (sin caché)
+2026-11-13 21:27:11    pendiente: Linares (sin caché)
+2026-11-13 21:27:11    pendiente: Castro (sin caché)
+2026-11-13 21:27:11    pendiente: San Fernando (sin caché)
+2026-11-13 21:27:11    pendiente: Osorno (sin caché)
+2026-11-13 21:27:11    pendiente: San Antonio (sin caché)
+2026-11-13 21:27:11    pendiente: San Carlos (sin caché)
+2026-11-13 21:27:11    pendiente: Constitución (sin caché)
+2026-11-13 21:27:11    pendiente: Ovalle (sin caché)
+2026-11-13 21:27:11    pendiente: San Javier (sin caché)
+2026-11-13 21:27:11    pendiente: Arica (sin caché)
+2026-11-13 21:27:11    pendiente: Limache (sin caché)
+2026-11-13 21:27:11    pendiente: Quillota (sin caché)
+2026-11-13 21:27:11    pendiente: Molina (sin caché)
+2026-11-13 21:27:11    pendiente: Los Ángeles (sin caché)
+2026-11-13 21:27:11    pendiente: Angol (sin caché)
+2026-11-13 21:27:11    pendiente: Vallenar (sin caché)
+2026-11-13 21:27:11    pendiente: San Vicente (sin caché)
+2026-11-13 21:27:11 (1/99) Las Condes
+2026-11-13 21:27:11 [caché] Las Condes (caché antigua sin firma; se asume la misma configuración)
+2026-11-13 21:27:11 (2/99) Vitacura
+2026-11-13 21:27:11 [caché] Vitacura (caché antigua sin firma; se asume la misma configuración)
+2026-11-13 21:27:11 (3/99) Providencia
+2026-11-13 21:27:11 [caché] Providencia (caché antigua sin firma; se asume la misma configuración)
+2026-11-13 21:27:11 (4/99) Ñuñoa
+2026-11-13 21:27:11 [caché] Ñuñoa (caché antigua sin firma; se asume la misma configuración)
+2026-11-13 21:27:11 (5/99) Lo Barnechea
+2026-11-13 21:27:11 [caché] Lo Barnechea (vigente)
+2026-11-13 21:27:11 (6/99) La Reina
+2026-11-13 21:27:11 [caché] La Reina (caché antigua sin firma; se asume la misma configuración)
+2026-11-13 21:27:11 (7/99) Santiago
+2026-11-13 21:27:11 [caché] Santiago (caché antigua sin firma; se asume la misma configuración)
+2026-11-13 21:27:11 (8/99) San Miguel
+2026-11-13 21:27:11 [caché] San Miguel (caché antigua sin firma; se asume la misma configuración)
+2026-11-13 21:27:12 (9/99) Huechuraba
+2026-11-13 21:27:12 [caché] Huechuraba (caché antigua sin firma; se asume la misma configuración)
+2026-11-13 21:27:12 (10/99) Colina
+2026-11-13 21:27:12 [caché] Colina (vigente)
+2026-11-13 21:27:12 (11/99) Maipú
+2026-11-13 21:27:12 [caché] Maipú (caché antigua sin firma; se asume la misma configuración)
+2026-11-13 21:27:12 (12/99) Peñalolén
+2026-11-13 21:27:12 [caché] Peñalolén (caché antigua sin firma; se asume la misma configuración)
+2026-11-13 21:27:12 (13/99) Independencia
+2026-11-13 21:27:12 [caché] Independencia (vigente)
+2026-11-13 21:27:12 (14/99) La Cisterna
+2026-11-13 21:27:12 [caché] La Cisterna (vigente)
+2026-11-13 21:27:12 (15/99) Recoleta
+2026-11-13 21:27:12 [caché] Recoleta (vigente)
+2026-11-13 21:27:12 (16/99) Estación Central
+2026-11-13 21:27:12 [caché] Estación Central (vigente)
+2026-11-13 21:27:12 (17/99) Macul
+2026-11-13 21:27:12 [caché] Macul (vigente)
+2026-11-13 21:27:12 (18/99) La Florida
+2026-11-13 21:27:12 [caché] La Florida (vigente)
+2026-11-13 21:27:12 (19/99) Pudahuel
+2026-11-13 21:34:16 [ok] Pudahuel: 1760 elementos (3 duplicados eliminados), 198.2 km², 424s
+2026-11-13 21:34:21 (20/99) Cerrillos
+2026-11-13 21:42:24 [ok] Cerrillos: 1054 elementos (2 duplicados eliminados), 16.9 km², 483s
+2026-11-13 21:42:29 (21/99) Quinta Normal
+2026-11-13 21:45:52 [ok] Quinta Normal: 1024 elementos (1 duplicados eliminados), 11.8 km², 203s
+2026-11-13 21:45:57 (22/99) San Joaquín
