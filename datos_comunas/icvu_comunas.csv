@@ -1,43 +1,100 @@
-comuna,nivel_2025,ICVU_nivel
-Las Condes,Alto,4
-Vitacura,Alto,4
-Providencia,Alto,4
-Ñuñoa,Alto,4
-Lo Barnechea,Alto,4
-La Reina,Alto,4
-Santiago,Alto,4
-San Miguel,Alto,4
-Huechuraba,Alto,4
-Colina,Medio alto,3
-Maipú,Medio alto,3
-Peñalolén,Medio alto,3
-Independencia,Medio alto,3
-La Cisterna,Medio alto,3
-Recoleta,Medio alto,3
-Estación Central,Medio alto,3
-Macul,Medio bajo,2
-La Florida,Medio bajo,2
-Pudahuel,Medio bajo,2
-Cerrillos,Medio bajo,2
-Quinta Normal,Medio bajo,2
-San Joaquín,Medio bajo,2
-Peñaflor,Medio bajo,2
-Quilicura,Medio bajo,2
-Puente Alto,Medio bajo,2
-Lampa,Medio bajo,2
-Renca,Medio bajo,2
-Buin,Medio bajo,2
-San Bernardo,Medio bajo,2
-Paine,Bajo,1
-Conchalí,Bajo,1
-Lo Prado,Bajo,1
-Padre Hurtado,Bajo,1
-Pedro Aguirre Cerda,Bajo,1
-La Granja,Bajo,1
-El Bosque,Bajo,1
-La Pintana,Bajo,1
-Melipilla,Bajo,1
-Lo Espejo,Bajo,1
-San Ramón,Bajo,1
-Cerro Navia,Bajo,1
-Talagante,Bajo,1
+comuna,region,tipologia,nivel_2015,nivel_2025,ICVU_nivel,ICVU_nivel_2015
+Las Condes,RM,Región Metropolitana,Alto,Alto,4,4
+Vitacura,RM,Región Metropolitana,Alto,Alto,4,4
+Providencia,RM,Región Metropolitana,Alto,Alto,4,4
+Ñuñoa,RM,Región Metropolitana,Alto,Alto,4,4
+Lo Barnechea,RM,Región Metropolitana,Alto,Alto,4,4
+La Reina,RM,Región Metropolitana,Alto,Alto,4,4
+Santiago,RM,Región Metropolitana,Alto,Alto,4,4
+San Miguel,RM,Región Metropolitana,Alto,Alto,4,4
+Huechuraba,RM,Región Metropolitana,Medio alto,Alto,4,3
+Colina,RM,Región Metropolitana,Medio alto,Medio alto,3,3
+Maipú,RM,Región Metropolitana,Medio alto,Medio alto,3,3
+Peñalolén,RM,Región Metropolitana,Medio bajo,Medio alto,3,2
+Independencia,RM,Región Metropolitana,Medio bajo,Medio alto,3,2
+La Cisterna,RM,Región Metropolitana,Medio bajo,Medio alto,3,2
+Recoleta,RM,Región Metropolitana,Medio bajo,Medio alto,3,2
+Estación Central,RM,Región Metropolitana,Medio bajo,Medio alto,3,2
+Macul,RM,Región Metropolitana,Medio bajo,Medio bajo,2,2
+La Florida,RM,Región Metropolitana,Medio bajo,Medio bajo,2,2
+Pudahuel,RM,Región Metropolitana,Medio bajo,Medio bajo,2,2
+Cerrillos,RM,Región Metropolitana,Medio bajo,Medio bajo,2,2
+Quinta Normal,RM,Región Metropolitana,Medio bajo,Medio bajo,2,2
+San Joaquín,RM,Región Metropolitana,Medio bajo,Medio bajo,2,2
+Peñaflor,RM,Región Metropolitana,Medio bajo,Medio bajo,2,2
+Quilicura,RM,Región Metropolitana,Medio bajo,Medio bajo,2,2
+Puente Alto,RM,Región Metropolitana,Medio bajo,Medio bajo,2,2
+Lampa,RM,Región Metropolitana,Medio bajo,Medio bajo,2,2
+Renca,RM,Región Metropolitana,Medio bajo,Medio bajo,2,2
+Buin,RM,Región Metropolitana,Medio alto,Medio bajo,2,3
+San Bernardo,RM,Región Metropolitana,Bajo,Medio bajo,2,1
+Paine,RM,Región Metropolitana,Bajo,Bajo,1,1
+Conchalí,RM,Región Metropolitana,Bajo,Bajo,1,1
+Lo Prado,RM,Región Metropolitana,Bajo,Bajo,1,1
+Padre Hurtado,RM,Región Metropolitana,Bajo,Bajo,1,1
+Pedro Aguirre Cerda,RM,Región Metropolitana,Bajo,Bajo,1,1
+La Granja,RM,Región Metropolitana,Bajo,Bajo,1,1
+El Bosque,RM,Región Metropolitana,Bajo,Bajo,1,1
+La Pintana,RM,Región Metropolitana,Bajo,Bajo,1,1
+Melipilla,RM,Región Metropolitana,Bajo,Bajo,1,1
+Lo Espejo,RM,Región Metropolitana,Bajo,Bajo,1,1
+San Ramón,RM,Región Metropolitana,Bajo,Bajo,1,1
+Cerro Navia,RM,Región Metropolitana,Bajo,Bajo,1,1
+Talagante,RM,Región Metropolitana,Medio bajo,Bajo,1,2
+Concón,V,Área metropolitana,Medio alto,Alto,4,3
+Concepción,VIII,Área metropolitana,Medio alto,Alto,4,3
+Machalí,VI,Área metropolitana,Alto,Alto,4,4
+Chiguayante,VIII,Área metropolitana,Medio bajo,Medio alto,3,2
+Viña del Mar,V,Área metropolitana,Medio alto,Medio alto,3,3
+Rancagua,VI,Área metropolitana,Medio alto,Medio alto,3,3
+San Pedro de la Paz,VIII,Área metropolitana,Alto,Medio alto,3,4
+Maule,VII,Área metropolitana,Bajo,Medio bajo,2,1
+Valparaíso,V,Área metropolitana,Bajo,Medio bajo,2,1
+Puerto Varas,X,Área metropolitana,Alto,Medio bajo,2,4
+Temuco,IX,Área metropolitana,Medio bajo,Medio bajo,2,2
+Chillán,XVI,Área metropolitana,Medio bajo,Medio bajo,2,2
+Villa Alemana,V,Área metropolitana,Medio bajo,Medio bajo,2,2
+Talca,VII,Área metropolitana,Medio bajo,Medio bajo,2,2
+Coronel,VIII,Área metropolitana,Medio bajo,Medio bajo,2,2
+Iquique,I,Área metropolitana,Medio bajo,Medio bajo,2,2
+Quilpué,V,Área metropolitana,Medio bajo,Medio bajo,2,2
+Talcahuano,VIII,Área metropolitana,Medio bajo,Medio bajo,2,2
+La Serena,IV,Área metropolitana,Medio bajo,Medio bajo,2,2
+Hualpén,VIII,Área metropolitana,Medio bajo,Medio bajo,2,2
+Puerto Montt,X,Área metropolitana,Bajo,Bajo,1,1
+Lota,VIII,Área metropolitana,Bajo,Bajo,1,1
+Tomé,VIII,Área metropolitana,Bajo,Bajo,1,1
+Alto Hospicio,I,Área metropolitana,Bajo,Bajo,1,1
+Coquimbo,IV,Área metropolitana,Medio bajo,Bajo,1,2
+Penco,VIII,Área metropolitana,Medio bajo,Bajo,1,2
+Padre Las Casas,IX,Área metropolitana,Medio bajo,Bajo,1,2
+Chillán Viejo,XVI,Área metropolitana,Medio alto,Bajo,1,3
+Punta Arenas,XII,Ciudad intermedia,Alto,Alto,4,4
+Rengo,VI,Ciudad intermedia,Bajo,Medio alto,3,1
+Coyhaique,XI,Ciudad intermedia,Bajo,Medio alto,3,1
+Valdivia,XIV,Ciudad intermedia,Medio alto,Medio alto,3,3
+La Calera,V,Ciudad intermedia,Medio bajo,Medio bajo,2,2
+Calama,II,Ciudad intermedia,Medio bajo,Medio bajo,2,2
+Curicó,VII,Ciudad intermedia,Medio bajo,Medio bajo,2,2
+Los Andes,V,Ciudad intermedia,Medio bajo,Medio bajo,2,2
+San Felipe,V,Ciudad intermedia,Medio bajo,Medio bajo,2,2
+Antofagasta,II,Ciudad intermedia,Medio alto,Medio bajo,2,3
+Copiapó,III,Ciudad intermedia,Medio alto,Medio bajo,2,3
+Villarrica,IX,Ciudad intermedia,Bajo,Bajo,1,1
+Linares,VII,Ciudad intermedia,Bajo,Bajo,1,1
+Castro,X,Ciudad intermedia,Bajo,Bajo,1,1
+San Fernando,VI,Ciudad intermedia,Bajo,Bajo,1,1
+Osorno,X,Ciudad intermedia,Bajo,Bajo,1,1
+San Antonio,V,Ciudad intermedia,Bajo,Bajo,1,1
+San Carlos,XVI,Ciudad intermedia,Bajo,Bajo,1,1
+Constitución,VII,Ciudad intermedia,Bajo,Bajo,1,1
+Ovalle,IV,Ciudad intermedia,Bajo,Bajo,1,1
+San Javier,VII,Ciudad intermedia,Bajo,Bajo,1,1
+Arica,XV,Ciudad intermedia,Medio bajo,Bajo,1,2
+Limache,V,Ciudad intermedia,Medio bajo,Bajo,1,2
+Quillota,V,Ciudad intermedia,Medio bajo,Bajo,1,2
+Molina,VII,Ciudad intermedia,Medio bajo,Bajo,1,2
+Los Ángeles,VIII,Ciudad intermedia,Medio bajo,Bajo,1,2
+Angol,IX,Ciudad intermedia,Medio bajo,Bajo,1,2
+Vallenar,III,Ciudad intermedia,Medio bajo,Bajo,1,2
+San Vicente,VI,Ciudad intermedia,Medio bajo,Bajo,1,2
